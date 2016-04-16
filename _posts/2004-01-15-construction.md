@@ -10,7 +10,7 @@ This page is in construction and the wording of various paragraph is not finishe
 
 You are welcome to contribute to this project, help us, or disagree with us,
 feel free to open an issue
-[on GitHub](https://github.com/python3pledge/python3pledge.github.io)
+[on GitHub](https://github.com/python3pledge/python3pledge.github.io).
 
 
 

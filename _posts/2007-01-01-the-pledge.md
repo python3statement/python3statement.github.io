@@ -1,7 +1,7 @@
 --- 
 Title: Python
-bg: '#ffdd55'
-color: '#777788'
+bg: '#fab125'
+color: black
 ---
 
 # In Progress
