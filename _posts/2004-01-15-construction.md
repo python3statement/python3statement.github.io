@@ -6,5 +6,11 @@ color: white
 
 # In Construction
 
-This page is in construction and the wording of various paragraph not finished, 
-please don't take offence in anything written here. We look forward to your contructive feedback
+This page is in construction and the wording of various paragraph is not finished.
+
+You are welcome to contribute to this project, help us, or disagree with us,
+feel free to open an issue
+[on GitHub](https://github.com/python3pledge/python3pledge.github.io)
+
+
+
