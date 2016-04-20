@@ -91,5 +91,68 @@ $(document).ready(function (){
         }
 	});
 
+  // DOM element where the Timeline will be attached
+  var container = document.getElementById('visualization');
+
+  var data = {
+    'cpython':[
+      {content:'Remaining Python 2.7 support', start: Date.now(), end: '2020-01-01'},
+    ],
+    'ipython':[
+      {content: 'ipython 5.x LTS', start: '2016-06-01', end:'2019-06-01', py2:true},
+      {content: 'ipython 6.x', start: '2017-01-01', end:'2018-01-01'},
+      {content: 'ipython 7.x', start: '2018-01-01', end:'2019-06-12'},
+      {content: 'ipython 8.x', start: '2019-06-12', end:'2020-06-01'},
+    ],
+    'matplotlib':[
+      {content: 'matplotlib 2.x', start: '2015-06-01', end:'2018-06-01', py2:true},
+      {content: 'matplotlib 3.x', start: '2018-6-12', end:'2019-12-01'},
+    ],
+    'scikit-bio':[
+      {content: '0.18', start: '2016-05-01', end:'2016-11-01', py2:true},
+      {content: '0.19', start: '2016-11-02', end:'2017-12-01'},
+    ]
+
+  
+  }
+
+  // Create a DataSet (allows two way data-binding)
+  var items = new vis.DataSet([
+  ]);
+
+
+
+  var groups = new vis.DataSet();
+  g=0;
+  i=0;
+  for (var gname  in data) {
+    g++;
+    groups.add({id: g, content: gname});
+    gr = data[gname];
+    for(var k in gr){
+      i++;
+      gr[k].id = i;
+      gr[k].group = g;
+      if(gr[k].py2) gr[k].className ='py2'
+      items.add(gr[k])
+    }
+  }
+
+  // Configuration for the Timeline
+  var options = {};
+
+  var options = {
+    groupOrder: 'group'  // groupOrder can be a property name or a sorting function
+  };
+
+  // Create a Timeline
+  var timeline = new vis.Timeline(container, items, options);
+  timeline.setGroups(groups);
+  timeline.setItems(items);
+  timeline.addCustomTime(Date.parse('2020-01-01'))
+  window.groups = groups;
+  window.items = items;
+  window.timeline = timeline;
+
 });
 

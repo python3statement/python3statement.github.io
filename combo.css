@@ -3,3 +3,17 @@
 {% include css/base.css %}
 {% include css/skeleton.css %}
 {% include css/main.css %}
+
+.vis-item.py2 {
+      background-color: greenyellow;
+      border-color: green;
+}
+
+    /* create a custom sized dot at the bottom of the red item */
+.vis-item.red {
+      background-color: red;
+      border-color: darkred;
+      color: white;
+      font-family: monospace;
+      box-shadow: 0 0 10px gray;
+}
