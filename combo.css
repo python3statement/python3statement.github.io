@@ -17,3 +17,7 @@
       font-family: monospace;
       box-shadow: 0 0 10px gray;
 }
+
+.center ul {
+    list-style: none;
+}
