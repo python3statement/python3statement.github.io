@@ -14,7 +14,14 @@ Modify the various files, refresh your browser and enjoy.
 
 PRs welcomed.
 
+# Add timeline informations
+
+See [site.js](site.js) around line 100. 
+
+
 # Base template:
 
 This is a based on version of
 [github.com/t413/SinglePaged](https://github.com/t413/SinglePaged)
+
+
