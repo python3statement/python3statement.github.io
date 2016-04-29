@@ -103,12 +103,18 @@ $(document).ready(function (){
   var data = {
     'cpython':[
       {content:'Remaining Python 2.7 support', start: Date.now(), end: '2020-01-01'},
+      {content:'Python 3.4', start: '2014-03-14', end: '2017-01-01'},
+      {content:'Python 3.5', start: '2015-09-13', end: '2018-01-01'},// there is no planned EOL for 3.4 and 3.5, invent for now.
     ],
     'IPython':[
+      {content: '1.x', start: '2013-08-08', end:'2014-03-31', py2:true},
+      {content: '2.x', start: '2014-04-01', end:'2015-02-26', py2:true},
+      {content: '3.x', start: '2015-02-27', end:'2015-08-10', py2:true},
+      {content: '4.x', start: '2015-08-11', end:'2016-05-31', py2:true},
       {content: 'IPython 5.x LTS', start: '2016-06-01', end:'2019-06-01', py2:true},
-      {content: 'IPython 6.x', start: '2017-01-01', end:'2018-01-01'},
-      {content: 'IPython 7.x', start: '2018-01-01', end:'2019-06-12'},
-      {content: 'IPython 8.x', start: '2019-06-12', end:'2020-06-01'},
+      {content: '6.x', start: '2017-01-01', end:'2018-01-01'},
+      {content: '7.x', start: '2018-01-01', end:'2019-06-12'},
+      {content: '8.x', start: '2019-06-12', end:'2020-06-01'},
     ],
     'matplotlib':[
       {content: 'matplotlib 2.x', start: '2015-06-01', end:'2018-06-01', py2:true},
