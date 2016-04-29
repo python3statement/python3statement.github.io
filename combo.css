@@ -4,12 +4,17 @@
 {% include css/skeleton.css %}
 {% include css/main.css %}
 
-.vis-item.py2 {
-      background-color: greenyellow;
-      border-color: green;
+div.vis-item {
+     background-color:#03acf6;
+     color: white;
 }
 
-    /* create a custom sized dot at the bottom of the red item */
+div.vis-item.py2 {
+      background-color: #3dbf18;
+      border-color: #3dbf18;
+}
+
+/* create a custom sized dot at the bottom of the red item */
 .vis-item.red {
       background-color: red;
       border-color: darkred;

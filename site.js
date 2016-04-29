@@ -102,9 +102,9 @@ $(document).ready(function (){
   // ]
   var data = {
     'cpython':[
-      {content:'Remaining Python 2.7 support', start: Date.now(), end: '2020-01-01'},
-      {content:'Python 3.4', start: '2014-03-14', end: '2017-01-01'},
-      {content:'Python 3.5', start: '2015-09-13', end: '2018-01-01'},// there is no planned EOL for 3.4 and 3.5, invent for now.
+      {content:'Remaining Python 2.7 support', start: Date.now(), end: '2020-01-01', py2:true},
+      {content:'Python 3.4', start: '2014-03-14', end: '2021-01-01'},
+      {content:'Python 3.5', start: '2015-09-13', end: '2022-01-01'},// there is no planned EOL for 3.4 and 3.5, invent for now.
     ],
     'IPython':[
       {content: '1.x', start: '2013-08-08', end:'2014-03-31', py2:true},
