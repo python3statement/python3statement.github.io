@@ -9,9 +9,15 @@ div.vis-item {
      color: white;
 }
 
+
 div.vis-item.py2 {
       background-color: #3dbf18;
       border-color: #3dbf18;
+}
+
+div.vis-item.vis-selected {
+  background-color: #e8aa2c;
+  border-color: #bf8a1e;
 }
 
 /* create a custom sized dot at the bottom of the red item */
@@ -25,4 +31,8 @@ div.vis-item.py2 {
 
 .center ul {
     list-style: none;
+}
+
+.vis-timeline {
+  text-align: left;
 }
