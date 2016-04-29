@@ -94,15 +94,21 @@ $(document).ready(function (){
   // DOM element where the Timeline will be attached
   var container = document.getElementById('visualization');
 
+  // add your project here with the following format
+  //
+  // '<groupname> : [
+  //    { content:'<text>', start: <date>, end: <date>, py2:<true|false>},
+  //    ...
+  // ]
   var data = {
     'cpython':[
       {content:'Remaining Python 2.7 support', start: Date.now(), end: '2020-01-01'},
     ],
-    'ipython':[
-      {content: 'ipython 5.x LTS', start: '2016-06-01', end:'2019-06-01', py2:true},
-      {content: 'ipython 6.x', start: '2017-01-01', end:'2018-01-01'},
-      {content: 'ipython 7.x', start: '2018-01-01', end:'2019-06-12'},
-      {content: 'ipython 8.x', start: '2019-06-12', end:'2020-06-01'},
+    'IPython':[
+      {content: 'IPython 5.x LTS', start: '2016-06-01', end:'2019-06-01', py2:true},
+      {content: 'IPython 6.x', start: '2017-01-01', end:'2018-01-01'},
+      {content: 'IPython 7.x', start: '2018-01-01', end:'2019-06-12'},
+      {content: 'IPython 8.x', start: '2019-06-12', end:'2020-06-01'},
     ],
     'matplotlib':[
       {content: 'matplotlib 2.x', start: '2015-06-01', end:'2018-06-01', py2:true},
@@ -123,8 +129,8 @@ $(document).ready(function (){
 
 
   var groups = new vis.DataSet();
-  g=0;
-  i=0;
+  var g=0;
+  var i=0;
   for (var gname  in data) {
     g++;
     groups.add({id: g, content: gname});
@@ -142,7 +148,7 @@ $(document).ready(function (){
   var options = {};
 
   var options = {
-    groupOrder: 'group'  // groupOrder can be a property name or a sorting function
+    groupOrder: 'group'  
   };
 
   // Create a Timeline
@@ -150,9 +156,6 @@ $(document).ready(function (){
   timeline.setGroups(groups);
   timeline.setItems(items);
   timeline.addCustomTime(Date.parse('2020-01-01'))
-  window.groups = groups;
-  window.items = items;
-  window.timeline = timeline;
 
 });
 
