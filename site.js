@@ -154,6 +154,7 @@ $(document).ready(function (){
   var options = {};
 
   var options = {
+    clickToUse: true,
     groupOrder: 'group'  
   };
 
