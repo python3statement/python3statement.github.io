@@ -6,7 +6,7 @@ color: black
 
 # In Progress
 
-## This is the current text of the pledge, it is not final and still in discussion.
+## This is the current text of the statement, it is not final and still in discussion.
 
 ## Your feedback is welcomed.
 
@@ -43,5 +43,3 @@ Python stack, please start planning to move to Python 3.
 
 For all of these reasons, the following projects have pledged to **drop support for Python 2.7 no later than 2020**,
 coinciding with the Python development team's [timeline for dropping support for Python 2.7](https://www.python.org/dev/peps/pep-0373/#update).
-
-
