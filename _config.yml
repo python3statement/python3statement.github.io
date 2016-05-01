@@ -14,10 +14,10 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Title: Edit me in _config.yml!"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "Python 3 support in scientific Python projects"
+keywords:    "Python 3, support, Jupyter, IPython, matplotlib"
+description: "Scientific Python projects will drop Python 2 support by 2020."
+source_link: "https://github.com/python3statement/python3statement.github.io"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
