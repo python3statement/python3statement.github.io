@@ -36,3 +36,8 @@ div.vis-item.vis-selected {
 .vis-timeline {
   text-align: left;
 }
+
+/* hardcode the calendar which is on a clear background to a darker gray that matches the font color.*/
+.fa-calendar {
+    color: #868686;
+}
