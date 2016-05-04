@@ -15,7 +15,7 @@ html { box-sizing: border-box; }
 {% endfor %}
 
 /* ----- per-post colors! ----- */
-{% for node in site.posts %}
+{% for node in site.sections %}
   {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
   {% capture bg %}{% if site.colors[node.bg] %}{{ site.colors[node.bg] }}{% else %}{{ node.bg }}{% endif %}{% endcapture %}
   {% capture fg %}{% if site.colors[node.color] %}{{ site.colors[node.color] }}{% else %}{{ node.color }}{% endif %}{% endcapture %}

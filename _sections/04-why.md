@@ -1,5 +1,5 @@
 ---
-Title: Why drop support for Python 2?
+title: why
 color: 'white'
 bg: '#49a7e9 '
 fa-icon: 'question'
