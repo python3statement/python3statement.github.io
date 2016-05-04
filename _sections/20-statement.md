@@ -1,4 +1,4 @@
---- 
+---
 title: statement
 bg: '#fab125'
 color: black

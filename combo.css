@@ -41,3 +41,9 @@ div.vis-item.vis-selected {
 .fa-calendar {
     color: #868686;
 }
+
+/* enable that if too long, but seem to have some rendering issues.*/
+/*.p-sections20-projects ul {
+    column-count: 3;
+    list-style: none;
+}*/
