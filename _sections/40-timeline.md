@@ -14,6 +14,6 @@ extended support.
 
 <div id="visualization"></div>
 
-Feel free to [send us a pull requests] that adds your project to this timeline. 
+See how to [add  your project to the list of participating project](https://github.com/python3statement/python3statement.github.io#add-your-project) and to [this timeline](https://github.com/python3statement/python3statement.github.io#add-timeline-informations)
 
 
