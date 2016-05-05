@@ -10,7 +10,5 @@ style: center
 
 - [IPython](https://ipython.org)
 - [Jupyter notebook](https://jupyter.org) 
-- [Scikit-Bio](https://scikit-bio.org/)
-- [matplotlib](https://matplotlib.org)
 
 

@@ -116,14 +116,15 @@ $(document).ready(function (){
       {content: '7.x', start: '2018-01-01', end:'2019-06-12'},
       {content: '8.x', start: '2019-06-12', end:'2020-06-01'},
     ],
-    'matplotlib':[
-      {content: 'matplotlib 2.x', start: '2015-06-01', end:'2018-06-01', py2:true},
-      {content: 'matplotlib 3.x', start: '2018-6-12', end:'2019-12-01'},
-    ],
-    'scikit-bio':[
-      {content: '0.18', start: '2016-05-01', end:'2016-11-01', py2:true},
-      {content: '0.19', start: '2016-11-02', end:'2017-12-01'},
-    ]
+    // for tests, rando example
+    //'matplotlib':[
+    //  {content: 'matplotlib 2.x', start: '2015-06-01', end:'2018-06-01', py2:true},
+    //  {content: 'matplotlib 3.x', start: '2018-6-12', end:'2019-12-01'},
+    //],
+    //'scikit-bio':[
+    //  {content: '0.18', start: '2016-05-01', end:'2016-11-01', py2:true},
+    //  {content: '0.19', start: '2016-11-02', end:'2017-12-01'},
+    //]
 
   
   }
