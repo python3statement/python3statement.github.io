@@ -101,10 +101,13 @@ $(document).ready(function (){
   //    ...
   // ]
   var data = {
-    'cpython':[
-      {content:'Remaining Python 2.7 support', start: Date.now(), end: '2020-01-01', py2:true},
-      {content:'Python 3.4', start: '2014-03-14', end: '2021-01-01'},
-      {content:'Python 3.5', start: '2015-09-13', end: '2022-01-01'},// there is no planned EOL for 3.4 and 3.5, invent for now.
+    'CPython':[
+      {content:'Python 2.7', start: '2010-07-03', end: '2020-01-01', py2:true},
+      // EOL for Python 3.3 - 3.6 not announced yet; project 5 years from initial release to follow CPython policy.
+      {content:'Python 3.3', start: '2012-09-29', end: '2017-09-29'},
+      {content:'Python 3.4', start: '2014-03-14', end: '2019-03-14'},
+      {content:'Python 3.5', start: '2015-09-13', end: '2020-09-13'},
+      {content:'Python 3.6 (scheduled)', start: '2016-12-16', end: '2021-12-16'},
     ],
     'IPython':[
       {content: '1.x', start: '2013-08-08', end:'2014-03-31', py2:true},
