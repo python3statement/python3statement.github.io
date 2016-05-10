@@ -10,7 +10,8 @@ style: center
 In the following chart, you can see many project that have decided to stop
 supporting Python 2 before 2020. The graph below is a guideline that show what
 version of each project support Python 2, or not, release timeline, and
-extended support. 
+extended support (Python's own timeline is available
+[here](https://docs.python.org/devguide/#status-of-python-branches)).
 
 <div id="visualization"></div>
 
