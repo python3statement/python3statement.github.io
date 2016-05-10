@@ -6,7 +6,7 @@ color: white
 style: center
 ---
 
-# Participating Project
+# Participating Projects
 
 - [IPython](https://ipython.org)
 - [Jupyter notebook](https://jupyter.org) 
