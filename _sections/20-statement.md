@@ -17,18 +17,19 @@ two versions of the language for several years. While we have developed tools
 and techniques to maintain compatibility efficiently, it is a small but
 constant friction in the development of a lot of code.
 
-We are keen to use Python 3, and we currently accept the cost of writing
-cross-compatible code to allow a smooth transition, but we don’t intend to
-maintain this indefinitely. Although the transition has not been as quick as we
-hoped, we do see it taking place, with more and more people using, teaching and
-recommending Python 3.
+We are keen to use Python 3 to its full potential, and we currently accept the
+cost of writing cross-compatible code to allow a smooth transition, but we
+don’t intend to maintain this compatibility indefinitely. Although the
+transition has not been as quick as we hoped, we do see it taking place, with
+more and more people using, teaching and recommending Python 3.
 
 The developers of the Python language extended support of Python 2.7 from 2015
 to 2020, recognising that many people were still using Python 2. We believe
-that the extra 5 years is sufficient, and our projects plan to stop supporting
-Python 2 when upstream support ends in 2020, if not before. We will then be
-able to simplify our code and take advantage of the many new features in the
-current version of the Python language and standard library.
+that the extra 5 years is sufficient to transition off of Python 2, and our
+projects plan to stop supporting Python 2 when upstream support ends in 2020,
+if not before. We will then be able to simplify our code and take advantage of
+the many new features in the current version of the Python language and
+standard library.
 
 In addition, significantly before 2020, some of our projects will step down
 Python 2.7 support to only fixing bugs, and make new feature releases which
