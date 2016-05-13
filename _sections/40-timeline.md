@@ -15,4 +15,4 @@ extended support. (Python's own timeline is available
 
 <div id="visualization"></div>
 
-See how to [add  your project to the list of participating project](https://github.com/python3statement/python3statement.github.io#add-your-project) and to [this timeline](https://github.com/python3statement/python3statement.github.io#add-timeline-informations)
+See how to [add  your project to the list of participating projects](https://github.com/python3statement/python3statement.github.io#add-your-project) and to [this timeline](https://github.com/python3statement/python3statement.github.io#add-timeline-information)
