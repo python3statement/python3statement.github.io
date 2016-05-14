@@ -47,3 +47,7 @@ div.vis-item.vis-selected {
     column-count: 3;
     list-style: none;
 }*/
+
+.subtlecircle .fa-stack-1x{
+    font-size: 80%;
+}
