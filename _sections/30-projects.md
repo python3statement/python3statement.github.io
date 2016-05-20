@@ -12,6 +12,7 @@ style: center
 - [Jupyter notebook](https://jupyter.org)
 - [Matplotlib](http://matplotlib.org/)
 - [scikit-bio](http://scikit-bio.org)
+- [PyStan](https://github.com/stan-dev/pystan)
 - [An Introduction to Applied Bioinformatics](http://readiab.org)
 - [QIIME](http://qiime.org)
 - [cual-id](https://github.com/johnchase/cual-id)
