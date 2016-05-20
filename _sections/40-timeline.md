@@ -15,4 +15,8 @@ extended support. (Python's own timeline is available
 
 <div id="visualization"></div>
 
+<div>
+    <p class=" py2">Compatible with Python 2 and Python 3.</p>
+    <p class="py3">Compatible with Python 3 only.</p>
+</div>
 See how to [add  your project to the list of participating projects](https://github.com/python3statement/python3statement.github.io#add-your-project) and to [this timeline](https://github.com/python3statement/python3statement.github.io#add-timeline-information)

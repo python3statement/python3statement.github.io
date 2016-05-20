@@ -4,15 +4,23 @@
 {% include css/skeleton.css %}
 {% include css/main.css %}
 
-div.vis-item {
+div.vis-item , p.py3{
      background-color:#03acf6;
      color: white;
 }
 
 
-div.vis-item.py2 {
+div.vis-item.py2, p.py2 {
       background-color: #3dbf18;
       border-color: #3dbf18;
+      color:white; 
+
+}
+
+p.py2:first-child, p.py3:first-child{
+    margin-top: 0px;
+    margin-bottom: 5px;
+
 }
 
 div.vis-item.vis-selected {
