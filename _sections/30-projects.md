@@ -10,6 +10,7 @@ style: center
 
 - [IPython](https://ipython.org)
 - [Jupyter notebook](https://jupyter.org)
+- [Matplotlib](http://matplotlib.org/)
 - [scikit-bio](http://scikit-bio.org)
 - [An Introduction to Applied Bioinformatics](http://readiab.org)
 - [QIIME](http://qiime.org)
