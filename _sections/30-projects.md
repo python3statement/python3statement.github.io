@@ -11,6 +11,7 @@ style: center
 - [IPython](https://ipython.org)
 - [Jupyter notebook](https://jupyter.org)
 - [Matplotlib](http://matplotlib.org/)
+- [SymPy](http://www.sympy.org/)
 - [scikit-bio](http://scikit-bio.org)
 - [PyStan](https://github.com/stan-dev/pystan)
 - [An Introduction to Applied Bioinformatics](http://readiab.org)
