@@ -16,3 +16,4 @@ code to use Python 3:
 - [Stop supporting Python 2.6 for free](http://www.curiousefficiency.org/posts/2015/04/stop-supporting-python26.html) (Nick Coghlan)
 - [Why Python 4.0 won't be like Python 3.0](http://www.curiousefficiency.org/posts/2014/08/python-4000.html) (Nick Coghlan)
 - [scikit-bio py3-only RFC](https://github.com/biocore/scikit-bio-rfcs/blob/master/accepted/002-py3-only.md)
+- [python clock](http://pythonclock.org/)
