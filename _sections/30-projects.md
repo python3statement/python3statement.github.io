@@ -16,4 +16,6 @@ style: center
 - [PyStan](https://github.com/stan-dev/pystan)
 - [An Introduction to Applied Bioinformatics](http://readiab.org)
 - [QIIME](http://qiime.org)
+- [gala](https://gala.readthedocs.io)
 - [cual-id](https://github.com/johnchase/cual-id)
+
