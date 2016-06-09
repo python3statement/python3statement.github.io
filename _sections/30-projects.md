@@ -17,3 +17,4 @@ style: center
 - [An Introduction to Applied Bioinformatics](http://readiab.org)
 - [QIIME](http://qiime.org)
 - [cual-id](https://github.com/johnchase/cual-id)
+- [gala](https://gala.readthedocs.io)
