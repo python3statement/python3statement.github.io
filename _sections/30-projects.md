@@ -12,11 +12,12 @@ style: center
 - [Jupyter notebook](https://jupyter.org)
 - [Matplotlib](http://matplotlib.org/)
 - [SymPy](http://www.sympy.org/)
+- [xonsh](https://xon.sh)
 - [scikit-bio](http://scikit-bio.org)
 - [PyStan](https://github.com/stan-dev/pystan)
 - [An Introduction to Applied Bioinformatics](http://readiab.org)
 - [QIIME](http://qiime.org)
 - [gala](https://gala.readthedocs.io)
 - [cual-id](https://github.com/johnchase/cual-id)
-- [xonsh](https://xon.sh)
+
 
