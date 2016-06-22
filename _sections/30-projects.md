@@ -18,4 +18,5 @@ style: center
 - [QIIME](http://qiime.org)
 - [gala](https://gala.readthedocs.io)
 - [cual-id](https://github.com/johnchase/cual-id)
+- [xonsh](https://xon.sh)
 

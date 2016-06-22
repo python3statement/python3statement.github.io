@@ -127,6 +127,9 @@ $(document).ready(function (){
       {content: '1.x', start: '2010-04-09', end: '2017-12-31', py2:true},
       {content: '2.x+', start: '2016-07-11', end: '2021-12-16'},
     ],
+    'Xonsh':[
+      {content: '0.x series – Python 3.4+', start: '2015-03-09', end: '2021-12-16'},
+    ],
     // for tests, rando example
     //'matplotlib':[
     //  {content: 'matplotlib 2.x', start: '2015-06-01', end:'2018-06-01', py2:true},
