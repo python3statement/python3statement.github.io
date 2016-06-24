@@ -119,6 +119,9 @@ $(document).ready(function (){
       {content: '7.x', start: '2018-01-01', end:'2019-06-12'},
       {content: '8.x', start: '2019-06-12', end:'2020-06-01'},
     ],
+    'Xonsh':[
+      {content: '0.x series – Python 3.4+', start: '2015-03-09', end: '2021-12-16'},
+    ],
     'scikit-bio':[
       {content: '0.1.1 - 0.4.2', start: '2014-05-16', end: '2016-05-30', py2:true},
       {content: '0.5.0+', start: '2016-05-31', end: '2021-12-16'},
@@ -126,9 +129,6 @@ $(document).ready(function (){
     'QIIME':[
       {content: '1.x', start: '2010-04-09', end: '2017-12-31', py2:true},
       {content: '2.x+', start: '2016-07-11', end: '2021-12-16'},
-    ],
-    'Xonsh':[
-      {content: '0.x series – Python 3.4+', start: '2015-03-09', end: '2021-12-16'},
     ],
     // for tests, rando example
     //'matplotlib':[
