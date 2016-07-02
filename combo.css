@@ -54,6 +54,10 @@ div.vis-item.vis-selected {
     font-size: 80%;
 }
 
+#sections30-projects ul:nth-child(2) a {
+    text-decoration: none;
+}
+
 
 #sections30-projects li {
     display: inline-block;
@@ -62,9 +66,24 @@ div.vis-item.vis-selected {
     font-size: 19px;
 }
 
-#sections30-projects li > img{
+
+#sections30-projects li a > img{
     margin: auto;
+    margin-bottom:10px;
     display: block;
-    max-width: 100px;
-    max-height: 100px;
+    max-height: 80px;
+    max-width: 160px;
+    vertical-align: middle;
+    filter: grayscale(90%);
+    -webkit-filter: grayscale(90%);
+    ransition: 250ms filter linear;
+    -webkit-transition : -webkit-filter 250ms linear
 }
+
+#sections30-projects li a > img:hover{
+    
+    filter: none;
+    -webkit-filter: none;
+}
+
+
