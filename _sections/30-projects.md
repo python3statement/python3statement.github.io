@@ -1,20 +1,23 @@
 ---
 title: Projects
-bg: '#9850ea'
+bg: '#7ec4ea'
 fa-icon: group
-color: white
+color: black
 style: center
 ---
 
 # Participating Projects
 
-- [IPython](https://ipython.org)
-- [Jupyter notebook](https://jupyter.org)
-- [Matplotlib](http://matplotlib.org/)
-- [SymPy](http://www.sympy.org/)
-- [xonsh](https://xon.sh)
-- [scikit-bio](http://scikit-bio.org)
-- [PyStan](https://github.com/stan-dev/pystan)
+- [![](assets/ipython.png)IPython](https://ipython.org)
+- [![](assets/jupyter.png)Jupyter notebook](https://jupyter.org)
+- [![](assets/matplotlib.png)Matplotlib](http://matplotlib.org/)
+- [![](assets/sympy.png)SymPy](http://www.sympy.org/)
+- [![](assets/xonsh.png)xonsh](http://xon.sh)
+- [![](assets/skbio.png)scikit-bio](http://scikit-bio.org)
+- [![](assets/pystan.png)PyStan](https://github.com/stan-dev/pystan)
+
+&nbsp; <!--break separating project with image from without -->
+
 - [An Introduction to Applied Bioinformatics](http://readiab.org)
 - [QIIME](http://qiime.org)
 - [gala](https://gala.readthedocs.io)

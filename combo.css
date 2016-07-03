@@ -50,12 +50,28 @@ div.vis-item.vis-selected {
     color: #868686;
 }
 
-/* enable that if too long, but seem to have some rendering issues.*/
-/*.p-sections20-projects ul {
-    column-count: 3;
-    list-style: none;
-}*/
-
 .subtlecircle .fa-stack-1x{
     font-size: 80%;
+}
+
+#sections30-projects ul:nth-child(2) a {
+    text-decoration: none;
+}
+
+
+#sections30-projects li {
+    display: inline-block;
+    margin: 10px;
+    padding: 20px;
+    font-size: 19px;
+}
+
+
+#sections30-projects li a > img{
+    margin: auto;
+    margin-bottom:10px;
+    display: block;
+    max-height: 80px;
+    max-width: 160px;
+    vertical-align: middle;
 }
