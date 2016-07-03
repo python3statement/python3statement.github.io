@@ -4,12 +4,9 @@ bg: '#fab125'
 color: black
 ---
 
-# In Progress
+# Python 3 Statement
 
-## This is the current text of the statement, it is not final and still in discussion.
-
-## Your feedback is welcomed.
-
+### This is the current text of the statement. It is not yet final, and your feedback is welcome.
 
 All of the major projects making up the Scientific Python stack now support
 both Python 3.x and Python 2.7, and many projects have been supporting these
