@@ -74,16 +74,4 @@ div.vis-item.vis-selected {
     max-height: 80px;
     max-width: 160px;
     vertical-align: middle;
-    filter: grayscale(90%);
-    -webkit-filter: grayscale(90%);
-    ransition: 250ms filter linear;
-    -webkit-transition : -webkit-filter 250ms linear
 }
-
-#sections30-projects li a > img:hover{
-    
-    filter: none;
-    -webkit-filter: none;
-}
-
-

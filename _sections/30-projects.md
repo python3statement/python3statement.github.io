@@ -12,12 +12,12 @@ style: center
 - [![](assets/jupyter.png)Jupyter notebook](https://jupyter.org)
 - [![](assets/matplotlib.png)Matplotlib](http://matplotlib.org/)
 - [![](assets/sympy.png)SymPy](http://www.sympy.org/)
+- [![](assets/xonsh.png)xonsh](http://xon.sh)
 - [![](assets/skbio.png)scikit-bio](http://scikit-bio.org)
 - [![](assets/pystan.png)PyStan](https://github.com/stan-dev/pystan)
 
 &nbsp; <!--break separating project with image from without -->
 
-- [xonsh](https://xon.sh)
 - [An Introduction to Applied Bioinformatics](http://readiab.org)
 - [QIIME](http://qiime.org)
 - [gala](https://gala.readthedocs.io)
