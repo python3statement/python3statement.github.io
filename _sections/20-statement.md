@@ -6,8 +6,6 @@ color: black
 
 # Python 3 Statement
 
-### This is the current text of the statement. It is not yet final, and your feedback is welcome.
-
 All of the major projects making up the Scientific Python stack now support
 both Python 3.x and Python 2.7, and many projects have been supporting these
 two versions of the language for several years. While we have developed tools
@@ -39,5 +37,7 @@ core principle of free and open source software that this is possible. However,
 if you enjoy the free, first party support for many projects in the Scientific
 Python stack, please start planning to move to Python 3.
 
-For all of these reasons, the following projects have pledged to **drop support for Python 2.7 no later than 2020**,
-coinciding with the Python development team's [timeline for dropping support for Python 2.7](https://www.python.org/dev/peps/pep-0373/#update).
+For all of these reasons, the following projects have pledged to **drop support
+for Python 2.7 no later than 2020**, coinciding with the Python development
+team's [timeline for dropping support for Python
+2.7](https://www.python.org/dev/peps/pep-0373/#update).
