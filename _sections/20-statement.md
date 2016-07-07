@@ -1,7 +1,7 @@
 ---
 title: statement
-bg: '#fab125'
-color: black
+bg: '#4da45e'
+color: white
 ---
 
 # Python 3 Statement
