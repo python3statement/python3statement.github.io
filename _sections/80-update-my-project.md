@@ -6,7 +6,7 @@ color: 'white'
 style: center
 ---
 
-# Update your project to be Python 3 only
+# Practicalities
 
 While most of the project that have signed up above are migrating to Python 3
 only code base, we are gathering information about the difficulties that can be
