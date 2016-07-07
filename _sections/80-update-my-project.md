@@ -1,5 +1,5 @@
 ---
-title: Update
+title: Practicalities
 fa-icon: arrow-circle-up
 bg: '#49a7e9'
 color: 'white'
