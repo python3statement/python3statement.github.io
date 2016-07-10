@@ -22,5 +22,6 @@ style: center
 - [QIIME](http://qiime.org)
 - [gala](https://gala.readthedocs.io)
 - [cual-id](https://github.com/johnchase/cual-id)
+- [Altair](https://github.com/ellisonbg/altair)
 
 
