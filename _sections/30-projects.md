@@ -15,6 +15,7 @@ style: center
 - [![](assets/xonsh.png)xonsh](http://xon.sh)
 - [![](assets/skbio.png)scikit-bio](http://scikit-bio.org)
 - [![](assets/pystan.png)PyStan](https://github.com/stan-dev/pystan)
+- [![](assets/sunpy.png)SunPy](http://sunpy.org)
 
 &nbsp; <!--break separating project with image from without -->
 
