@@ -130,6 +130,12 @@ $(document).ready(function (){
       {content: '1.x', start: '2010-04-09', end: '2017-12-31', py2:true},
       {content: '2.x+', start: '2016-07-11', end: '2021-12-16'},
     ],
+    'SunPy':[
+      {content: '0.7', start: '2016-05-24', end: '2017-06-01', py2:true},
+      {content: '0.8', start: '2016-12-01', end: '2017-12-01', py2:true},
+      {content: '0.9', start: '2017-06-01', end: '2018-06-01', py2:true},
+      {content: '0.10', start: '2017-12-01', end: '2018-12-01'},
+    ],
     // for tests, rando example
     //'matplotlib':[
     //  {content: 'matplotlib 2.x', start: '2015-06-01', end:'2018-06-01', py2:true},
