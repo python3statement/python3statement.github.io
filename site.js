@@ -139,6 +139,11 @@ $(document).ready(function (){
     'osBrain':[
       {content: '0.x', start: '2016-07-01', end: '2021-12-16'},
     ],
+    'PyMeasure':[
+      {content: '0.2', start: '2015-12-16', end: '2016-04-08'},
+      {content: '0.3', start: '2016-04-08', end: '2016-07-29'},
+      {content: '0.4', start: '2016-07-29', end: '2016-12-16'},
+    ],
     // for tests, rando example
     //'matplotlib':[
     //  {content: 'matplotlib 2.x', start: '2015-06-01', end:'2018-06-01', py2:true},

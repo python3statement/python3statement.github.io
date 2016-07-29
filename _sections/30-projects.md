@@ -17,6 +17,7 @@ style: center
 - [![](assets/skbio.png)scikit-bio](http://scikit-bio.org)
 - [![](assets/pystan.png)PyStan](https://github.com/stan-dev/pystan)
 - [![](assets/osbrain.png)osBrain](https://github.com/opensistemas-hub/osbrain)
+- [![](assets/pymeasure.png)PyMeasure](https://github.com/ralph-group/pymeasure)
 
 &nbsp; <!--break separating project with image from without -->
 
