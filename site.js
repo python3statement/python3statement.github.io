@@ -136,6 +136,18 @@ $(document).ready(function (){
       {content: '0.9', start: '2017-06-01', end: '2018-06-01', py2:true},
       {content: '0.10', start: '2017-12-01', end: '2018-12-01'},
     ],
+    'Astropy':[
+      {content: '1.0 LTS', start: '2015-02-19', end: '2017-06-01', py2:true},
+      {content: '1.1', start: '2015-12-11', end: '2016-06-23', py2:true},
+      {content: '1.2', start: '2016-06-23', end: '2016-12-16', py2:true},
+      {content: '1.3', start: '2016-12-16', end: '2017-06-01', py2:true},
+      {content: '2.0 LTS', start: '2017-06-01', end: '2019-12-31', py2:true},
+      {content: '3.0', start: '2017-12-01', end: '2018-06-01'},
+      {content: '3.1', start: '2018-06-01', end: '2018-12-01'},
+      {content: '3.2', start: '2018-12-01', end: '2019-06-01'},
+      {content: '3.3', start: '2019-06-01', end: '2019-12-01'},
+      {content: '4.0 LTS', start: '2019-12-01', end: '2021-12-01'},
+    ],
     'osBrain':[
       {content: '0.x', start: '2016-07-01', end: '2021-12-16'},
     ],

@@ -12,6 +12,7 @@ style: center
 - [![](assets/jupyter.png)Jupyter notebook](https://jupyter.org)
 - [![](assets/matplotlib.png)Matplotlib](http://matplotlib.org/)
 - [![](assets/sympy.png)SymPy](http://www.sympy.org/)
+- [![](assets/astropy.png)Astropy](http://www.astropy.org/)
 - [![](assets/sunpy.png)SunPy](http://sunpy.org)
 - [![](assets/xonsh.png)xonsh](http://xon.sh)
 - [![](assets/skbio.png)scikit-bio](http://scikit-bio.org)
