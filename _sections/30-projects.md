@@ -23,10 +23,10 @@ style: center
 &nbsp; <!--break separating project with image from without -->
 
 - [An Introduction to Applied Bioinformatics](http://readiab.org)
+- [music21](http://web.mit.edu/music21/)
 - [QIIME](http://qiime.org)
 - [Altair](https://github.com/ellisonbg/altair)
 - [gala](https://gala.readthedocs.io)
 - [cual-id](https://github.com/johnchase/cual-id)
-- [music21](https://web.mit.edu/music21/)
 
 
