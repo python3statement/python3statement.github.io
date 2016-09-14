@@ -27,5 +27,6 @@ style: center
 - [Altair](https://github.com/ellisonbg/altair)
 - [gala](https://gala.readthedocs.io)
 - [cual-id](https://github.com/johnchase/cual-id)
+- [music21](https://web.mit.edu/music21/)
 
 
