@@ -20,6 +20,7 @@ style: center
 - [![](assets/pystan.png)PyStan](https://github.com/stan-dev/pystan)
 - [![](assets/osbrain.png)osBrain](https://github.com/opensistemas-hub/osbrain)
 - [![](assets/pymeasure.png)PyMeasure](https://github.com/ralph-group/pymeasure)
+- [![](assets/axelrod.png)Axelrod](https://github.com/Axelrod-Python/Axelrod)
 
 &nbsp; <!--break separating project with image from without -->
 
