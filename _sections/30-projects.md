@@ -10,6 +10,7 @@ style: center
 
 - [![](assets/ipython.png)IPython](https://ipython.org)
 - [![](assets/jupyter.png)Jupyter notebook](https://jupyter.org)
+- [![](assets/pandas.png)pandas](http://pandas.pydata.org/)
 - [![](assets/matplotlib.png)Matplotlib](http://matplotlib.org/)
 - [![](assets/sympy.png)SymPy](http://www.sympy.org/)
 - [![](assets/astropy.png)Astropy](http://www.astropy.org/)
@@ -28,5 +29,3 @@ style: center
 - [Altair](https://github.com/ellisonbg/altair)
 - [gala](https://gala.readthedocs.io)
 - [cual-id](https://github.com/johnchase/cual-id)
-
-
