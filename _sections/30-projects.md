@@ -18,6 +18,7 @@ style: center
 - [![](assets/xonsh.png)xonsh](http://xon.sh)
 - [![](assets/skbio.png)scikit-bio](http://scikit-bio.org)
 - [![](assets/pystan.png)PyStan](https://github.com/stan-dev/pystan)
+- [![](assets/axelrod.png)Axelrod](https://github.com/Axelrod-Python/Axelrod)
 - [![](assets/osbrain.png)osBrain](https://github.com/opensistemas-hub/osbrain)
 - [![](assets/pymeasure.png)PyMeasure](https://github.com/ralph-group/pymeasure)
 
