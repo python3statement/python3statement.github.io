@@ -14,8 +14,8 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Python 3 support in scientific Python projects"
-keywords:    "Python 3, support, Jupyter, IPython, matplotlib"
+title:       "Sunsetting Python 2 support in scientific Python projects"
+keywords:    "Python 3, support, Jupyter, IPython, matplotlib, Python 2, Legacy Python"
 description: "Scientific Python projects will drop Python 2 support by 2020."
 source_link: "https://github.com/python3statement/python3statement.github.io"
 favicon:     #put a path like: "img/favicon.ico"
