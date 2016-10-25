@@ -8,6 +8,8 @@ style: center
 
 # Participating Projects
 
+These projects pledge to drop Python 2 support in or before 2020.
+
 - [![](assets/ipython.png)IPython](https://ipython.org)
 - [![](assets/jupyter.png)Jupyter notebook](https://jupyter.org)
 - [![](assets/pandas.png)pandas](http://pandas.pydata.org/)

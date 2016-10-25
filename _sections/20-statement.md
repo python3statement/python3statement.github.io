@@ -4,7 +4,7 @@ bg: '#4da45e'
 color: white
 ---
 
-# Python 3 Statement
+# Moving to require Python 3
 
 All of the major projects making up the Scientific Python stack now support
 both Python 3.x and Python 2.7, and many projects have been supporting these
