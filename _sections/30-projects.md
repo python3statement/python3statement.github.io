@@ -16,6 +16,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/matplotlib.png)Matplotlib](http://matplotlib.org/)
 - [![](assets/sympy.png)SymPy](http://www.sympy.org/)
 - [![](assets/astropy.png)Astropy](http://www.astropy.org/)
+- [![](assets/swcarpentry.png)Software Carpentry](https://software-carpentry.org)
 - [![](assets/sunpy.png)SunPy](http://sunpy.org)
 - [![](assets/xonsh.png)xonsh](http://xon.sh)
 - [![](assets/skbio.png)scikit-bio](http://scikit-bio.org)
@@ -23,7 +24,6 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/axelrod.png)Axelrod](https://github.com/Axelrod-Python/Axelrod)
 - [![](assets/osbrain.png)osBrain](https://github.com/opensistemas-hub/osbrain)
 - [![](assets/pymeasure.png)PyMeasure](https://github.com/ralph-group/pymeasure)
-- [![](assets/swcarpentry.png)Software Carpentry](https://software-carpentry.org)
 
 &nbsp; <!--break separating project with image from without -->
 
