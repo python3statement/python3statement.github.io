@@ -25,9 +25,11 @@ break, but they are more likely not to. Having a version off pip <9.0 can lead
 your system to try to upgrade to non-compatible versions of Python packages
 even if these are marked as non-compatible.
 
-Make as many other _users_ as possible to install pip >=9.0, for the
+Help as many other _users_ as possible to install pip >=9.0, for the
 transition, it is the slowest part of the ecosystem to update, and is the only
-piece that concern all all installations.
+piece that concerns all installations:
+
+    pip install --upgrade setuptools pip
 
 ## Setuptools
 
@@ -38,8 +40,9 @@ might fail, even on Python 2.
 ## Local package index
 
 If you are using a custom local package index, for example if you are working
-at a company with private packages, make sure it implement correctly pep-503
-and let pip knows about the `python_requires` field.
+at a company with private packages, make sure it implement correctly
+[pep-503](https://www.python.org/dev/peps/pep-0503/) and let pip knows about
+the `python_requires` field.
 
 ## The state of PyPI
 
@@ -96,7 +99,7 @@ else:
 
 - Add an error early at import at runtime with a clear error message, leave the
   early import compatible Python 2 for users to not be welcomed with a useless `SyntaxError`.
-  You are _allowed_ to use multiline strings in error messages.
+  You are _allowed_ to use multi-line strings in error messages.
 
 
 ```
@@ -113,7 +116,7 @@ bummer sorry about that it should not have happen. Make sure you have pip >=
 
  $ pip install pip --upgrade
 
-Use the followign to check pip version
+Use the following to check pip version
 
 You have various choices:
 
@@ -142,7 +145,7 @@ This  this page for more information : url to here for example.
 
 
 
-# Recommende Mitigations
+# Recommended Mitigations
 
 Of course regardless of all the care you will take for your library to no break
 and to install only on python 2, you will likely have cases where it still end
@@ -159,10 +162,10 @@ the all update process broken.
   dependencies depending on the version of Python.
 
 
-# Non recommended mitigation
+# Alternative mitigation
 
 This is a collection of "mitigation" or "solutions" you will find on the web
-and that you will hear about. This is an attempt to acknowlege them, and
+and that you will hear about. This is an attempt to acknowledge them, and
 explain why they can't work and what are their drawbacks before you attempt to
 implement them.
 
@@ -170,10 +173,9 @@ implement them.
 
 
 
-
 # Why all that ?
 
-You might wonder why all thi, it's 2016 already, so how come all these issues ?
+You might wonder why all this, it's 2016 already, so how come all these issues ?
 Python 3 has been out for 8+ years now !
 
 Well there are many reasons to this, 
