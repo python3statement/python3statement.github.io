@@ -33,3 +33,4 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [Altair](https://github.com/ellisonbg/altair)
 - [gala](https://gala.readthedocs.io)
 - [cual-id](https://github.com/johnchase/cual-id)
+- [CIS](https://github.com/cedadev/cis)
