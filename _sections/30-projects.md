@@ -24,6 +24,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/axelrod.png)Axelrod](https://github.com/Axelrod-Python/Axelrod)
 - [![](assets/osbrain.png)osBrain](https://github.com/opensistemas-hub/osbrain)
 - [![](assets/pymeasure.png)PyMeasure](https://github.com/ralph-group/pymeasure)
+- [![](assets/rpy2_logo_64x64.png)rpy2](https://rpy2.bitbucket.io)
 
 &nbsp; <!--break separating project with image from without -->
 
