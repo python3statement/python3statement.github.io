@@ -156,6 +156,10 @@ $(document).ready(function (){
       {content: '0.3', start: '2016-04-08', end: '2016-07-29'},
       {content: '0.4', start: '2016-07-29', end: '2016-12-16'},
     ],
+    'rpy2':[
+      {content: '2.8.x', start: '2016-12-21', end:'2018-12-21', py2:true},
+      {content: '2.9.x', start: '2017-07-14', end:'2018-07-14'},
+    ],
     // for tests, rando example
     //'matplotlib':[
     //  {content: 'matplotlib 2.x', start: '2015-06-01', end:'2018-06-01', py2:true},
