@@ -154,7 +154,7 @@ $(document).ready(function (){
     'PyMeasure':[
       {content: '0.2', start: '2015-12-16', end: '2016-04-08'},
       {content: '0.3', start: '2016-04-08', end: '2016-07-29'},
-      {content: '0.4', start: '2016-07-29', end: '2016-12-16'},
+      {content: '0.4', start: '2016-07-29', end: '2017-07-29'},
     ],
     'rpy2':[
       {content: '2.8.x', start: '2016-12-21', end:'2018-12-21', py2:true},
