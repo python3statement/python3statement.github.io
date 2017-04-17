@@ -19,9 +19,17 @@
 <body>
   <div id="main">
     
+    <nav><ul>
+      {% for node in site.sections %}
+        {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
+        <li class="p-{{id}}"><a href="../#{{id}}">{{node.title}}</a></li>
+      {% endfor %}
+    </ul></nav>
+  
 
     {% for page in site.practicalities %}
-        <div class="section">
+        {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
+        <div id="{{id}}" class="section p-{{id}}">
 
         <div class="container {{ page.style }}">
           {{ page.content }}

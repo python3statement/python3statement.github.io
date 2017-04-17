@@ -1,16 +1,22 @@
 ---
+bg: '#4da45e'
+color: white
+title: practicalities
+fa-icon: pencil
+id: bar
 ---
 
-Add note here to explain that this does _not_ prevent _nor_ discourage library
-author to release 2 version of their software one Python 3 only and the other
-python 2.
+We do not discourage authors to release software on Python 2. While this guide
+is mostly written with the assumption that software are going to stop Python 2
+support, it does perfectly apply to a package that wish to not support Python 3,
+or is stopping support for any minor version. 
 
 
 This page gather information and links to resources allowing to release a
 library that stop supporting an older version of Python without causing too
 much disruption for users who haven't upgraded to this new version.
 
-Wether you are a user, or a developer, being aware of the issue listed here, at
+Whether you are a user, or a developer, being aware of the issue listed here, at
 least the main points should ease lots of the pain.
 
 # Too long, did not read:
@@ -20,6 +26,7 @@ least the main points should ease lots of the pain.
  - As maintainer use `setup(..., python_requires='>=3.4')` new option.
  - do use `pip install [-e] .` and do **not** invoke `setup.py` directly.
  - **Fail** early at **install time** if on Python 2.
+ - We are giving a talk at PyCon 2017 (likely recorded), add link here. 
 
 ## The problem
 
