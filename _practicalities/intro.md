@@ -36,15 +36,15 @@ system will not try to upgrade said library.
 
 With the recent changes in Python packaging this is now possible.
 
-As an example let's look at the example of the `fictious` library.
+As an example let's look at the example of the `fictitious` library.
 
-- `fictious` 1.1, 1.2, 1.3, 1.4 are compatible Python 2.7 and 3.3+
-- `fictious` 2.0 has been released and is python 3.4+ only.
+- `fictitious` 1.1, 1.2, 1.3, 1.4 are compatible Python 2.7 and 3.3+
+- `fictitious` 2.0 has been released and is python 3.4+ only.
 
 As a Python 2.7 user, if I don't pay attention, or if the library is not
 correctly tagged, if I issue the following:
 
-    $ python -c 'import fictious; print(fictious.__version__)'
+    $ python -c 'import fictitious; print(fictitious.__version__)'
     1.3.2
     $ pip install fiction --upgrade
 
@@ -96,10 +96,8 @@ If you are on a system  for which no wheel is available, pip will try to
 install a source distribution (aka `sdist`).
 
 Installing an `sdist` will require setuptools make sure you have setuptools
-`>=24.2.0` (mnemonic: 2-42, [why
-42](https://en.wikipedia.org/wiki/The_answer_to_life_the_universe_and_everything)
-?) or building Python 3 only libraries is likely to fail. In particular if
-library authors have taken time to mark their library as Python 3 only, the
+`>=24.2.0` or building Python 3 only libraries is likely to fail. In particular
+if library authors have taken time to mark their library as Python 3 only, the
 `python_requires` argument to `setup()` may not be recognized and installation
 will fail.
 
@@ -131,9 +129,6 @@ deployed yet but should hopefully be deployed soon.
 PyPI](https://github.com/pypa/legacy-pypi) have received various patches to
 insure they support this new functionality.
 
-You can publish a package with the `requires_python` metadata **now**, it will
-be correctly exposed once pypi is deployed.
-
 # Preparing your library
 
 
@@ -163,16 +158,16 @@ setup(
 )
 ```
 
-Changes `>=3.3` accordingly depending on what version your library decides to
+Change `>=3.3` accordingly depending on what version your library decides to
 support. In particular you can use `>=2.6` or `>=3.5` ! Note that this also
-support the _compable with_ syntax: `~=2.5` (meaning, `>=2.5` and `<3`.
+support the _compable with_ syntax: `~=2.5` (meaning, `>=2.5` and `<3`).
 
 This will make [PyPI aware](https://github.com/pypa/warehouse/pull/1448) that
 your package is Python 3.3+ only, and [allow
 pip](https://github.com/pypa/pip/pull/3877) to be [made aware of
 this](https://github.com/pypa/pypi-legacy/pull/506).
 
-Thus as long as your user have a recent enough version of pip, and setuptools
+Thus as long as your user have recent enough versions of pip and setuptools
 they will get the right version of your library.
 
 # Unit Testing and documentation
@@ -212,7 +207,7 @@ the LTS branch).
 
 Add an error early at import at runtime with a clear error message, leave the
 early import compatible Python 2 for users to not be welcomed with a useless
-`SyntaxError`. You are _allowed_ to use multi-line strings in error messages.
+`SyntaxError`. Don't hesitate to use multi-line strings in error messages.
 
 Error at import time _will_ happen on system with old version of pip and
 setuptools. Keep in mind that saying the package is Python 3 only is not a lot
@@ -229,7 +224,7 @@ if sys.version_info < (3,):
 
 Unfortunately Frobulator 6.0 and above are not compatible with Python 2
 anymore, and you still ended up with this version installed on your system.
-That's a bummer. Sorry about that. It should not have happen. Make sure you
+That's a bummer. Sorry about that. It should not have happened. Make sure you
 have pip >= 9.0 to avoid this kind of issues, as well as setuptools >= 24.2:
 
  $ pip install pip setuptools --upgrade
@@ -267,17 +262,6 @@ The regular expression to check for validity of pep440 can be find below:
 
   `^([1-9]\\d*!)?(0|[1-9]\\d*)(\\.(0|[1-9]\\d*))*((a|b|rc)(0|[1-9]\\d*))?(\\.post(0|[1-9]\\d*))?(\\.dev(0|[1-9]\\d*))?`
 
-## Depend on setuptools
-
-You can mark your library as dependent on setuptools greater than 24.3 starting
-now, this will insure that during the next upgrade (when the packages drop
-python 2 support) will have the right version of setuptools.
-
-Of course regardless of all the care you will take for your library to no break
-and to install only on python 2, you will likely have cases where it still end
-up being installed on incompatible versions of Python. Simply because users
-upgrades rarely and only an old version of pip or setuptools is enough to make
-the all update process broken.
 
 ## fail early in setup.py
 
@@ -285,7 +269,7 @@ Leave `setup.py` python 2 compatible and fail early. If you detect Python 2
 raise a clear error message and ask user to make sure they have pip >9.0 (or
 migrate to Python 3). You can (try to) conditionally import pip and check for
 its version but this might not be the same pip. Failing early is important to
-make sure the Python installation does not install and incompatible version.
+make sure the Python installation does not install an incompatible version.
 Otherwise user code can fail at runtime arbitrary later in the future, which can
 be a difficult to debug and fix. Get inspiration from the message of failure at
 runtime, and adapt for installation time.
@@ -295,7 +279,7 @@ runtime, and adapt for installation time.
 If you control dependant packages, Make sure to include conditional dependencies
 depending on the version of Python.
 
-# Incorrect mitigations
+# Non recommended mitigations
 
 This is a collection of "mitigation" or "solutions" you will find on the web
 and that you will hear about. This is an attempt to acknowledge them, and
@@ -312,6 +296,22 @@ this approach is _doable_ this can make imports confusing.
 
 Moreover, upgrading your package may need the user to explicitly tell pip to
 upgrade dependencies as `pip install -U frob` will only upgrade the meta-package.
+
+## Depend on setuptools
+
+You can mark your library as dependent on setuptools greater than 24.3 this
+will insure that during the next upgrade (when the packages drop python 2
+support) will have the right version of setuptools.
+
+Of course regardless of all the care you will take for your library to no break
+and to install only on python 2, you will likely have cases where it still end
+up being installed on incompatible versions of Python. Simply because users
+upgrades rarely and only an old version of pip or setuptools is enough to make
+the all update process broken.
+
+Plus setuptools is rarely an actual dependency of your project but a
+requirement to build wheels.
+
 
 ### Multiple Sdist.
 
@@ -341,11 +341,11 @@ can also apply to libraries that are only stopping support for 2.6, or even are
 already Python 3 only, but are starting to stop support for earlier versions of
 Python. For example a library releasing a Python 3.4+ only version.
 
-Python 3.3 was release end of 2012, and was the first version to support
-(again) `u` as a prefix for Unicode string. It was one of the first minor
-version of Python 3 that saw a majority of single-source project working both
-on Python 2 and Python 3. These are the Project that will likely be affected by
-this issue.
+Python 3.3 was release at the end of end of 2012, and was the first version to
+support (again) `u` as a prefix for Unicode string. It was one of the first
+minor version of Python 3 that saw a majority of single-source project working
+both on Python 2 and Python 3. These are the Project that will likely be
+affected by this issue.
 
 The introduction of Python 3 was chaotic, there are still strong argument both
 in Python 2 and Python 3 camps. In the one suffering the most from this are
