@@ -294,9 +294,6 @@ For example, Frob-6.0 could be a meta-package which depends on
 Frob-real-py2 on Python <3.0, and Frob-real-py3 on Python >= 3.4. While
 this approach is _doable_ this can make imports confusing.
 
-Moreover, upgrading your package may need the user to explicitly tell pip to
-upgrade dependencies as `pip install -U frob` will only upgrade the meta-package.
-
 ## Depend on setuptools
 
 You can mark your library as dependent on setuptools greater than 24.3 this
@@ -341,7 +338,7 @@ can also apply to libraries that are only stopping support for 2.6, or even are
 already Python 3 only, but are starting to stop support for earlier versions of
 Python. For example a library releasing a Python 3.4+ only version.
 
-Python 3.3 was release at the end of end of 2012, and was the first version to
+Python 3.3 was release at the end of 2012, and was the first version to
 support (again) `u` as a prefix for Unicode string. It was one of the first
 minor version of Python 3 that saw a majority of single-source project working
 both on Python 2 and Python 3. These are the Project that will likely be
