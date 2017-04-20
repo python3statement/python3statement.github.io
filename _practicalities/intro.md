@@ -122,9 +122,6 @@ version specifier.
 
 ## The state of PyPI
 
-Note that at the time of this writing the patches to `pypi.python.org` are not
-deployed yet but should hopefully be deployed soon.
-
 [Warehouse](https://github.com/pypi/warehouse) and [Legacy
 PyPI](https://github.com/pypa/legacy-pypi) have received various patches to
 insure they support this new functionality.
