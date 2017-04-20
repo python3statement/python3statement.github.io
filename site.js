@@ -115,7 +115,7 @@ $(document).ready(function (){
       {content: '3.x', start: '2015-02-27', end:'2015-08-10', py2:true},
       {content: '4.x', start: '2015-08-11', end:'2016-07-07', py2:true},
       {content: 'IPython 5.x LTS', start: '2016-07-08', end:'2019-06-01', py2:true},
-      {content: '6.x', start: '2017-01-01', end:'2018-01-01'},
+      {content: '6.x', start: '2017-04-19', end:'2018-01-01'},
       {content: '7.x', start: '2018-01-01', end:'2019-06-12'},
       {content: '8.x', start: '2019-06-12', end:'2020-06-01'},
     ],
