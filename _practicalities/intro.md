@@ -46,7 +46,7 @@ correctly tagged, if I issue the following:
 
     $ python -c 'import fictitious; print(fictitious.__version__)'
     1.3.2
-    $ pip install fiction --upgrade
+    $ pip install fictitious --upgrade
 
 Either my system will install 2.0, which will not work, on the worst case
 scenario, or fail to install, in which case I will not get the critical 1.4
@@ -62,7 +62,7 @@ not to break for Python 2 users. Python is a community regardless of which
 python version you have to (or decided to) run, making sure that everything
 works make the community strong.
 
-Make sure you have Pip >= 9.0, this is especially important if you have Python
+Make sure you have Pip ≥ 9.0, this is especially important if you have Python
 2 installations. Having pip 9.0+ is not a guaranty to flawless upgrade. But pip
 9.0+ does have a number of safety check not available on previous versions.
 
@@ -70,7 +70,7 @@ Having a version of pip < 9.0 can lead your system to try to upgrade to
 non-compatible versions of Python packages even if these are marked as
 non-compatible.
 
-Help as many other _users_ as possible to install pip >=9.0, for the
+Help as many other _users_ as possible to install pip ≥ 9.0, for the
 transition, it is the slowest part of the ecosystem to update, and is the only
 piece that requires action of all Python users.
 
@@ -83,8 +83,8 @@ This will install the latest version of pip and setuptools.
 
 You can issue the following to see the version of pip:
 
-   $ pip --version
-   9.0.0
+    $ pip --version
+    9.0.0
 
 All good.
 
@@ -96,14 +96,14 @@ If you are on a system  for which no wheel is available, pip will try to
 install a source distribution (aka `sdist`).
 
 Installing an `sdist` will require setuptools make sure you have setuptools
-`>=24.2.0` or building Python 3 only libraries is likely to fail. In particular
+≥ 24.2.0 or building Python 3 only libraries is likely to fail. In particular
 if library authors have taken time to mark their library as Python 3 only, the
 `python_requires` argument to `setup()` may not be recognized and installation
 will fail.
 
 Use the following to check setuptools version :
 
-    $ python -c 'import setuptools; print(setuptools.__version__)
+    $ python -c 'import setuptools; print(setuptools.__version__)'
     24.2.0
 
 Again make sure to upgrade pip and setuptools to make sure you have an up to
@@ -157,7 +157,7 @@ setup(
 
 Change `>=3.3` accordingly depending on what version your library decides to
 support. In particular you can use `>=2.6` or `>=3.5` ! Note that this also
-support the _compable with_ syntax: `~=2.5` (meaning, `>=2.5` and `<3`).
+support the _compatible with_ syntax: `~=2.5` (meaning, `>=2.5` and `<3`).
 
 This will make [PyPI aware](https://github.com/pypa/warehouse/pull/1448) that
 your package is Python 3.3+ only, and [allow
@@ -172,7 +172,7 @@ they will get the right version of your library.
 It is recommended **not** to invoke `setup.py` directly either with `install` or
 `develop` subcommands. These may not correctly resolve dependencies, and can
 install incompatible versions of dependencies. Please recommend and use `pip
-install . `  and `pip install -e .` for regular and developer install.
+install .`  and `pip install -e .` for regular and developer install.
 
 Check in scripts, and documentation that the correct installation command is
 used. 
@@ -184,8 +184,7 @@ user early enough _and_ providing useful error messages.
 
 ## Runtime warning on master
 
-Add a warning at _runtime_ early on master (before switching to Python 3
-  only)
+Add a warning at _runtime_ early on master (before switching to Python 3 only)
 
 ```
 import warnings
@@ -222,7 +221,7 @@ if sys.version_info < (3,):
 Unfortunately Frobulator 6.0 and above are not compatible with Python 2
 anymore, and you still ended up with this version installed on your system.
 That's a bummer. Sorry about that. It should not have happened. Make sure you
-have pip >= 9.0 to avoid this kind of issues, as well as setuptools >= 24.2:
+have pip ≥ 9.0 to avoid this kind of issues, as well as setuptools ≥ 24.2:
 
  $ pip install pip setuptools --upgrade
 
@@ -257,13 +256,19 @@ of setuptools.
 
 The regular expression to check for validity of pep440 can be find below:
 
-  `^([1-9]\\d*!)?(0|[1-9]\\d*)(\\.(0|[1-9]\\d*))*((a|b|rc)(0|[1-9]\\d*))?(\\.post(0|[1-9]\\d*))?(\\.dev(0|[1-9]\\d*))?`
+    ^
+    ([1-9]\\d*!)?
+    (0|[1-9]\\d*)
+    (\\.(0|[1-9]\\d*))*
+    ((a|b|rc)(0|[1-9]\\d*))?
+    (\\.post(0|[1-9]\\d*))?
+    (\\.dev(0|[1-9]\\d*))?
 
 
 ## fail early in setup.py
 
 Leave `setup.py` python 2 compatible and fail early. If you detect Python 2
-raise a clear error message and ask user to make sure they have pip >9.0 (or
+raise a clear error message and ask user to make sure they have pip > 9.0 (or
 migrate to Python 3). You can (try to) conditionally import pip and check for
 its version but this might not be the same pip. Failing early is important to
 make sure the Python installation does not install an incompatible version.
@@ -288,7 +293,7 @@ implement them.
 It is possible to release a meta-package that has _virtually_ no code and rely
 on conditional dependency to install its actual core code on the user system.
 For example, Frob-6.0 could be a meta-package which depends on
-Frob-real-py2 on Python <3.0, and Frob-real-py3 on Python >= 3.4. While
+Frob-real-py2 on Python < 3.0, and Frob-real-py3 on Python ≥ 3.4. While
 this approach is _doable_ this can make imports confusing.
 
 ## Depend on setuptools
