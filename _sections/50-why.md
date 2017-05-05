@@ -13,6 +13,8 @@ code to use Python 3:
 
 - [Why Python 3 exists](http://www.snarky.ca/why-python-3-exists) (Brett Cannon)
 - [How to add Python 3 support to your code](https://docs.python.org/3/howto/pyporting.html)
+- [Python FAQ: Why should I use Python 3?](https://eev.ee/blog/2016/07/31/python-faq-why-should-i-use-python-3/) (lexy munroe)
+- [Python FAQ: How do I port to Python 3?](https://eev.ee/blog/2016/07/31/python-faq-how-do-i-port-to-python-3/) (lexy munroe)
 - [Stop supporting Python 2.6 for free](http://www.curiousefficiency.org/posts/2015/04/stop-supporting-python26.html) (Nick Coghlan)
 - [Why Python 4.0 won't be like Python 3.0](http://www.curiousefficiency.org/posts/2014/08/python-4000.html) (Nick Coghlan)
 - [Python 3 for scientists](https://python-3-for-scientists.readthedocs.io/en/latest/)
