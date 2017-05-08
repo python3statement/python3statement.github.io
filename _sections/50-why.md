@@ -19,3 +19,4 @@ code to use Python 3:
 - [Why Python 4.0 won't be like Python 3.0](http://www.curiousefficiency.org/posts/2014/08/python-4000.html) (Nick Coghlan)
 - [Python 3 for scientists](https://python-3-for-scientists.readthedocs.io/en/latest/)
 - [scikit-bio py3-only RFC](https://github.com/biocore/scikit-bio-rfcs/blob/master/accepted/002-py3-only.md)
+- [python clock](http://pythonclock.org/)
