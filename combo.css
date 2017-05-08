@@ -17,6 +17,10 @@ div.vis-item.py2, p.py2 {
 
 }
 
+p {
+  font-weight: 300;
+}
+
 p.py2:first-child, p.py3:first-child{
     margin-top: 0px;
     margin-bottom: 5px;
