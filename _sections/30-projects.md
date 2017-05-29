@@ -25,6 +25,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/osbrain.png)osBrain](https://github.com/opensistemas-hub/osbrain)
 - [![](assets/pymeasure.png)PyMeasure](https://github.com/ralph-group/pymeasure)
 - [![](assets/rpy2_logo_64x64.png)rpy2](https://rpy2.bitbucket.io)
+- [![](assets/CWL-glow_120x80.png)Common Workflow Language](http://www.commonwl.org)
 
 &nbsp; <!--break separating project with image from without -->
 
