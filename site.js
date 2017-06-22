@@ -163,7 +163,11 @@ $(document).ready(function (){
     'FEniCS':[
 	    {content: '2017.1.0', start: '2017-05-12', end: '2017-12-31', py2:true},
 	    {content: '2018.1.0', start: '2018-01-01', end: '2018-06-01'}
-	    ]
+    ],
+    'RDKit':[
+	    {content: '2014.9.1 - 2019.03.1', start: '2014-09-1', end: '2019-09-1', py2:true},
+	    {content: '2019.9.1 -' , start: '2019-09-01', end: '2021-03-01'}
+	  ],
     // for tests, rando example
     //'matplotlib':[
     //  {content: 'matplotlib 2.x', start: '2015-06-01', end:'2018-06-01', py2:true},
