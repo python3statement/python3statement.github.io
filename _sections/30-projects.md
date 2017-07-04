@@ -28,6 +28,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/pymc3.png)PyMC3](https://github.com/pymc-devs/pymc3)
 - [![](assets/fenics.png)FEniCS](http://www.fenicsproject.org)
 - [![](assets/rdkit.png)RDKit](https://github.com/rdkit/rdkit)
+- [![](assets/kivy.png)Kivy](https://kivy.org/)
 
 &nbsp; <!--break separating project with image from without -->
 
