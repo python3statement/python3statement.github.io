@@ -167,7 +167,14 @@ $(document).ready(function (){
     'RDKit':[
 	    {content: '2014.9.1 - 2019.03.1', start: '2014-09-1', end: '2019-09-1', py2:true},
 	    {content: '2019.9.1 -' , start: '2019-09-01', end: '2021-03-01'}
-	  ],
+	],
+    'music21':[
+        {content: 'v3', start: '2016-08-22', end: '2017-08-06', py2:true},
+        {content: 'v4', start: '2017-08-22', end: '2019-06-01', py2:true},
+        {content: 'v5', start: '2018-08-01', end: '2019-08-01'},
+        {content: 'v6', start: '2019-08-01', end: '2020-08-01'},
+    ],
+
     // for tests, rando example
     //'matplotlib':[
     //  {content: 'matplotlib 2.x', start: '2015-06-01', end:'2018-06-01', py2:true},
