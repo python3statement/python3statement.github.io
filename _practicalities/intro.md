@@ -238,7 +238,7 @@ You have various other choices
 It would be great if you can figure out how this version ended up being
 installed, and try to check how to prevent that for future users.
 
-See the following url for more up to date informations:
+See the following url for more up-to-date information:
 
 https://i.am.an/url
 
