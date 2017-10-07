@@ -16,7 +16,7 @@ We are thus collecting a list of things to be aware of for when transitioning th
 are less obvious. For example : as a developer, how to make sure that
 your package manager like pip does not upgrade your libraries to incompatible
 versions on Python 2. See the [Practicality Page](/practicalities/) for
-informations and Check [our
+information and check [our
 repository](https://github.com/python3statement/python3statement.github.io) to
 contribute.
 
