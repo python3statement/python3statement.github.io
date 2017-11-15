@@ -26,7 +26,13 @@ least the main points -- should ease lots of the pain.
  - As maintainer, use the new `setup(..., python_requires='>=3.4')` option.
  - Use `pip install [-e] .` and do **not** invoke `setup.py` directly.
  - **Fail** early at **install time** if user is on Python 2.
- - We are giving a talk at PyCon 2017 (likely recorded; link to follow). 
+
+We gave a 
+    [talk at PyCon 2017](https://www.youtube.com/watch?v=2DkfPzWWC2Q)
+    ([slides](https://carreau.github.io/pycon2017/#/))
+    , and at 
+    [pybay](https://www.youtube.com/watch?v=2DkfPzWWC2Q)
+    ([slides](https://carreau.github.io/pycon2017/#/)). 
 
 ## The problem
 
