@@ -37,8 +37,10 @@ These projects pledge to drop Python 2 support in or before 2020.
 
 - [An Introduction to Applied Bioinformatics](http://readiab.org)
 - [music21](http://web.mit.edu/music21/)
+- [imageio](https://imageio.github.io)
 - [QIIME](http://qiime.org)
 - [Altair](https://github.com/ellisonbg/altair)
 - [gala](https://gala.readthedocs.io)
 - [cual-id](https://github.com/johnchase/cual-id)
 - [CIS](https://github.com/cedadev/cis)
+
