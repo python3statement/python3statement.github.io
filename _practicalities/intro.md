@@ -359,6 +359,6 @@ The introduction of Python 3 was chaotic; there are still strong arguments in bo
 the Python 2 and Python 3 camps. Regardless of what side you take, the ones suffering
 the most from this are users (starting with the fact that inevitably some libraries
 will stop supporting for Python 2 and release Python 3 only library). Inevitably, some
-systems and people will will not be upgraded to Python 3, so this document hopefully
+systems and people will not be upgraded to Python 3, so this document hopefully
 helps to _ensure_ that users get the _least_ breakage as possible and what are the best
 practices are to follow.
