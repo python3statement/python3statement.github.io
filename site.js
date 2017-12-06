@@ -109,6 +109,10 @@ $(document).ready(function (){
       {content:'Python 3.5', start: '2015-09-13', end: '2020-09-13'},
       {content:'Python 3.6', start: '2016-12-23', end: '2021-12-23'},
     ],
+    'Django':[
+      {content: '1.11 LTS', start: '2017-04-04', end:'2017-04-12', py2:true},
+      {content: '2.x', start: '2017-12-02', end:'2022-04-31'},
+    ],
     'IPython':[
       {content: '1.x', start: '2013-08-08', end:'2014-03-31', py2:true},
       {content: '2.x', start: '2014-04-01', end:'2015-02-26', py2:true},
