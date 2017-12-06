@@ -229,7 +229,7 @@ if sys.version_info < (3,):
 Unfortunately Frobulator 6.0 and above are not compatible with Python 2
 anymore, and you still ended up with this version installed on your system.
 That's a bummer; sorry about that. It should not have happened. Make sure you
-have pip ≥ 9.0 to avoid this kind of issues, as well as setuptools ≥ 24.2:
+have pip >= 9.0 to avoid this kind of issues, as well as setuptools >= 24.2:
 
  $ pip install pip setuptools --upgrade
 
