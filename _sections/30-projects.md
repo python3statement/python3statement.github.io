@@ -19,7 +19,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/astropy.png)Astropy](http://www.astropy.org/)
 - [![](assets/swcarpentry.png)Software Carpentry](https://software-carpentry.org)
 - [![](assets/sunpy.png)SunPy](http://sunpy.org)
-- [![](assets/yt.svg)yt](http://yt-project.org)
+- [![](assets/yt.png)yt](http://yt-project.org)
 - [![](assets/xonsh.png)xonsh](http://xon.sh)
 - [![](assets/skbio.png)scikit-bio](http://scikit-bio.org)
 - [![](assets/pystan.png)PyStan](https://github.com/stan-dev/pystan)
