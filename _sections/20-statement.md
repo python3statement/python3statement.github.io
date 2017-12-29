@@ -6,7 +6,7 @@ color: white
 
 # Moving to require Python 3
 
-Almost all major open souce Python packages now support
+Almost all major open source Python packages now support
 both Python 3.x and Python 2.7, and many projects have been supporting these
 two versions of the language for several years. While we have developed tools
 and techniques to maintain compatibility efficiently, it is a small but
