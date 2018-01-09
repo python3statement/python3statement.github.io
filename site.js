@@ -174,6 +174,10 @@ $(document).ready(function (){
         {content: 'v5', start: '2018-08-01', end: '2019-08-01'},
         {content: 'v6', start: '2019-08-01', end: '2020-08-01'},
     ],
+    'mitmproxy':[
+        {content: '0.18.x', start: '2016-10-16', end: '2017-10-16', py2:true},
+        {content: '1.0.x -', start: '2016-12-26', end: '2021-12-23'}
+    ],
 
     // for tests, rando example
     //'matplotlib':[
