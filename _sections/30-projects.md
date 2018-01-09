@@ -34,6 +34,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/biopython.png)Biopython](http://biopython.org/)
 - [![](assets/zulip.png)Zulip](https://zulip.org)
 - [![](assets/mitmproxy.png)mitmproxy](https://mitmproxy.org/)
+- [![](assets/openquake.png)OpenQuake engine](https://github.com/gem/oq-engine)
 
 &nbsp; <!--break separating project with image from without -->
 
@@ -45,4 +46,3 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [gala](https://gala.readthedocs.io)
 - [cual-id](https://github.com/johnchase/cual-id)
 - [CIS](https://github.com/cedadev/cis)
-
