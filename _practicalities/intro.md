@@ -338,8 +338,8 @@ reproduce their build.
 
 # Why all *this* ?!?
 
-You might wonder why all this, it's 2016 already, so how come this is now an 
-issue ? Python 3 has been out for 8+ years now !
+You might wonder why all this, it's 2018 already, so how come this is still an 
+issue? Python 3 has been out for 9+ years now !
 
 Well there are many reasons for this. First of all, this issue mostly affects
 libraries that are currently python 2 and Python 3 compatible at the same time.
