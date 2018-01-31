@@ -178,7 +178,10 @@ $(document).ready(function (){
         {content: '0.18.x', start: '2016-10-16', end: '2017-10-16', py2:true},
         {content: '1.0.x -', start: '2016-12-26', end: '2021-12-23'}
     ],
-
+    'xarray':[
+        {content: '0.x Series', start: '2014-05-11', end: '2018-12-31', py2:true},
+        {content: '1.x Series', start: '2019-01-01', end: '2022-12-31'}
+    ],
     // for tests, rando example
     //'matplotlib':[
     //  {content: 'matplotlib 2.x', start: '2015-06-01', end:'2018-06-01', py2:true},
