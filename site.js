@@ -180,7 +180,7 @@ $(document).ready(function (){
     ],
     'xarray':[
         {content: '0.x Series', start: '2014-05-11', end: '2018-12-31', py2:true},
-        {content: '1.x Series', start: '2019-01-01', end: '2022-12-31'}
+        {content: '2018.1.0', start: '2019-01-01', end: '2022-12-31'}
     ],
     // for tests, rando example
     //'matplotlib':[
