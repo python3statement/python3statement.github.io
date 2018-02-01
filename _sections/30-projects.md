@@ -36,6 +36,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/zulip.png)Zulip](https://zulip.org)
 - [![](assets/mitmproxy.png)mitmproxy](https://mitmproxy.org/)
 - [![](assets/openquake.png)OpenQuake engine](https://github.com/gem/oq-engine)
+- [![](assets/pythran.png)Pythran](https://github.com/serge-sans-paille/pythran)
 
 &nbsp; <!--break separating project with image from without -->
 
