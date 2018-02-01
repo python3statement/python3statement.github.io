@@ -17,6 +17,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/matplotlib.png)Matplotlib](http://matplotlib.org/)
 - [![](assets/sympy.png)SymPy](http://www.sympy.org/)
 - [![](assets/astropy.png)Astropy](http://www.astropy.org/)
+- [![](assets/xarray.png)xarray](http://xarray.pydata.org/)
 - [![](assets/swcarpentry.png)Software Carpentry](https://software-carpentry.org)
 - [![](assets/sunpy.png)SunPy](http://sunpy.org)
 - [![](assets/yt.png)yt](http://yt-project.org)
