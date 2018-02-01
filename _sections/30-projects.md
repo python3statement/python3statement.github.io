@@ -38,6 +38,10 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/osbrain.png)osBrain](https://github.com/opensistemas-hub/osbrain)
 - [![](assets/pymeasure.png)PyMeasure](https://github.com/ralph-group/pymeasure)
 
+<!-- Adding a new project with a logo? They're roughly sorted by Github stars.
+Try to insert yours in order. We use judgment for projects not on Github, and
+for some that aren't directly comparable. -->
+
 &nbsp; <!--break separating project with image from without -->
 
 - [Altair](https://github.com/ellisonbg/altair)
@@ -48,3 +52,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [gala](https://gala.readthedocs.io)
 - [CIS](https://github.com/cedadev/cis)
 - [cual-id](https://github.com/johnchase/cual-id)
+
+<!-- Adding a new project without a logo? They're roughly sorted by Github stars.
+Try to insert yours in order. We use judgment for projects not on Github, and
+for some that aren't directly comparable. -->
