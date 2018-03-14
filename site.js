@@ -103,11 +103,12 @@ $(document).ready(function (){
   var data = {
     'CPython':[
       {content:'Python 2.7', start: '2010-07-03', end: '2020-01-01', py2:true},
-      // EOL for Python 3.3 - 3.6 not announced yet; project 5 years from initial release to follow CPython policy.
       {content:'Python 3.3', start: '2012-09-29', end: '2017-09-29'},
-      {content:'Python 3.4', start: '2014-03-14', end: '2019-03-14'},
+      // EOL for Python 3.4 - 3.7 not announced yet; project 5 years from initial release to follow CPython policy.
+      {content:'Python 3.4', start: '2014-03-16', end: '2019-03-16'},
       {content:'Python 3.5', start: '2015-09-13', end: '2020-09-13'},
       {content:'Python 3.6', start: '2016-12-23', end: '2021-12-23'},
+      {content:'Python 3.7', start: '2018-06-15', end: '2023-06-01'},
     ],
     'IPython':[
       {content: '1.x', start: '2013-08-08', end:'2014-03-31', py2:true},
@@ -171,7 +172,7 @@ $(document).ready(function (){
     'music21':[
         {content: 'v3', start: '2016-08-22', end: '2017-08-06', py2:true},
         {content: 'v4', start: '2017-08-22', end: '2019-06-01', py2:true},
-        {content: 'v5', start: '2018-08-01', end: '2019-08-01'},
+        {content: 'v5', start: '2018-03-17', end: '2019-08-01'},
         {content: 'v6', start: '2019-08-01', end: '2020-08-01'},
     ],
     'mitmproxy':[
