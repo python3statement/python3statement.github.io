@@ -179,6 +179,13 @@ $(document).ready(function (){
         {content: '0.18.x', start: '2016-10-16', end: '2017-10-16', py2:true},
         {content: '1.0.x -', start: '2016-12-26', end: '2021-12-23'}
     ],
+    'SPADE':[
+        {content: '2.0', start: '2010-08-01', end: '2012-11-09', py2:true},
+        {content: '2.1', start: '2012-11-09', end: '2013-05-27', py2:true},
+        {content: '2.2', start: '2013-05-27', end: '2017-06-09', py2:true},
+        {content: '2.3', start: '2017-06-09', end: '2018-12-31', py2:true},
+        {content: '3.x -', start: '2018-09-15', end: '2020-12-31', py2:false}
+    ],
 
     // for tests, rando example
     //'matplotlib':[
