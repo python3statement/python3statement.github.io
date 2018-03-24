@@ -49,6 +49,7 @@ for some that aren't directly comparable. -->
 - [imageio](https://imageio.github.io)
 - [An Introduction to Applied Bioinformatics](http://readiab.org)
 - [QIIME](http://qiime.org)
+- [SPADE](https://github.com/javipalanca/spade)
 - [gala](https://gala.readthedocs.io)
 - [CIS](https://github.com/cedadev/cis)
 - [cual-id](https://github.com/johnchase/cual-id)
