@@ -191,6 +191,11 @@ $(document).ready(function (){
         {content: '2.3', start: '2017-06-09', end: '2018-12-31', py2:true},
         {content: '3.x -', start: '2018-09-15', end: '2020-12-31', py2:false}
     ],
+    'dateutil': [
+        {content: '2.x', start: '2011-12-01', end: '2018-09-01', py2:true},
+        {content: '3.x', start: '2018-09-01', end: '2019-07-01', py2:true},
+        {content: '4.x', start: '2019-01-01', end: '2020-07-01', py2:false},
+    ],
 
     // for tests, rando example
     //'matplotlib':[
