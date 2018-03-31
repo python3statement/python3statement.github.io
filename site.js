@@ -125,6 +125,12 @@ $(document).ready(function (){
       {content: 'Py 2 bug fix', start: '2019-01-01', end:'2019-12-31', py2:true},
       {content: 'Py 3 full', start: '2019-01-01', end:'2021-12-16'},
     ],
+    'Matplotlib':[
+        {content: '2.2 LTS', start: '2018-03-05', end: '2020-01-10', py2:true},
+        {content: '3.0', start: '2018-07-01', end: '2019-01-01'},
+        {content: '3.1', start: '2019-01-01', end: '2019-07-01'},
+        {content: '3.2', start: '2019-07-01', end: '2020-01-01'}
+    ],
     'Xonsh':[
       {content: '0.x series – Python 3.4+', start: '2015-03-09', end: '2021-12-16'},
     ],
