@@ -143,10 +143,11 @@ $(document).ready(function (){
       {content: '2.x+', start: '2016-07-11', end: '2021-12-16'},
     ],
     'SunPy':[
-      {content: '0.7', start: '2016-05-24', end: '2017-06-01', py2:true},
-      {content: '0.8', start: '2016-12-01', end: '2017-12-01', py2:true},
-      {content: '0.9', start: '2017-06-01', end: '2018-06-01', py2:true},
-      {content: '0.10', start: '2017-12-01', end: '2018-12-01'},
+      {content: '0.7', start: '2016-05-24', end: '2017-08-07', py2:true},
+      {content: '0.8', start: '2017-08-07', end: '2018-04-23', py2:true},
+      {content: '0.9', start: '2018-04-23', end: '2020-01-01', py2:true},
+      {content: '1.0', start: '2019-01-01', end: '2020-01-01'},
+      {content: '1.1', start: '2020-01-01', end: '2020-06-01'},
     ],
     'Astropy':[
       {content: '1.0 LTS', start: '2015-02-19', end: '2017-06-01', py2:true},
