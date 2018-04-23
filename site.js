@@ -204,7 +204,7 @@ $(document).ready(function (){
         {content: '4.x', start: '2019-01-01', end: '2020-07-01', py2:false},
     ],
     'stomp.py':[
-      {content: '3.x', start: '2010-04-01', end: '2013-09-31', py2:true},
+      {content: '3.x', start: '2010-04-01', end: '2013-09-30', py2:true},
       {content: '4.x', start: '2013-10-01', end: '2020-01-09', py2:true},
       {content: '5.x+', start: '2020-01-10', end: '2023-12-31', py2:false},
     ],
