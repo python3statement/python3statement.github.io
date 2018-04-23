@@ -56,6 +56,7 @@ for some that aren't directly comparable. -->
 - [gala](https://gala.readthedocs.io)
 - [CIS](https://github.com/cedadev/cis)
 - [cual-id](https://github.com/johnchase/cual-id)
+- [stomp.py](https://github.com/jasonrbriggs/stomp.py)
 
 <!-- Adding a new project without a logo? They're roughly sorted by Github stars.
 Try to insert yours in order. We use judgment for projects not on Github, and
