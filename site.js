@@ -120,6 +120,10 @@ $(document).ready(function (){
       {content: '7.x', start: '2018-12-01', end:'2019-12-12'},
       {content: '8.x', start: '2019-12-12', end:'2020-12-01'},
     ],
+    'pandas':[
+      {content: 'Python 2 & 3', start: '2011-10-10', end:'2018-12-31', py2:true},
+      {content: 'Python 3 only', start: '2019-01-01', end:'2021-12-16'},
+    ],
     'Numpy':[
       {content: 'Py 2 & 3 full', start: '2010-08-31', end:'2018-12-31', py2:true},
       {content: 'Py 2 bug fix', start: '2019-01-01', end:'2019-12-31', py2:true},
