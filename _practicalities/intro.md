@@ -59,7 +59,7 @@ upgrade.
 
 ## As a user
 
-### Install Pip 9.0
+### Install pip 9.0
 
 If you are already a Python 3 user, you should not encounter a lot of
 disruption. Please still check that the libraries you use follow best practices
@@ -172,7 +172,7 @@ this](https://github.com/pypa/pypi-legacy/pull/506).
 Thus as long as your user have recent enough versions of pip and setuptools
 they will get the right version of your library.
 
-# Unit Testing and documentation
+# Unit testing and documentation
 
 It is recommended **not** to invoke `setup.py` directly either with `install` or
 `develop` subcommands. These may not correctly resolve dependencies, and can
@@ -182,7 +182,7 @@ install .`  and `pip install -e .` for regular and developer installs, respectiv
 Check in scripts and documentation that the correct installation command is
 used. 
 
-# Recommended Mitigations
+# Recommended mitigations
 
 These are not mandatory but should make the transition seamless by warning your
 users early enough _and_ providing useful error messages.
@@ -273,7 +273,7 @@ The regular expression to check for validity of pep440 can be found below:
     (\\.dev(0|[1-9]\\d*))?
 
 
-## fail early in setup.py
+## Fail early in setup.py
 
 Leave `setup.py` python 2 compatible and fail early. If you detect Python 2
 raise a clear error message and ask the user to make sure they have pip > 9.0 (or
@@ -296,7 +296,7 @@ and that you will hear about. This is an attempt to acknowledge them, and
 explain why they can't work and what are their drawbacks before you attempt to
 implement them.
 
-### Use a meta-package.
+### Use a meta-package
 
 It is possible to release a meta-package that has _virtually_ no code and relies
 on a conditional dependency to install its actual core code on the user system.
@@ -329,16 +329,16 @@ publish multiple sdist of a package targeting various python version.
 It is not possible anymore to upload multiple sdist files on PyPI, so this
 solution is no longer tenable.
 
-### Wheel only ?
+### Wheel only?
 
 Releasing a package only using wheels for a given python version is doable, but
 this will break downstream packages that may require the original source to
 reproduce their build.
 
-# Why all *this* ?!?
+# Why all *this*?!?
 
 You might wonder why all this, it's 2018 already, so how come this is still an 
-issue? Python 3 has been out for 9+ years now !
+issue? Python 3 has been out for 9+ years now!
 
 Well there are many reasons for this. First of all, this issue mostly affects
 libraries that are currently python 2 and Python 3 compatible at the same time.
