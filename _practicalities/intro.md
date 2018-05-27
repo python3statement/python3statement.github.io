@@ -29,7 +29,7 @@ least the main points -- should ease lots of the pain.
 
 We gave a 
     [talk at PyCon 2017](https://www.youtube.com/watch?v=2DkfPzWWC2Q)
-    ([slides](https://speakerdeck.com/pycon2017/py3-compatibility-in-a-user-friendly-manner), and at 
+    ([slides](https://speakerdeck.com/pycon2017/py3-compatibility-in-a-user-friendly-manner)), and at 
     [PyBay](https://www.youtube.com/watch?v=3i6n1RwqQCo)
     ([slides](https://speakerdeck.com/pybay/2017-building-bridges-stopping-python-2-without-damages)). 
 
