@@ -284,6 +284,35 @@ Otherwise user code can fail at runtime arbitrarily later in the future, which c
 be a difficult to debug and fix. Get inspiration from the message of failure at
 runtime, and adapt for installation time.
 
+
+Here is for a simple version of how IPython handle old versions of Python and
+Pip that still try to install IPython 7.0+ on Python `< (3,4)`.
+
+```python
+if sys.version_info < (3, 4):
+
+    error = """
+    IPython 7.0+ supports Python 3.4 and above.
+    When using Python 2.7, please install IPython 5.x LTS Long Term Support version.
+    Python 3.3 was supported up to IPython 6.x.
+
+    See IPython `README.rst` file for more information:
+
+    https://github.com/ipython/ipython/blob/master/README.rst
+
+    Python {py} detected.
+
+    Try upgrading pip and retry.
+    """.format(py='.'.join([str(v) for v in sys.version_info[:3]]))
+
+    print(error, file=sys.stderr)
+    sys.exit(1)
+```
+
+You can look at the [full
+check](https://github.com/ipython/ipython/blob/6a3e2db0c299dc05e636653c4a43d0aa756fb1c8/setup.py#L23-L58)
+that attempt to detect which version of pip is in used.
+
 ## Fix dependant libraries
 
 If you control dependant packages, Make sure to include conditional dependencies
