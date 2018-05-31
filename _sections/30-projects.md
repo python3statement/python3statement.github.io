@@ -41,6 +41,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/yt.png)yt](http://yt-project.org)
 - [![](assets/osbrain.png)osBrain](https://github.com/opensistemas-hub/osbrain)
 - [![](assets/pymeasure.png)PyMeasure](https://github.com/ralph-group/pymeasure)
+- [![](assets/chaquopy.png)Chaquopy](https://chaquo.com/chaquopy/)
 
 <!-- Adding a new project with a logo? They're roughly sorted by Github stars.
 Try to insert yours in order. We use judgment for projects not on Github, and
