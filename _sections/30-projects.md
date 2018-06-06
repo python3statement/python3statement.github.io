@@ -27,6 +27,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/pythran.png)Pythran](https://github.com/serge-sans-paille/pythran)
 - [![](assets/xarray.png)xarray](http://xarray.pydata.org/)
 - [![](assets/dateutil.png)dateutil](https://github.com/dateutil/dateutil)
+- [![](assets/tryton.png)Tryton](http://www.tryton.org/)
 - [![](assets/pystan.png)PyStan](https://github.com/stan-dev/pystan)
 - [![](assets/mne.png)MNE](https://www.martinos.org/mne/stable/index.html)
 - [![](assets/swcarpentry.png)Software Carpentry](https://software-carpentry.org)
@@ -43,7 +44,6 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/osbrain.png)osBrain](https://github.com/opensistemas-hub/osbrain)
 - [![](assets/pymeasure.png)PyMeasure](https://github.com/ralph-group/pymeasure)
 - [![](assets/chaquopy.png)Chaquopy](https://chaquo.com/chaquopy/)
-- [![](assets/tryton.png)Tryton](http://www.tryton.org/)
 
 <!-- Adding a new project with a logo? They're roughly sorted by Github stars.
 Try to insert yours in order. We use judgment for projects not on Github, and
