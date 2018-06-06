@@ -161,7 +161,7 @@ $(document).ready(function (){
       {content: '2.0 LTS', start: '2017-06-01', end: '2019-12-31', py2:true},
       {content: '3.0', start: '2018-02-19', end: '2018-11-30'},
       {content: '3.1', start: '2018-11-30', end: '2019-05-01'},
-      {content: '3.2', start: '2019-05-01', end: '2019-06-01'},
+      {content: '3.2', start: '2019-05-01', end: '2019-11-30'},
       {content: '4.0 LTS', start: '2019-11-30', end: '2021-12-01'},
     ],
     'osBrain':[
