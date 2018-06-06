@@ -212,6 +212,15 @@ $(document).ready(function (){
       {content: '4.x', start: '2013-10-01', end: '2020-01-09', py2:true},
       {content: '5.x+', start: '2020-01-10', end: '2023-12-31', py2:false},
     ],
+    'Tryton':[
+      {content: '4.0', start: '2016-05-02', end: '2018-10-01', py2:true},
+      {content: '4.2', start: '2016-11-28', end: '2019-05-01', py2:true},
+      {content: '4.4', start: '2017-05-01', end: '2019-10-01', py2:true},
+      {content: '4.6', start: '2017-10-30', end: '2020-05-01', py2:true},
+      {content: '4.8', start: '2018-04-23', end: '2020-10-01', py2:true},
+      {content: '5.0', start: '2018-10-01', end: '2023-10-01'},
+      {content: '5.2', start: '2019-05-01', end: '2020-05-01'},
+    ],
 
     // for tests, rando example
     //'matplotlib':[
