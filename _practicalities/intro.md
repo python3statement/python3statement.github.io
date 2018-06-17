@@ -225,25 +225,25 @@ if sys.version_info < (3,):
     raise ImportError(
     """You are running Frobulator 6.0 on Python 2
 
-Unfortunately Frobulator 6.0 and above are not compatible with Python 2
-anymore, and you still ended up with this version installed on your system.
-That's a bummer; sorry about that. It should not have happened. Make sure you
-have pip >= 9.0 to avoid this kind of issues, as well as setuptools >= 24.2:
+Frobulator 6.0 and above are no longer compatible with Python 2, and you still 
+ended up with this version installed. That's unfortunate; sorry about that. 
+It should not have happened. Make sure you have pip >= 9.0 to avoid this kind 
+of issue, as well as setuptools >= 24.2:
 
  $ pip install pip setuptools --upgrade
 
-You have various other choices
+Your choices:
 
-- install an older version of Frobulator:
+- Upgrade to Python 3.
+
+- Install an older version of Frobulator:
 
  $ pip install 'frobulator<6.0'
-
-- Upgrade your system to use Python 3.
 
 It would be great if you can figure out how this version ended up being
 installed, and try to check how to prevent that for future users.
 
-See the following url for more up-to-date information:
+See the following URL for more up-to-date information:
 
 https://i.am.an/url
 
