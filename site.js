@@ -220,6 +220,11 @@ $(document).ready(function (){
       {content: '4.x', start: '2013-10-01', end: '2020-01-09', py2:true},
       {content: '5.x+', start: '2020-01-10', end: '2023-12-31', py2:false},
     ],
+    'cmd2':[
+        {content: '0.7.x', start: '2017-02-23', end: '2018-01-04', py2:true},
+        {content: '0.8.x', start: '2018-02-01', end: '2018-08-31', py2:true},
+        {content: '0.9.x', start: '2018-05-28', end: '2023-12-31', py2:false},
+      ],
 
     // for tests, rando example
     //'matplotlib':[
