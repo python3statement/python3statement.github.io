@@ -39,6 +39,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/fenics.png)FEniCS](http://www.fenicsproject.org)
 - [![](assets/rdkit.png)RDKit](https://github.com/rdkit/rdkit)
 - [![](assets/metpy.png)MetPy](https://unidata.github.io/MetPy)
+- [![](assets/psi4.png)Psi4](http://psicode.org/)
 - [![](assets/openquake.png)OpenQuake engine](https://github.com/gem/oq-engine)
 - [![](assets/yt.png)yt](http://yt-project.org)
 - [![](assets/cmd2.png)cmd2](https://github.com/python-cmd2/cmd2)
