@@ -193,6 +193,10 @@ $(document).ready(function (){
 	    {content: '2014.9.1 - 2019.03.1', start: '2014-09-1', end: '2019-09-1', py2:true},
 	    {content: '2019.9.1 -' , start: '2019-09-01', end: '2021-03-01'}
 	],
+    'Toyplot':[
+      {content: 'Python 2 & 3', start: '2014-11-05', end:'2018-12-31', py2:true},
+      {content: 'Python 3 only', start: '2019-01-01', end:'2021-12-31'},
+    ],
     'music21':[
         {content: 'v3', start: '2016-08-22', end: '2017-08-06', py2:true},
         {content: 'v4', start: '2017-08-22', end: '2019-06-01', py2:true},
