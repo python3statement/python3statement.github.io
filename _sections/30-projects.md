@@ -21,6 +21,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/jupyter.png)Jupyter notebook](https://jupyter.org)
 - [![](assets/scikit-image.png)Scikit Image](http://scikit-image.org/)
 - [![](assets/pymc3.png)PyMC3](https://github.com/pymc-devs/pymc3)
+- [![](assets/tensorpack.png)Tensorpack](https://github.com/tensorpack/tensorpack)
 - [![](assets/xonsh.png)xonsh](http://xon.sh)
 - [![](assets/astropy.png)Astropy](http://www.astropy.org/)
 - [![](assets/biopython.png)Biopython](http://biopython.org/)
