@@ -41,6 +41,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/rdkit.png)RDKit](https://github.com/rdkit/rdkit)
 - [![](assets/toyplot-256x256.png)Toyplot](https://github.com/sandialabs/toyplot)
 - [![](assets/metpy.png)MetPy](https://unidata.github.io/MetPy)
+- [![](assets/pylast.png)pyLast](https://github.com/pylast/pylast)
 - [![](assets/psi4square.png)Psi4](http://psicode.org/)
 - [![](assets/openquake.png)OpenQuake engine](https://github.com/gem/oq-engine)
 - [![](assets/yt.png)yt](https://yt-project.org/)
@@ -49,8 +50,8 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/pymeasure.png)PyMeasure](https://github.com/ralph-group/pymeasure)
 - [![](assets/chaquopy.png)Chaquopy](https://chaquo.com/chaquopy/)
 
-<!-- Adding a new project with a logo? They're roughly sorted by Github stars.
-Try to insert yours in order. We use judgment for projects not on Github, and
+<!-- Adding a new project with a logo? They're roughly sorted by GitHub stars.
+Try to insert yours in order. We use judgment for projects not on GiHhub, and
 for some that aren't directly comparable. -->
 
 &nbsp; <!--break separating project with image from without -->
@@ -66,6 +67,9 @@ for some that aren't directly comparable. -->
 - [CIS](https://github.com/cedadev/cis)
 - [cual-id](https://github.com/johnchase/cual-id)
 - [stomp.py](https://github.com/jasonrbriggs/stomp.py)
+- [tinytext](https://github.com/hugovk/tinytext)
+- [OSMViz](https://github.com/hugovk/osmviz)
+- [fino](https://github.com/hugovk/fino)
 
 <!-- Adding a new project without a logo? They're roughly sorted by Github stars.
 Try to insert yours in order. We use judgment for projects not on Github, and
