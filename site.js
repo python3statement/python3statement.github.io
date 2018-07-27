@@ -136,8 +136,8 @@ $(document).ready(function (){
         {content: '3.2', start: '2019-07-01', end: '2020-01-01'}
     ],
     'Spyder':[
-        {content: '3', start: '2016-09-24', end: '2019-03-01', py2:true},
-        {content: '4', start: '2019-02-01', end: '2020-02-01', py2:true},
+        {content: '3', start: '2016-09-24', end: '2019-01-15', py2:true},
+        {content: '4', start: '2019-01-15', end: '2020-01-01', py2:true},
         {content: '5', start: '2019-12-31', end: '2021-12-16'}
     ],
     'Xonsh':[
