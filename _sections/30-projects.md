@@ -62,6 +62,7 @@ for some that aren't directly comparable. -->
 - [music21](http://web.mit.edu/music21/)
 - [imageio](https://imageio.github.io)
 - [An Introduction to Applied Bioinformatics](http://readiab.org)
+- [pvlib-python](https://github.com/pvlib/pvlib-python)
 - [QIIME](http://qiime.org)
 - [SPADE](https://github.com/javipalanca/spade)
 - [gala](https://gala.readthedocs.io)
