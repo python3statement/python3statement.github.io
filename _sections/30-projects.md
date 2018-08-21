@@ -16,6 +16,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/kivy.png)Kivy](https://kivy.org/)
 - [![](assets/matplotlib.png)Matplotlib](https://matplotlib.org/)
 - [![](assets/numpylogoicon.svg)NumPy](https://www.numpy.org/)
+- [![](assets/ccxt.png)ccxt](https://github.com/ccxt/ccxt)
 - [![](assets/zulip.png)Zulip](https://zulip.org)
 - [![](assets/sympy.png)SymPy](https://www.sympy.org/)
 - [![](assets/jupyter.png)Jupyter notebook](https://jupyter.org)
