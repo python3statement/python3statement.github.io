@@ -10,6 +10,7 @@ style: center
 
 These projects pledge to drop Python 2 support in or before 2020.
 
+- [![](assets/ccxt.png)ccxt](https://github.com/ccxt/ccxt)
 - [![](assets/pandas.png)pandas](https://pandas.pydata.org/)
 - [![](assets/ipython.png)IPython](https://ipython.org)
 - [![](assets/mitmproxy.png)mitmproxy](https://mitmproxy.org/)
