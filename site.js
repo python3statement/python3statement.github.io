@@ -243,7 +243,7 @@ $(document).ready(function (){
   var groups = new vis.DataSet();
   var g=0;
   var i=0;
-  for (var gname  in data) {
+  for (var gname in data) {
     g++;
     groups.add({id: g, content: gname});
     gr = data[gname];
