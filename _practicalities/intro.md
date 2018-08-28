@@ -313,6 +313,13 @@ You can look at the [full
 check](https://github.com/ipython/ipython/blob/6a3e2db0c299dc05e636653c4a43d0aa756fb1c8/setup.py#L23-L58)
 that attempt to detect which version of pip is in used.
 
+## Upload with Twine. 
+
+You _must_ upload your package with ``twine`` and NOT with ``setup.py upload``.
+If you have an old version of setuptools or ``distutils``, even if
+``python_requires`` is set, metadata may not be uploaded correctyl. See [This
+issue](https://github.com/pypa/warehouse/issues/3889) on PyPI repository
+
 ## Fix dependant libraries
 
 If you control dependant packages, Make sure to include conditional dependencies
