@@ -3,17 +3,29 @@
 This is the main website for a pledge to stop supporting Python 2 for free in
 open source software.
 
+# Preview the changes
+
+If you are lazy, just send a PR. The continuous integration will build a preview
+on  a netlify subdomain. Once the PR is submitted, look in the continuous integration
+section for the `Netlify` section and click on `details`.
+
 # Run locally
 
-Install Jekyll : `gem install jekyll`, `gem install github-pages`
+Install Jekyll, we recommend installing bundler first: `gem install bundler`
 
 Clone this locally, `cd` in the newly created directory.
 
-Run `jekyll serve -w` in one terminal, open your browser to `localhost:4000`.
+In the repository run `bundle install`
+
+Run `bundle exec jekyll serve -w` in one terminal, open your browser to `localhost:4000`.
 
 Modify the various files, refresh your browser and enjoy.
 
 PRs welcomed.
+
+# uninstall 
+
+Run `bundle clean` form the root of the repository to remove packages.
 
 # Add your project
 
