@@ -7,7 +7,9 @@ open source software.
 
 If you are lazy, just send a PR. The continuous integration will build a preview
 on  a netlify subdomain. Once the PR is submitted, look in the continuous integration
-section for the `Netlify` section and click on `details`.
+section for the `Netlify`, you may need to click 'Show all checks' section and click on `details`.
+
+![](prev.png)
 
 # Run locally
 
