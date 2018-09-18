@@ -124,6 +124,10 @@ $(document).ready(function (){
       {content: 'Python 2 & 3', start: '2011-10-10', end:'2018-12-31', py2:true},
       {content: 'Python 3 only', start: '2019-01-01', end:'2021-12-16'},
     ],
+    'scikit-learn':[
+      {content: 'Python 2 & 3', start: '2010-03-25', end:'2019-03-18', py2:true},
+      {content: 'Python 3 only', start: '2019-03-19', end:'2023-12-31'},
+    ],
     'ccxt':[
       {content: 'Python 2 & 3', start: '2017-05-14', end:'2019-12-31', py2:true},
       {content: 'Python 3 only', start: '2020-01-01', end:'2023-12-31'},
