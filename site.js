@@ -246,6 +246,10 @@ $(document).ready(function (){
         {content: '0.8.x', start: '2018-02-01', end: '2018-08-31', py2:true},
         {content: '0.9.x', start: '2018-05-28', end: '2023-12-31', py2:false},
       ],
+    'angr':[
+        {content: '7.x', start: '2017-09-09', end: '2018-09-26', py2: true},
+        {content: '8.x', start: '2018-09-28', end: '2023-12-31', py2: false},
+    ],
 
     // for tests, rando example
     //'matplotlib':[
