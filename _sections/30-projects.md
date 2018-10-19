@@ -29,7 +29,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/xonsh.png)xonsh](http://xon.sh)
 - [![](assets/astropy.png)Astropy](https://www.astropy.org/)
 - [![](assets/biopython.png)Biopython](https://biopython.org/)
-- [![](assets/nikola.svg)Nikola](https://getnikola.org)
+- [![](assets/nikola.png)Nikola](https://getnikola.org)
 - [![](assets/pythran.png)Pythran](https://github.com/serge-sans-paille/pythran)
 - [![](assets/xarray.png)xarray](https://xarray.pydata.org/)
 - [![](assets/dateutil.png)dateutil](https://github.com/dateutil/dateutil)
