@@ -38,6 +38,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/pystan.png)PyStan](https://github.com/stan-dev/pystan)
 - [![](assets/mne.png)MNE](https://www.martinos.org/mne/stable/index.html)
 - [![](assets/swcarpentry.png)Software Carpentry](https://software-carpentry.org)
+- [![](assets/adb_enhanced.png)ADB-Enhanced](https://github.com/ashishb/adb-enhanced)
 - [![](assets/skbio.png)scikit-bio](http://scikit-bio.org)
 - [![](assets/fecon235.png)fecon235](https://github.com/rsvp/fecon235)
 - [![](assets/sunpy.png)SunPy](https://sunpy.org/)
