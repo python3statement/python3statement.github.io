@@ -177,6 +177,10 @@ $(document).ready(function (){
       {content: '3.2', start: '2019-05-01', end: '2019-11-30'},
       {content: '4.0 LTS', start: '2019-11-30', end: '2021-12-01'},
     ],
+    'geopy':[
+      {content: '1.x', start: '2014-09-07', end:'2019-04-01', py2:true},
+      {content: '2.x', start: '2019-04-01', end:'2023-12-31'},
+    ],
     'Tryton':[
       {content: '4.0', start: '2016-05-02', end: '2018-10-01', py2:true},
       {content: '4.2', start: '2016-11-28', end: '2019-05-01', py2:true},
