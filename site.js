@@ -254,6 +254,11 @@ $(document).ready(function (){
         {content: '7.x', start: '2017-09-09', end: '2018-09-26', py2: true},
         {content: '8.x', start: '2018-09-28', end: '2023-12-31', py2: false},
     ],
+    'FontTools':[
+      {content: 'Py 2 & 3 full', start: '2014-09-24', end:'2018-12-31', py2:true},
+      {content: 'Py 2 bug fix', start: '2019-01-01', end:'2019-06-30', py2:true},
+      {content: 'Py 3 full', start: '2019-01-01', end:'2023-12-31'},
+    ],
 
     // for tests, rando example
     //'matplotlib':[
