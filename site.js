@@ -137,6 +137,11 @@ $(document).ready(function (){
       {content: 'Py 2 bug fix', start: '2019-01-01', end:'2019-12-31', py2:true},
       {content: 'Py 3 full', start: '2019-01-01', end:'2021-12-16'},
     ],
+    'Scipy':[
+      {content: 'Py 2 & 3 full', start: '2010-08-31', end:'2018-12-31', py2:true},
+      {content: 'Py 2 bug fix', start: '2019-01-01', end:'2019-12-31', py2:true},
+      {content: 'Py 3 full', start: '2019-01-01', end:'2021-12-16'},
+    ],
     'Matplotlib':[
         {content: '2.2 LTS', start: '2018-03-05', end: '2020-01-10', py2:true},
         {content: '3.0', start: '2018-07-01', end: '2019-01-01'},
