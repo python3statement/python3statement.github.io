@@ -82,7 +82,8 @@ for some that aren't directly comparable. -->
 - [tinytext](https://github.com/hugovk/tinytext)
 - [OSMViz](https://github.com/hugovk/osmviz)
 - [fino](https://github.com/hugovk/fino)
-  [MambuPy](https://github.com/jstitch/MambuPy)
+- [MambuPy](https://github.com/jstitch/MambuPy)
+- [Pyramid](https://trypyramid.com)
 
 <!-- Adding a new project without a logo? They're roughly sorted by Github stars.
 Try to insert yours in order. We use judgment for projects not on Github, and
