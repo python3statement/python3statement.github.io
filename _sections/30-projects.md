@@ -68,6 +68,7 @@ for some that aren't directly comparable. -->
 
 &nbsp; <!--break separating project with image from without -->
 
+- [better-exceptions](https://github.com/qix-/better-exceptions)
 - [python-chess](https://github.com/niklasf/python-chess)
 - [Altair](https://github.com/ellisonbg/altair)
 - [music21](http://web.mit.edu/music21/)
