@@ -15,9 +15,10 @@ encountered both by developers and users during this process.
 We are thus collecting a list of things to be aware of for when transitioning that
 are less obvious. For example : as a developer, how to make sure that
 your package manager like pip does not upgrade your libraries to incompatible
-versions on Python 2. Check [our
-repository](https://github.com/python3statement/python3statement.github.io) for
-more information.
+versions on Python 2. See the [Practicality Page](/practicalities/) for
+information and check [our
+repository](https://github.com/python3statement/python3statement.github.io) to
+contribute.
 
 
 
