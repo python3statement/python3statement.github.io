@@ -155,6 +155,8 @@ $(document).ready(function (){
       {content: '0.2', start: '2015-12-16', end: '2016-04-08'},
       {content: '0.3', start: '2016-04-08', end: '2016-07-29'},
       {content: '0.4', start: '2016-07-29', end: '2016-12-16'},
+      {content: '0.5', start: '2017-10-18', end: '2019-01-14'},
+      {content: '0.6', start: '2017-01-14', end: '2019-06-01'},
     ],
     'rpy2':[
       {content: '2.8.x', start: '2016-12-21', end:'2018-12-21', py2:true},
