@@ -76,6 +76,7 @@ for some that aren't directly comparable. -->
 - [An Introduction to Applied Bioinformatics](http://readiab.org)
 - [pvlib-python](https://github.com/pvlib/pvlib-python)
 - [QIIME](http://qiime.org)
+- [PySCIPOpt](https://github.com/SCIP-Interfaces/PySCIPOpt)
 - [SPADE](https://github.com/javipalanca/spade)
 - [gala](https://gala.readthedocs.io)
 - [CIS](https://github.com/cedadev/cis)
