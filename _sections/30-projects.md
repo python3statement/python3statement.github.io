@@ -68,6 +68,7 @@ for some that aren't directly comparable. -->
 
 &nbsp; <!--break separating project with image from without -->
 
+- [Hypothesis](https://github.com/HypothesisWorks/hypothesis)
 - [better-exceptions](https://github.com/qix-/better-exceptions)
 - [python-chess](https://github.com/niklasf/python-chess)
 - [Altair](https://github.com/ellisonbg/altair)
