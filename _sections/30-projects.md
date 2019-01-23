@@ -60,6 +60,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/pymeasure.png)PyMeasure](https://github.com/ralph-group/pymeasure)
 - [![](assets/chaquopy.png)Chaquopy](https://chaquo.com/chaquopy/)
 - [![](assets/angr.png)angr](http://angr.io/)
+- [![](assets/biobuilds.png)angr](https://www.biobuilds.org/)
 
 <!-- Adding a new project with a logo? They're roughly sorted by GitHub stars.
 Try to insert yours in order. We use judgment for projects not on GiHhub, and
