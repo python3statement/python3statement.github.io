@@ -71,6 +71,8 @@ for some that aren't directly comparable. -->
 
 - [Hypothesis](https://github.com/HypothesisWorks/hypothesis)
 - [better-exceptions](https://github.com/qix-/better-exceptions)
+- [umap-learn](https://github.com/lmcinnes/umap)
+- [hdbscan](https://github.com/scikit-learn-contrib/hdbscan)
 - [python-chess](https://github.com/niklasf/python-chess)
 - [Altair](https://github.com/ellisonbg/altair)
 - [music21](http://web.mit.edu/music21/)
