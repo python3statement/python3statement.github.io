@@ -62,6 +62,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/chaquopy.png)Chaquopy](https://chaquo.com/chaquopy/)
 - [![](assets/angr.png)angr](http://angr.io/)
 - [![](assets/biobuilds.png)BioBuilds](https://www.biobuilds.org/)
+- [![](assets/freud.png)freud](https://github.com/glotzerlab/freud)
 
 <!-- Adding a new project with a logo? They're roughly sorted by GitHub stars.
 Try to insert yours in order. We use judgment for projects not on GiHhub, and
