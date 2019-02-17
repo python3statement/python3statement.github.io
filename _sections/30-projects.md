@@ -29,6 +29,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/pymc3.png)PyMC3](https://github.com/pymc-devs/pymc3)
 - [![](assets/tensorpack.png)Tensorpack](https://github.com/tensorpack/tensorpack)
 - [![](assets/pytest1.png)pytest](https://docs.pytest.org/en/latest)
+- [![](assets/hypothesis.svg)Hypothesis](https://hypothesis.readthedocs.io/)
 - [![](assets/xonsh.png)xonsh](http://xon.sh)
 - [![](assets/astropy.png)Astropy](https://www.astropy.org/)
 - [![](assets/geopy.png)geopy](https://geopy.readthedocs.io/)
@@ -72,7 +73,6 @@ for some that aren't directly comparable. -->
 
 &nbsp; <!--break separating project with image from without -->
 
-- [Hypothesis](https://github.com/HypothesisWorks/hypothesis)
 - [better-exceptions](https://github.com/qix-/better-exceptions)
 - [umap-learn](https://github.com/lmcinnes/umap)
 - [hdbscan](https://github.com/scikit-learn-contrib/hdbscan)
