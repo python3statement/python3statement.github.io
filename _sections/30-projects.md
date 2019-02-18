@@ -93,6 +93,8 @@ for some that aren't directly comparable. -->
 - [fino](https://github.com/hugovk/fino)
 - [MambuPy](https://github.com/jstitch/MambuPy)
 - [Pyramid](https://trypyramid.com)
+- [multiconf](https://github.com/lhupfeldt/multiconf)
+- [jenkinsflow](https://github.com/lhupfeldt/jenkinsflow)
 
 <!-- Adding a new project without a logo? They're roughly sorted by Github stars.
 Try to insert yours in order. We use judgment for projects not on Github, and
