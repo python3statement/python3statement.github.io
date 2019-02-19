@@ -317,7 +317,7 @@ that attempt to detect which version of pip is in used.
 
 You _must_ upload your package with ``twine`` and NOT with ``setup.py upload``.
 If you have an old version of setuptools or ``distutils``, even if
-``python_requires`` is set, metadata may not be uploaded correctyl. See [This
+``python_requires`` is set, metadata may not be uploaded correctly. See [This
 issue](https://github.com/pypa/warehouse/issues/3889) on PyPI repository
 
 ## Fix dependant libraries
