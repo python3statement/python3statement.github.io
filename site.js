@@ -26,18 +26,18 @@ $.extend($.easing,
         navItems = this;
 
         //attatch click listeners
-    	navItems.on('click', function(event){
-    		event.preventDefault();
+        navItems.on('click', function(event){
+            event.preventDefault();
             var navID = $(this).attr("href").substring(1);
             disableScrollFn = true;
             activateNav(navID);
             populateDestinations(); //recalculate these!
-        	$('html,body').animate({scrollTop: sections[navID] - settings.scrollToOffset},
+            $('html,body').animate({scrollTop: sections[navID] - settings.scrollToOffset},
                 settings.scrollSpeed, "easeInOutExpo", function(){
                     disableScrollFn = false;
                 }
             );
-    	});
+        });
 
         //populate lookup of clicable elements and destination sections
         populateDestinations(); //should also be run on browser resize, btw
@@ -75,21 +75,21 @@ $(document).ready(function (){
     $('nav li a').navScroller();
 
     //section divider icon click gently scrolls to reveal the section
-	$(".sectiondivider").on('click', function(event) {
-    	$('html,body').animate({scrollTop: $(event.target.parentNode).offset().top - 50}, 400, "linear");
-	});
+    $(".sectiondivider").on('click', function(event) {
+        $('html,body').animate({scrollTop: $(event.target.parentNode).offset().top - 50}, 400, "linear");
+    });
 
     //links going to other sections nicely scroll
-	$(".container a").each(function(){
+    $(".container a").each(function(){
         if ($(this).attr("href").charAt(0) == '#'){
             $(this).on('click', function(event) {
-        		event.preventDefault();
+                event.preventDefault();
                 var target = $(event.target).closest("a");
                 var targetHight =  $(target.attr("href")).offset().top
-            	$('html,body').animate({scrollTop: targetHight - 170}, 800, "easeInOutExpo");
+                $('html,body').animate({scrollTop: targetHight - 170}, 800, "easeInOutExpo");
             });
         }
-	});
+    });
 
   // DOM element where the Timeline will be attached
   var container = document.getElementById('visualization');
@@ -208,13 +208,13 @@ $(document).ready(function (){
       {content: '2.9.x', start: '2017-07-14', end:'2018-07-14'},
     ],
     'FEniCS':[
-	    {content: '2017.1.0', start: '2017-05-12', end: '2017-12-31', py2:true},
-	    {content: '2018.1.0', start: '2018-01-01', end: '2018-06-01'}
+        {content: '2017.1.0', start: '2017-05-12', end: '2017-12-31', py2:true},
+        {content: '2018.1.0', start: '2018-01-01', end: '2018-06-01'}
     ],
     'RDKit':[
-	    {content: '2014.9.1 - 2019.03.1', start: '2014-09-1', end: '2019-09-1', py2:true},
-	    {content: '2019.9.1 -' , start: '2019-09-01', end: '2021-03-01'}
-	],
+        {content: '2014.9.1 - 2019.03.1', start: '2014-09-1', end: '2019-09-1', py2:true},
+        {content: '2019.9.1 -' , start: '2019-09-01', end: '2021-03-01'}
+    ],
     'Toyplot':[
       {content: 'Python 2 & 3', start: '2014-11-05', end:'2018-12-31', py2:true},
       {content: 'Python 3 only', start: '2019-01-01', end:'2021-12-31'},
