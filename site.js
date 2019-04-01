@@ -153,6 +153,10 @@ $(document).ready(function (){
         {content: '4', start: '2019-01-15', end: '2020-01-01', py2:true},
         {content: '5', start: '2019-12-31', end: '2021-12-16'}
     ],
+    'Numba':[
+        {content: 'Python 2 & 3', start: '2012-03-08', end: '2019-12-31', py2:true},
+        {content: 'Python 3 only', start: '2020-01-01', end: '2023-12-31'},
+    ],
     'Xonsh':[
       {content: '0.x series – Python 3.4+', start: '2015-03-09', end: '2021-12-16'},
     ],
