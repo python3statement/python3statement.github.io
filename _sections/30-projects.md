@@ -75,6 +75,7 @@ for some that aren't directly comparable. -->
 
 &nbsp; <!--break separating project with image from without -->
 
+- [NetworkX](https://github.com/networkx/networkx)
 - [folium](https://github.com/python-visualization/folium)
 - [better-exceptions](https://github.com/qix-/better-exceptions)
 - [umap-learn](https://github.com/lmcinnes/umap)
