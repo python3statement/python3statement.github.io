@@ -76,6 +76,7 @@ for some that aren't directly comparable. -->
 
 &nbsp; <!--break separating project with image from without -->
 
+- [Bokeh](https://github.com/bokeh/bokeh)
 - [NetworkX](https://github.com/networkx/networkx)
 - [folium](https://github.com/python-visualization/folium)
 - [better-exceptions](https://github.com/qix-/better-exceptions)
