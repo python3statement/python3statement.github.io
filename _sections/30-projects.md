@@ -16,6 +16,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/tornado.png)Tornado](http://www.tornadoweb.org/)
 - [![](assets/ipython.png)IPython](https://ipython.org)
 - [![](assets/mitmproxy.png)mitmproxy](https://mitmproxy.org/)
+- [![](assets/bokeh.png)Bokeh](https://github.com/bokeh/bokeh)
 - [![](assets/kivy.png)Kivy](https://kivy.org/)
 - [![](assets/matplotlib.png)Matplotlib](https://matplotlib.org/)
 - [![](assets/numpylogoicon.svg)NumPy](https://www.numpy.org/)
@@ -76,7 +77,6 @@ for some that aren't directly comparable. -->
 
 &nbsp; <!--break separating project with image from without -->
 
-- [Bokeh](https://github.com/bokeh/bokeh)
 - [NetworkX](https://github.com/networkx/networkx)
 - [folium](https://github.com/python-visualization/folium)
 - [better-exceptions](https://github.com/qix-/better-exceptions)
