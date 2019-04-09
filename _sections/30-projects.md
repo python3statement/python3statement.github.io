@@ -11,6 +11,7 @@ style: center
 These projects pledge to drop Python 2 support in or before 2020.
 
 - [![](assets/tensorflow.png)TensorFlow](https://www.tensorflow.org/)
+- [![](assets/requests.png)Requests](https://github.com/kennethreitz/requests)
 - [![](assets/pandas.png)pandas](https://pandas.pydata.org/)
 - [![](assets/scikit-learn.png)scikit-learn](https://scikit-learn.org/)
 - [![](assets/tornado.png)Tornado](http://www.tornadoweb.org/)
