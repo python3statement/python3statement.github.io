@@ -58,6 +58,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/rdkit.png)RDKit](https://github.com/rdkit/rdkit)
 - [![](assets/toyplot-256x256.png)Toyplot](https://github.com/sandialabs/toyplot)
 - [![](assets/metpy.png)MetPy](https://unidata.github.io/MetPy)
+- [![](assets/nengo.png)Nengo](https://www.nengo.ai/)
 - [![](assets/pylast.png)pyLast](https://github.com/pylast/pylast)
 - [![](assets/psi4square.png)Psi4](http://psicode.org/)
 - [![](assets/pyscipopt.png)PySCIPOpt](https://github.com/SCIP-Interfaces/PySCIPOpt)
