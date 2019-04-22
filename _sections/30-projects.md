@@ -72,6 +72,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/biobuilds.png)BioBuilds](https://www.biobuilds.org/)
 - [![](assets/freud.png)freud](https://github.com/glotzerlab/freud)
 - [![](assets/signac.png)signac](https://signac.io)
+- [![](assets/tatsu.png)TatSu](https://tatsu.readthedocs.io/)
 
 <!-- Adding a new project with a logo? They're roughly sorted by GitHub stars.
 Try to insert yours in order. We use judgment for projects not on GiHhub, and
