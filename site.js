@@ -268,6 +268,11 @@ $(document).ready(function (){
       {content: 'Py 2 bug fix', start: '2019-01-01', end:'2019-06-30', py2:true},
       {content: 'Py 3 full', start: '2019-01-01', end:'2023-12-31'},
     ],
+    'TatSu':[
+      {content: 'Python 2 & 3', start: '2017-01-01', end:'2019-04-01', py2:true},
+      {content: 'Python 2 & 3 fixes', start: '2019-04-01', end:'2020-01-01', py2:true},
+      {content: 'Python 3 only', start: '2019-04-01', end:'2023-12-31'},
+    ],
 
     // for tests, rando example
     //'matplotlib':[
