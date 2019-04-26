@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+set -e
 
 # pip install pillow
 python3 scripts/thumbnail-images.py
