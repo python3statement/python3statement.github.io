@@ -18,5 +18,9 @@ for infile in glob.glob("assets/*.png"):
     im = Image.open(infile)
     if im.width <= max_size[0] and im.height <= max_size[1]:
         continue
+
+    size_before = im.size
     im.thumbnail(max_size)
     im.save(infile)
+
+    print(f"Resized {infile} from {size_before} to {im.size}")
