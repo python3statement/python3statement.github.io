@@ -3,13 +3,11 @@
 # pip install pillow
 python3 scripts/thumbnail-images.py
 
-# https://pngquant.org/
-# On Mac: brew install pngquant
+# https://pmt.sourceforge.io/pngcrush/
+# On Mac: brew install pngcrush
 
 # Options:
-#   --ext .png  Output to same filename, don't append anything else
-#   --force     Overwrite existing output files
-#   --speed 1   Slow speed, best quality
-#   --strip     Remove optional metadata
+#   -ow     Overwrite
+#   -brute  Use brute-force: try 176 different methods
 
-pngquant --ext .png --force --speed 1 --strip assets/*.png img/*.png
+find . -iname '*.png' -exec pngcrush -ow -brute {} \;
