@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 
-#https://pngquant.org/
+# pip install pillow
+python3 scripts/thumbnail-images.py
+
+# https://pngquant.org/
 # On Mac: brew install pngquant
 
 # Options:
