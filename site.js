@@ -207,6 +207,11 @@ $(document).ready(function (){
       {content: '0.5', start: '2017-10-18', end: '2019-01-14'},
       {content: '0.6', start: '2019-01-14', end: '2020-01-01'},
     ],
+    'TatSu':[
+      {content: 'Python 2 & 3', start: '2017-01-01', end:'2019-04-01', py2:true},
+      {content: 'Python 2 & 3 fixes', start: '2019-04-01', end:'2020-01-01', py2:true},
+      {content: 'Python 3 only', start: '2019-04-01', end:'2023-12-31'},
+    ],
     'rpy2':[
       {content: '2.8.x', start: '2016-12-21', end:'2018-12-21', py2:true},
       {content: '2.9.x', start: '2017-07-14', end:'2018-07-14'},
@@ -267,11 +272,6 @@ $(document).ready(function (){
       {content: 'Py 2 & 3 full', start: '2014-09-24', end:'2018-12-31', py2:true},
       {content: 'Py 2 bug fix', start: '2019-01-01', end:'2019-06-30', py2:true},
       {content: 'Py 3 full', start: '2019-01-01', end:'2023-12-31'},
-    ],
-    'TatSu':[
-      {content: 'Python 2 & 3', start: '2017-01-01', end:'2019-04-01', py2:true},
-      {content: 'Python 2 & 3 fixes', start: '2019-04-01', end:'2020-01-01', py2:true},
-      {content: 'Python 3 only', start: '2019-04-01', end:'2023-12-31'},
     ],
 
     // for tests, rando example
