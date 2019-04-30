@@ -68,13 +68,13 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/cmd2.png)cmd2](https://github.com/python-cmd2/cmd2)
 - [![](assets/osbrain.png)osBrain](https://github.com/opensistemas-hub/osbrain)
 - [![](assets/pymeasure.png)PyMeasure](https://github.com/ralph-group/pymeasure)
+- [![](assets/tatsu.png)TatSu](https://tatsu.readthedocs.io/)
 - [![](assets/chaquopy.png)Chaquopy](https://chaquo.com/chaquopy/)
 - [![](assets/angr.png)angr](http://angr.io/)
 - [![](assets/biobuilds.png)BioBuilds](https://www.biobuilds.org/)
 - [![](assets/freud.png)freud](https://github.com/glotzerlab/freud)
 - [![](assets/signac.png)signac](https://signac.io)
 - [![](assets/platon.png)PLATON](https://github.com/ideasrule/platon)
-- [![](assets/tatsu.png)TatSu](https://tatsu.readthedocs.io/)
 
 <!-- Adding a new project with a logo? They're roughly sorted by GitHub stars.
 Try to insert yours in order. We use judgment for projects not on GiHhub, and
