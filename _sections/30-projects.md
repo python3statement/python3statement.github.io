@@ -17,10 +17,11 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/tornado.png)Tornado](http://www.tornadoweb.org/)
 - [![](assets/ipython.png)IPython](https://ipython.org)
 - [![](assets/mitmproxy.png)mitmproxy](https://mitmproxy.org/)
+- [![](assets/saltstack.png)SaltStack](https://github.com/saltstack/salt)
 - [![](assets/bokeh.png)Bokeh](https://github.com/bokeh/bokeh)
 - [![](assets/kivy.png)Kivy](https://kivy.org/)
 - [![](assets/matplotlib.png)Matplotlib](https://matplotlib.org/)
-- [![](assets/numpylogoicon.svg)NumPy](https://www.numpy.org/)
+- [![](assets/numpylogoicon.png)NumPy](https://www.numpy.org/)
 - [![](assets/pillow.png)Pillow](https://github.com/python-pillow/Pillow)
 - [![](assets/scipyshiny_small.png)SciPy](https://www.scipy.org/)
 - [![](assets/ccxt.png)ccxt](https://github.com/ccxt/ccxt)
@@ -33,7 +34,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](https://cython.org/logo/cython-logo-C.svg)Cython](https://cython.org/)
 - [![](assets/tensorpack.png)Tensorpack](https://github.com/tensorpack/tensorpack)
 - [![](assets/pytest1.png)pytest](https://docs.pytest.org/en/latest)
-- [![](assets/hypothesis.svg)Hypothesis](https://hypothesis.readthedocs.io/)
+- [![](assets/hypothesis.png)Hypothesis](https://hypothesis.readthedocs.io/)
 - [![](assets/xonsh.png)xonsh](http://xon.sh)
 - [![](assets/astropy.png)Astropy](https://www.astropy.org/)
 - [![](assets/geopy.png)geopy](https://geopy.readthedocs.io/)
@@ -73,6 +74,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/freud.png)freud](https://github.com/glotzerlab/freud)
 - [![](assets/signac.png)signac](https://signac.io)
 - [![](assets/tatsu.png)TatSu](https://tatsu.readthedocs.io/)
+- [![](assets/platon.png)PLATON](https://github.com/ideasrule/platon)
 
 <!-- Adding a new project with a logo? They're roughly sorted by GitHub stars.
 Try to insert yours in order. We use judgment for projects not on GiHhub, and
