@@ -14,10 +14,10 @@ parser = argparse.ArgumentParser(
     description="Thumbnail images to a maximum size",
     formatter_class=argparse.ArgumentDefaultsHelpFormatter,
 )
-parser.add_argument("--inspec", default="assets/*.png", help="Input file specification")
+parser.add_argument("--file", default="assets/*.png", help="Input file specification")
 args = parser.parse_args()
 
-for infile in glob.glob("assets/*.png"):
+for infile in glob.glob(args.file):
     im = Image.open(infile)
     if im.width <= max_size[0] and im.height <= max_size[1]:
         continue

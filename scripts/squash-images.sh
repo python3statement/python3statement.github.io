@@ -4,7 +4,7 @@ set -e
 # pip install pillow
 if [ ! -z $1 ]
 then
-    python3 scripts/thumbnail-images.py --inspec $1
+    python3 scripts/thumbnail-images.py --file $1
 else
     python3 scripts/thumbnail-images.py
 fi
