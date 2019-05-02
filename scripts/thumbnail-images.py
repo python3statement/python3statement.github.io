@@ -3,11 +3,19 @@
 """
 Thumbnail images to a maximum of 320px wide and 160px high
 """
+import argparse
 import glob
 
 from PIL import Image  # pip install pillow
 
 max_size = 320, 160
+
+parser = argparse.ArgumentParser(
+    description="Thumbnail images to a maximum size",
+    formatter_class=argparse.ArgumentDefaultsHelpFormatter,
+)
+parser.add_argument("--inspec", default="assets/*.png", help="Input file specification")
+args = parser.parse_args()
 
 for infile in glob.glob("assets/*.png"):
     im = Image.open(infile)
