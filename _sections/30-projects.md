@@ -15,6 +15,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/pandas.png)pandas](https://pandas.pydata.org/)
 - [![](assets/scikit-learn.png)scikit-learn](https://scikit-learn.org/)
 - [![](assets/tornado.png)Tornado](http://www.tornadoweb.org/)
+- [![](assets/xgboost.png)XGBoost](https://xgboost.ai/)
 - [![](assets/ipython.png)IPython](https://ipython.org)
 - [![](assets/mitmproxy.png)mitmproxy](https://mitmproxy.org/)
 - [![](assets/saltstack.png)SaltStack](https://github.com/saltstack/salt)
