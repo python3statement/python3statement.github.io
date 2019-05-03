@@ -95,6 +95,7 @@ for some that aren't directly comparable. -->
 - [pvlib-python](https://github.com/pvlib/pvlib-python)
 - [QIIME](http://qiime.org)
 - [SPADE](https://github.com/javipalanca/spade)
+- [Plyara](https://plyara.readthedocs.io/en/latest/)
 - [gala](https://gala.readthedocs.io)
 - [CIS](https://github.com/cedadev/cis)
 - [cual-id](https://github.com/johnchase/cual-id)
