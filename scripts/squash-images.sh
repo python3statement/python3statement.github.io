@@ -9,16 +9,16 @@ else
     python3 scripts/thumbnail-images.py
 fi
 
-# https://pmt.sourceforge.io/pngcrush/
-# On Mac: brew install pngcrush
+# http://optipng.sourceforge.net/
+# On Mac: brew install optipng
 
-# Options:
-#   -ow     Overwrite
-#   -brute  Use brute-force: try 176 different methods
+# Optimization levels:
+# -o7 -zm1-9    <=> -zc1-9 -zm1-9 -zs0-3 -f0-5  (1080 trials)
 
 if [ ! -z $1 ]
 then
     pngcrush -ow -brute $1
+    optipng -o7 -zm1-9 $1
 else
-    find . -iname '*.png' -exec pngcrush -ow -brute {} \;
+    optipng -o7 -zm1-9 assets/*.png
 fi
