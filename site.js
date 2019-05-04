@@ -273,6 +273,10 @@ $(document).ready(function (){
       {content: 'Py 2 bug fix', start: '2019-01-01', end:'2019-06-30', py2:true},
       {content: 'Py 3 full', start: '2019-01-01', end:'2023-12-31'},
     ],
+    'plyara':[
+      {content: '1.x', start: '2018-07-06', end:'2019-02-01', py2:true},
+      {content: '2.x', start: '2019-02-01', end:'2020-01-01'},
+    ],
 
     // for tests, rando example
     //'matplotlib':[
