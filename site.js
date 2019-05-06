@@ -280,6 +280,10 @@ $(document).ready(function (){
     'plyara':[
       {content: '2.x', start: '2019-02-01', end:'2020-01-01'},
     ],
+    'marshmallow':[
+      {content: '2.x', start: '2015-09-25', end:'2020-01-01', py2:true},
+      {content: '3.x', start: '2019-05-05', end:'2023-12-31'},
+    ],
 
     // for tests, rando example
     //'matplotlib':[
