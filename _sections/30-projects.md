@@ -96,6 +96,7 @@ for some that aren't directly comparable. -->
 - [An Introduction to Applied Bioinformatics](http://readiab.org)
 - [pvlib-python](https://github.com/pvlib/pvlib-python)
 - [QIIME](http://qiime.org)
+- [Py-ART](https://arm-doe.github.io/pyart/)
 - [SPADE](https://github.com/javipalanca/spade)
 - [Plyara](https://plyara.readthedocs.io/en/latest/)
 - [gala](https://gala.readthedocs.io)
