@@ -68,6 +68,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/openquake.png)OpenQuake engine](https://github.com/gem/oq-engine)
 - [![](assets/yt.png)yt](https://yt-project.org/)
 - [![](assets/cmd2.png)cmd2](https://github.com/python-cmd2/cmd2)
+- [![](https://urduhack.readthedocs.io/en/stable/_static/urduhack.png)Urduhack](https://github.com/urduhack/urduhack)
 - [![](assets/osbrain.png)osBrain](https://github.com/opensistemas-hub/osbrain)
 - [![](assets/pymeasure.png)PyMeasure](https://github.com/ralph-group/pymeasure)
 - [![](assets/tatsu.png)TatSu](https://tatsu.readthedocs.io/)
