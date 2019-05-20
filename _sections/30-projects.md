@@ -86,6 +86,7 @@ for some that aren't directly comparable. -->
 
 - [NetworkX](https://github.com/networkx/networkx)
 - [folium](https://github.com/python-visualization/folium)
+- [PyQt5](https://www.riverbankcomputing.com/software/pyqt/download5)
 - [better-exceptions](https://github.com/qix-/better-exceptions)
 - [umap-learn](https://github.com/lmcinnes/umap)
 - [hdbscan](https://github.com/scikit-learn-contrib/hdbscan)
