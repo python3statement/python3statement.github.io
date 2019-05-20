@@ -100,15 +100,19 @@ $(document).ready(function (){
   //    { content:'<text>', start: <date>, end: <date>, py2:<true|false>},
   //    ...
   // ]
+  //
+  //  The placement of projects in the data does not matter.
+  //  They will be sorted alphabetically
+  //
   var data = {
     'CPython':[
       {content:'Python 2.7', start: '2010-07-03', end: '2020-01-01', py2:true},
       {content:'Python 3.3', start: '2012-09-29', end: '2017-09-29'},
-      // EOL for Python 3.4 - 3.7 not announced yet; project 5 years from initial release to follow CPython policy.
-      {content:'Python 3.4', start: '2014-03-16', end: '2019-03-16'},
+      {content:'Python 3.4', start: '2014-03-16', end: '2019-03-19'},
+      // EOL for Python 3.5 - 3.7 not announced yet; project 5 years from initial release to follow CPython policy.
       {content:'Python 3.5', start: '2015-09-13', end: '2020-09-13'},
       {content:'Python 3.6', start: '2016-12-23', end: '2021-12-23'},
-      {content:'Python 3.7', start: '2018-06-15', end: '2023-06-01'},
+      {content:'Python 3.7', start: '2018-06-27', end: '2023-06-27'},
     ],
     'IPython':[
       {content: '1.x', start: '2013-08-08', end:'2014-03-31', py2:true},
@@ -236,7 +240,7 @@ $(document).ready(function (){
         {content: 'v3', start: '2016-08-22', end: '2017-08-06', py2:true},
         {content: 'v4', start: '2017-08-22', end: '2019-06-01', py2:true},
         {content: 'v5', start: '2018-03-17', end: '2019-08-01'},
-        {content: 'v6', start: '2019-08-01', end: '2020-08-01'},
+        {content: 'v6', start: '2019-06-01', end: '2020-08-01'},
     ],
     'mitmproxy':[
         {content: '0.18.x', start: '2016-10-16', end: '2017-10-16', py2:true},
@@ -288,7 +292,7 @@ $(document).ready(function (){
     // for tests, rando example
     //'matplotlib':[
     //  {content: 'matplotlib 2.x', start: '2015-06-01', end:'2018-06-01', py2:true},
-    //  {content: 'matplotlib 3.x', start: '2018-6-12', end:'2019-12-01'},
+    //  {content: 'matplotlib 3.x', start: '2018-06-12', end:'2019-12-01'},
     //],
     //'scikit-bio':[
     //  {content: '0.18', start: '2016-05-01', end:'2016-11-01', py2:true},
@@ -299,10 +303,16 @@ $(document).ready(function (){
   }
 
   // Create a DataSet (allows two way data-binding)
-  var items = new vis.DataSet([
-  ]);
+  var items = new vis.DataSet([]);
 
-
+  // put the data in alphabetical order, except CPython at top.
+  var ordered = {};
+  Object.keys(data).sort(function (a, b) {
+	  if (a == 'CPython') return -1;
+	  if (b == 'CPython') return 1; 
+	  return a.toLowerCase().localeCompare(b.toLowerCase());
+      }).forEach(function(key) { ordered[key] = data[key] });
+  data = ordered;
 
   var groups = new vis.DataSet();
   var g=0;
