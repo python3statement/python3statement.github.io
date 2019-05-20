@@ -49,6 +49,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](//cherrypy.org/images/cherrypy.png)CherryPy](https://cherrypy.org/)
 - [![](assets/tryton.png)Tryton](https://www.tryton.org/)
 - [![](assets/pystan.png)PyStan](https://github.com/stan-dev/pystan)
+- [![](assets/misp.png)MISP](https://github.com/MISP/MISP)
 - [![](assets/mne.png)MNE](https://www.martinos.org/mne/stable/index.html)
 - [![](assets/swcarpentry.png)Software Carpentry](https://software-carpentry.org)
 - [![](assets/adb_enhanced.png)ADB-Enhanced](https://github.com/ashishb/adb-enhanced)
@@ -77,7 +78,6 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/freud.png)freud](https://github.com/glotzerlab/freud)
 - [![](assets/signac.png)signac](https://signac.io)
 - [![](assets/platon.png)PLATON](https://github.com/ideasrule/platon)
-- [![](assets/misp.png)MISP](https://github.com/MISP/MISP)
 
 <!-- Adding a new project with a logo? They're roughly sorted by GitHub stars.
 Try to insert yours in order. We use judgment for projects not on GiHhub, and
