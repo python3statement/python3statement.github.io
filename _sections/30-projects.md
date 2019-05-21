@@ -49,6 +49,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](//cherrypy.org/images/cherrypy.png)CherryPy](https://cherrypy.org/)
 - [![](assets/tryton.png)Tryton](https://www.tryton.org/)
 - [![](assets/pystan.png)PyStan](https://github.com/stan-dev/pystan)
+- [![](assets/misp.png)MISP](https://github.com/MISP/MISP)
 - [![](assets/mne.png)MNE](https://www.martinos.org/mne/stable/index.html)
 - [![](assets/swcarpentry.png)Software Carpentry](https://software-carpentry.org)
 - [![](assets/adb_enhanced.png)ADB-Enhanced](https://github.com/ashishb/adb-enhanced)
