@@ -284,6 +284,10 @@ $(document).ready(function (){
       {content: '2.x', start: '2015-09-25', end:'2020-01-01', py2:true},
       {content: '3.x', start: '2019-05-05', end:'2023-12-31'},
     ],
+    'eml_parser':[
+      {content: '2.x', start: '2014-12-08', end:'2017-05-08', py2:true},
+      {content: '3.x', start: '2014-12-08', end:'2023-12-31'},
+    ],
 
     // for tests, rando example
     //'matplotlib':[
