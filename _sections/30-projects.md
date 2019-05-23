@@ -113,6 +113,7 @@ for some that aren't directly comparable. -->
 - [Pyramid](https://trypyramid.com)
 - [multiconf](https://github.com/lhupfeldt/multiconf)
 - [jenkinsflow](https://github.com/lhupfeldt/jenkinsflow)
+- [eml_parser](https://github.com/GOVCERT-LU/eml_parser)
 
 <!-- Adding a new project without a logo? They're roughly sorted by Github stars.
 Try to insert yours in order. We use judgment for projects not on Github, and
