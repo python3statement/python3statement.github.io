@@ -1,3 +1,8 @@
 _site/
 .DS_Store
 *.swo
+.idea/misc.xml
+.idea/modules.xml
+.idea/python3statement.github.io.iml
+.idea/vcs.xml
+.idea/workspace.xml
