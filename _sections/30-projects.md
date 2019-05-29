@@ -115,6 +115,8 @@ for some that aren't directly comparable. -->
 - [multiconf](https://github.com/lhupfeldt/multiconf)
 - [jenkinsflow](https://github.com/lhupfeldt/jenkinsflow)
 - [eml_parser](https://github.com/GOVCERT-LU/eml_parser)
+- [odin](https://github.com/python-odin/odin)
+- [pyApp](https://github.com/timsavage/pyapp)
 
 <!-- Adding a new project without a logo? They're roughly sorted by Github stars.
 Try to insert yours in order. We use judgment for projects not on Github, and
