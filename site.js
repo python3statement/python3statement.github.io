@@ -292,6 +292,14 @@ $(document).ready(function (){
       {content: '2.x', start: '2014-12-08', end:'2017-05-08', py2:true},
       {content: '3.x', start: '2014-12-08', end:'2023-12-31'},
     ],
+    'pyapp': [
+      {content: '0.1-3.x', start: '2017-01-28', end: '2020-01-01', py2:true},
+      {content: '4.x', start: '2019-05-28', end: '2024-05-28', py2:false},
+    ],
+    'odin': [
+      {content: '0.4-1.x', start: '2013-11-30', end: '2020-01-01', py2:true},
+      {content: '2.x', start: '2019-11-30', end: '2024-11-30', py2:false},
+    ]
 
     // for tests, rando example
     //'matplotlib':[
