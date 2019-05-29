@@ -71,12 +71,13 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/yt.png)yt](https://yt-project.org/) <!-- 190 stars at https://github.com/yt-project/yt -->
 - [![](assets/pyscipopt.png)PySCIPOpt](https://github.com/SCIP-Interfaces/PySCIPOpt) <!-- 170 stars -->
 - [![](assets/openquake.png)OpenQuake engine](https://github.com/gem/oq-engine) <!-- 140 stars -->
+- [![](https://urduhack.readthedocs.io/en/stable/_static/urduhack.png)Urduhack](https://github.com/urduhack/urduhack) <!-- 120 stars -->
 - [![](assets/pymeasure.png)PyMeasure](https://github.com/ralph-group/pymeasure) <!-- 120 stars -->
 - [![](assets/osbrain.png)osBrain](https://github.com/opensistemas-hub/osbrain) <!-- 110 stars -->
 - [![](assets/tatsu.png)TatSu](https://tatsu.readthedocs.io/) <!-- 100 stars at https://github.com/neogeny/TatSu -->
 - [![](assets/chaquopy.png)Chaquopy](https://chaquo.com/chaquopy/) <!-- 60 stars at https://github.com/chaquo/chaquopy-->
-- [![](assets/biobuilds.png)BioBuilds](https://www.biobuilds.org/) <!-- bundle platform; unknown star equiv. -->
-- [![](assets/freud.png)freud](https://github.com/glotzerlab/freud) <!-- 17 stars; 28 contrib, 3.5k commits; 300 issues -->
+- [![](assets/biobuilds.png)BioBuilds](https://www.biobuilds.org/) <!-- bundle platform -->
+- [![](assets/freud.png)freud](https://github.com/glotzerlab/freud) <!-- 17 stars -->
 - [![](assets/signac.png)signac](https://signac.io) <!-- 20 stars at https://github.com/glotzerlab/signac moved from bb -->
 - [![](assets/platon.png)PLATON](https://github.com/ideasrule/platon) <!-- 5 stars -->
 
@@ -86,8 +87,8 @@ for some that aren't directly comparable. -->
 
 &nbsp; <!--break separating project with image from without -->
 
-- [NetworkX](https://github.com/networkx/networkx) <!-- 5,707 stars; 393,000 search results -->
-- [PyQt5](https://www.riverbankcomputing.com/software/pyqt/download5) <!-- 900,000 search results -->
+- [NetworkX](https://github.com/networkx/networkx) <!-- 5,707 stars -->
+- [PyQt5](https://www.riverbankcomputing.com/software/pyqt/download5) <!-- no github repo -->
 - [folium](https://github.com/python-visualization/folium) <!-- 3,923 stars -->
 - [better-exceptions](https://github.com/qix-/better-exceptions) <!-- 3,320 stars -->
 - [Pyramid](https://trypyramid.com) <!-- 3,138 stars at https://github.com/Pylons/pyramid -->
