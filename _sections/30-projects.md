@@ -26,17 +26,17 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/matplotlib.png)Matplotlib](https://matplotlib.org/) <!-- url:https://github.com/matplotlib/matplotlib sg:9334 -->
 - [![](assets/kivy.png)Kivy](https://kivy.org/) <!-- url:https://github.com/kivy/kivy sg:9318 -->
 - [![](assets/pillow.png)Pillow](https://github.com/python-pillow/Pillow) <!-- url:https://github.com/python-pillow/Pillow sg:6242 -->
-- [![](assets/scipyshiny_small.png)SciPy](https://www.scipy.org/) <!-- url:https://github.com/scipy/scipy sg:5862 -->
 - [![](assets/sympy.png)SymPy](https://www.sympy.org/) <!-- url:https://github.com/sympy/sympy sg:5893 -->
+- [![](assets/scipyshiny_small.png)SciPy](https://www.scipy.org/) <!-- url:https://github.com/scipy/scipy sg:5862 -->
 - [![](assets/jupyter.png)Jupyter notebook](https://jupyter.org) <!-- url:https://github.com/jupyter/notebook sg:5849 -->
 - [![](assets/spyder.png)Spyder](https://www.spyder-ide.org) <!-- url:https://github.com/spyder-ide/spyder sg:4448 -->
-- [![](assets/scikit-image.png)Scikit Image](http://scikit-image.org/) <!-- url:https://github.com/scikit-image/scikit-image sg:3031 -->
 - [![](assets/pymc3.png)PyMC3](https://github.com/pymc-devs/pymc3) <!-- url:https://github.com/pymc-devs/pymc3 sg:4232 -->
-- [![](https://cython.org/logo/cython-logo-C.svg)Cython](https://cython.org/) <!-- url:https://github.com/cython/cython sg:4115 -->
-- [![](assets/tensorpack.png)Tensorpack](https://github.com/tensorpack/tensorpack) <!-- url:https://github.com/tensorpack/tensorpack sg:4218 -->
 - [![](assets/pytest1.png)pytest](https://docs.pytest.org/en/latest) <!-- url:https://github.com/pytest-dev/pytest sg:4219 -->
-- [![](assets/hypothesis.png)Hypothesis](https://hypothesis.readthedocs.io/) <!-- url:https://github.com/HypothesisWorks/hypothesis sg:3499 -->
+- [![](assets/tensorpack.png)Tensorpack](https://github.com/tensorpack/tensorpack) <!-- url:https://github.com/tensorpack/tensorpack sg:4218 -->
+- [![](https://cython.org/logo/cython-logo-C.svg)Cython](https://cython.org/) <!-- url:https://github.com/cython/cython sg:4115 -->
 - [![](assets/marshmallow.png)marshmallow](https://github.com/marshmallow-code/marshmallow) <!-- url:https://github.com/marshmallow-code/marshmallow sg:3629 -->
+- [![](assets/hypothesis.png)Hypothesis](https://hypothesis.readthedocs.io/) <!-- url:https://github.com/HypothesisWorks/hypothesis sg:3499 -->
+- [![](assets/scikit-image.png)Scikit Image](http://scikit-image.org/) <!-- url:https://github.com/scikit-image/scikit-image sg:3031 -->
 - [![](assets/xonsh.png)xonsh](http://xon.sh)
 - [![](assets/astropy.png)Astropy](https://www.astropy.org/)
 - [![](assets/geopy.png)geopy](https://geopy.readthedocs.io/)
