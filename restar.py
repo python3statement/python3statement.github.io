@@ -33,6 +33,7 @@ with open('_sections/30-projects.md','w') as f:
         m = match.findall(line)
         if m: 
             print('.', end='')
+            sys.stdout.flush()
             org,repo = m[-1]
             url = f'https://api.github.com/repos/{org}/{repo}'
             info = requests.get(url, headers=headers).json()
