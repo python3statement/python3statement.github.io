@@ -36,22 +36,22 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](https://cython.org/logo/cython-logo-C.svg)Cython](https://cython.org/) <!-- url:https://github.com/cython/cython sg:4115 -->
 - [![](assets/marshmallow.png)marshmallow](https://github.com/marshmallow-code/marshmallow) <!-- url:https://github.com/marshmallow-code/marshmallow sg:3629 -->
 - [![](assets/hypothesis.png)Hypothesis](https://hypothesis.readthedocs.io/) <!-- url:https://github.com/HypothesisWorks/hypothesis sg:3499 -->
-- [![](assets/scikit-image.png)Scikit Image](http://scikit-image.org/) <!-- url:https://github.com/scikit-image/scikit-image sg:3031 -->
 - [![](assets/xonsh.png)xonsh](http://xon.sh) <!-- url:https://github.com/xonsh/xonsh sg:3251 -->
-- [![](assets/astropy.png)Astropy](https://www.astropy.org/) <!-- url:https://github.com/astropy/astropy sg:2086 -->
+- [![](assets/scikit-image.png)Scikit Image](http://scikit-image.org/) <!-- url:https://github.com/scikit-image/scikit-image sg:3031 -->
 - [![](assets/geopy.png)geopy](https://geopy.readthedocs.io/) <!-- url:https://github.com/geopy/geopy sg:2458 -->
-- [![](assets/biopython.png)Biopython](https://biopython.org/) <!-- url:https://github.com/biopython/biopython sg:1783 -->
-- [![](assets/nikola.png)Nikola](https://getnikola.com) <!-- url:https://github.com/getnikola/nikola sg:1709 -->
-- [![](assets/fonttools.png)FontTools](https://github.com/fonttools/fonttools) <!-- url:https://github.com/fonttools/fonttools sg:1745 -->
-- [![](assets/pythran.png)Pythran](https://github.com/serge-sans-paille/pythran) <!-- url:https://github.com/serge-sans-paille/pythran sg:1080 -->
-- [![](assets/art_logo.png)Adversarial Robustness Toolbox](https://github.com/IBM/adversarial-robustness-toolbox) <!-- url:https://github.com/IBM/adversarial-robustness-toolbox sg:758 -->
-- [![](assets/xarray.png)xarray](https://xarray.pydata.org/) <!-- url:https://github.com/pydata/xarray sg:1251 -->
-- [![](assets/dateutil.png)dateutil](https://github.com/dateutil/dateutil) <!-- url:https://github.com/dateutil/dateutil sg:974 -->
-- [![](//cherrypy.org/images/cherrypy.png)CherryPy](https://cherrypy.org/) <!-- url:https://github.com/cherrypy/cherrypy sg:982 -->
-- [![](assets/tryton.png)Tryton](https://www.tryton.org/) <!--  no GitHub org, making up a stargazer count sg:950  -->
 - [![](assets/misp.png)MISP](https://github.com/MISP/MISP) <!-- url:https://github.com/MISP/MISP sg:2104 -->
-- [![](assets/pystan.png)PyStan](https://github.com/stan-dev/pystan) <!-- url:https://github.com/stan-dev/pystan sg:671 -->
+- [![](assets/astropy.png)Astropy](https://www.astropy.org/) <!-- url:https://github.com/astropy/astropy sg:2086 -->
+- [![](assets/biopython.png)Biopython](https://biopython.org/) <!-- url:https://github.com/biopython/biopython sg:1783 -->
+- [![](assets/fonttools.png)FontTools](https://github.com/fonttools/fonttools) <!-- url:https://github.com/fonttools/fonttools sg:1745 -->
+- [![](assets/nikola.png)Nikola](https://getnikola.com) <!-- url:https://github.com/getnikola/nikola sg:1709 -->
+- [![](assets/xarray.png)xarray](https://xarray.pydata.org/) <!-- url:https://github.com/pydata/xarray sg:1251 -->
+- [![](assets/pythran.png)Pythran](https://github.com/serge-sans-paille/pythran) <!-- url:https://github.com/serge-sans-paille/pythran sg:1080 -->
+- [![](//cherrypy.org/images/cherrypy.png)CherryPy](https://cherrypy.org/) <!-- url:https://github.com/cherrypy/cherrypy sg:982 -->
+- [![](assets/dateutil.png)dateutil](https://github.com/dateutil/dateutil) <!-- url:https://github.com/dateutil/dateutil sg:974 -->
+- [![](assets/tryton.png)Tryton](https://www.tryton.org/) <!--  no GitHub org, making up a stargazer count sg:950  -->
 - [![](assets/mne.png)MNE](https://www.martinos.org/mne/stable/index.html) <!-- url:https://github.com/mne-tools/mne-python sg:861 -->
+- [![](assets/art_logo.png)Adversarial Robustness Toolbox](https://github.com/IBM/adversarial-robustness-toolbox) <!-- url:https://github.com/IBM/adversarial-robustness-toolbox sg:758 -->
+- [![](assets/pystan.png)PyStan](https://github.com/stan-dev/pystan) <!-- url:https://github.com/stan-dev/pystan sg:671 -->
 - [![](assets/swcarpentry.png)Software Carpentry](https://software-carpentry.org)  <!--  sg:600  -->
 - [![](assets/adb_enhanced.png)ADB-Enhanced](https://github.com/ashishb/adb-enhanced) <!-- url:https://github.com/ashishb/adb-enhanced sg:559 -->
 - [![](assets/cartopy.png)Cartopy](https://scitools.org.uk/cartopy/docs/latest/) <!-- url:https://github.com/SciTools/cartopy sg:536 -->
