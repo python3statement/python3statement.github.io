@@ -11,7 +11,7 @@ style: center
 These projects pledge to drop Python 2 support in or before 2020.
 
 - [![](assets/tensorflow.png)TensorFlow](https://www.tensorflow.org/)
-- [![](assets/requests.png)Requests](https://github.com/kennethreitz/requests) <!-- url:https://github.com/kennethreitz/requests sg:38790 -->
+- [![](assets/requests.png)Requests](https://github.com/kennethreitz/requests) <!-- url:https://github.com/kennethreitz/requests sg:38793 -->
 - [![](assets/pandas.png)pandas](https://pandas.pydata.org/)
 - [![](assets/scikit-learn.png)scikit-learn](https://scikit-learn.org/)
 - [![](assets/tornado.png)Tornado](http://www.tornadoweb.org/)
@@ -19,13 +19,13 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/ipython.png)IPython](https://ipython.org)
 - [![](assets/mitmproxy.png)mitmproxy](https://mitmproxy.org/)
 - [![](assets/saltstack.png)SaltStack](https://github.com/saltstack/salt) <!-- url:https://github.com/saltstack/salt sg:9950 -->
-- [![](assets/bokeh.png)Bokeh](https://github.com/bokeh/bokeh) <!-- url:https://github.com/bokeh/bokeh sg:9491 -->
+- [![](assets/bokeh.png)Bokeh](https://github.com/bokeh/bokeh) <!-- url:https://github.com/bokeh/bokeh sg:9492 -->
 - [![](assets/kivy.png)Kivy](https://kivy.org/)
 - [![](assets/matplotlib.png)Matplotlib](https://matplotlib.org/)
 - [![](assets/numpylogoicon.png)NumPy](https://www.numpy.org/)
 - [![](assets/pillow.png)Pillow](https://github.com/python-pillow/Pillow) <!-- url:https://github.com/python-pillow/Pillow sg:6242 -->
 - [![](assets/scipyshiny_small.png)SciPy](https://www.scipy.org/)
-- [![](assets/ccxt.png)ccxt](https://github.com/ccxt/ccxt) <!-- url:https://github.com/ccxt/ccxt sg:10889 -->
+- [![](assets/ccxt.png)ccxt](https://github.com/ccxt/ccxt) <!-- url:https://github.com/ccxt/ccxt sg:10890 -->
 - [![](assets/zulip.png)Zulip](https://zulip.org)
 - [![](assets/sympy.png)SymPy](https://www.sympy.org/)
 - [![](assets/jupyter.png)Jupyter notebook](https://jupyter.org)
@@ -78,7 +78,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/chaquopy.png)Chaquopy](https://chaquo.com/chaquopy/)
 - [![](assets/angr.png)angr](http://angr.io/)
 - [![](assets/biobuilds.png)BioBuilds](https://www.biobuilds.org/)
-- [![](assets/freud.png)freud](https://github.com/glotzerlab/freud) <!-- url:https://github.com/glotzerlab/freud sg:18 -->
+- [![](assets/freud.png)freud](https://github.com/glotzerlab/freud) <!-- url:https://github.com/glotzerlab/freud sg:19 -->
 - [![](assets/signac.png)signac](https://signac.io)
 - [![](assets/platon.png)PLATON](https://github.com/ideasrule/platon) <!-- url:https://github.com/ideasrule/platon sg:5 -->
 - [![](assets/manticore.png)Manticore](https://github.com/trailofbits/manticore) <!-- url:https://github.com/trailofbits/manticore sg:1635 -->
@@ -100,7 +100,7 @@ for some that aren't directly comparable. -->
 - [music21](http://web.mit.edu/music21/)
 - [imageio](https://imageio.github.io)
 - [An Introduction to Applied Bioinformatics](http://readiab.org)
-- [pvlib-python](https://github.com/pvlib/pvlib-python) <!-- url:https://github.com/pvlib/pvlib-python sg:254 -->
+- [pvlib-python](https://github.com/pvlib/pvlib-python) <!-- url:https://github.com/pvlib/pvlib-python sg:255 -->
 - [QIIME](http://qiime.org)
 - [Py-ART](https://arm-doe.github.io/pyart/)
 - [SPADE](https://github.com/javipalanca/spade) <!-- url:https://github.com/javipalanca/spade sg:128 -->
