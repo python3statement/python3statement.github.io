@@ -12,21 +12,21 @@ These projects pledge to drop Python 2 support in or before 2020.
 
 - [![](assets/tensorflow.png)TensorFlow](https://www.tensorflow.org/) <!-- url:https://github.com/tensorflow/tensorflow sg:128577 -->
 - [![](assets/requests.png)Requests](https://github.com/kennethreitz/requests) <!-- url:https://github.com/kennethreitz/requests sg:38793 -->
-- [![](assets/pandas.png)pandas](https://pandas.pydata.org/) <!-- 35k stars at https://github.com/pandas-dev/pandas -->
-- [![](assets/scikit-learn.png)scikit-learn](https://scikit-learn.org/) <!-- https://github.com/scikit-learn/scikit-learn -->
-- [![](assets/tornado.png)Tornado](http://www.tornadoweb.org/) <!--  https://github.com/tornadoweb/tornado  -->
-- [![](assets/xgboost.png)XGBoost](https://xgboost.ai/) <!--  https://github.com/dmlc/xgboost  -->
-- [![](assets/ipython.png)IPython](https://ipython.org)  <!--   https://github.com/ipython/ipython  -->
-- [![](assets/mitmproxy.png)mitmproxy](https://mitmproxy.org/) <!--   https://github.com/mitmproxy/mitmproxy  -->
-- [![](assets/saltstack.png)SaltStack](https://github.com/saltstack/salt) <!-- url:https://github.com/saltstack/salt sg:9950 -->
-- [![](assets/bokeh.png)Bokeh](https://github.com/bokeh/bokeh) <!-- url:https://github.com/bokeh/bokeh sg:9492 -->
-- [![](assets/kivy.png)Kivy](https://kivy.org/) <!--  https://github.com/kivy/kivy  -->
-- [![](assets/matplotlib.png)Matplotlib](https://matplotlib.org/) <!--  https://github.com/matplotlib/matplotlib  -->
-- [![](assets/numpylogoicon.png)NumPy](https://www.numpy.org/) <!-- https://github.com/numpy/numpy   -->
-- [![](assets/pillow.png)Pillow](https://github.com/python-pillow/Pillow) <!-- url:https://github.com/python-pillow/Pillow sg:6242 -->
-- [![](assets/scipyshiny_small.png)SciPy](https://www.scipy.org/) <!--   https://github.com/scipy/scipy -->
+- [![](assets/scikit-learn.png)scikit-learn](https://scikit-learn.org/) <!-- url:https://github.com/scikit-learn/scikit-learn sg:35400 -->
+- [![](assets/pandas.png)pandas](https://pandas.pydata.org/) <!-- url:https://github.com/pandas-dev/pandas sg:19734 -->
+- [![](assets/tornado.png)Tornado](http://www.tornadoweb.org/) <!-- url:https://github.com/tornadoweb/tornado sg:17808 -->
+- [![](assets/xgboost.png)XGBoost](https://xgboost.ai/) <!-- url:https://github.com/dmlc/xgboost sg:16122 -->
+- [![](assets/mitmproxy.png)mitmproxy](https://mitmproxy.org/) <!-- url:https://github.com/mitmproxy/mitmproxy sg:15172 -->
+- [![](assets/ipython.png)IPython](https://ipython.org)  <!-- url:https://github.com/ipython/ipython sg:13592 -->
 - [![](assets/ccxt.png)ccxt](https://github.com/ccxt/ccxt) <!-- url:https://github.com/ccxt/ccxt sg:10890 -->
-- [![](assets/zulip.png)Zulip](https://zulip.org) <!--   https://github.com/zulip/zulip -->
+- [![](assets/numpylogoicon.png)NumPy](https://www.numpy.org/) <!-- url:https://github.com/numpy/numpy sg:10749 -->
+- [![](assets/saltstack.png)SaltStack](https://github.com/saltstack/salt) <!-- url:https://github.com/saltstack/salt sg:9950 -->
+- [![](assets/zulip.png)Zulip](https://zulip.org) <!-- url:https://github.com/zulip/zulip sg:9877 -->
+- [![](assets/bokeh.png)Bokeh](https://github.com/bokeh/bokeh) <!-- url:https://github.com/bokeh/bokeh sg:9492 -->
+- [![](assets/matplotlib.png)Matplotlib](https://matplotlib.org/) <!-- url:https://github.com/matplotlib/matplotlib sg:9334 -->
+- [![](assets/kivy.png)Kivy](https://kivy.org/) <!-- url:https://github.com/kivy/kivy sg:9318 -->
+- [![](assets/pillow.png)Pillow](https://github.com/python-pillow/Pillow) <!-- url:https://github.com/python-pillow/Pillow sg:6242 -->
+- [![](assets/scipyshiny_small.png)SciPy](https://www.scipy.org/) <!-- url:https://github.com/scipy/scipy sg:5862 -->
 - [![](assets/sympy.png)SymPy](https://www.sympy.org/)
 - [![](assets/jupyter.png)Jupyter notebook](https://jupyter.org)
 - [![](assets/spyder.png)Spyder](https://www.spyder-ide.org)
@@ -49,8 +49,8 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/dateutil.png)dateutil](https://github.com/dateutil/dateutil) <!-- url:https://github.com/dateutil/dateutil sg:974 -->
 - [![](//cherrypy.org/images/cherrypy.png)CherryPy](https://cherrypy.org/)
 - [![](assets/tryton.png)Tryton](https://www.tryton.org/)
-- [![](assets/pystan.png)PyStan](https://github.com/stan-dev/pystan) <!-- url:https://github.com/stan-dev/pystan sg:671 -->
 - [![](assets/misp.png)MISP](https://github.com/MISP/MISP) <!-- url:https://github.com/MISP/MISP sg:2104 -->
+- [![](assets/pystan.png)PyStan](https://github.com/stan-dev/pystan) <!-- url:https://github.com/stan-dev/pystan sg:671 -->
 - [![](assets/mne.png)MNE](https://www.martinos.org/mne/stable/index.html)
 - [![](assets/swcarpentry.png)Software Carpentry](https://software-carpentry.org)
 - [![](assets/adb_enhanced.png)ADB-Enhanced](https://github.com/ashishb/adb-enhanced) <!-- url:https://github.com/ashishb/adb-enhanced sg:559 -->
@@ -72,16 +72,16 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/yt.png)yt](https://yt-project.org/)
 - [![](assets/cmd2.png)cmd2](https://github.com/python-cmd2/cmd2)
 - [![](https://urduhack.readthedocs.io/en/stable/_static/urduhack.png)Urduhack](https://github.com/urduhack/urduhack) <!-- url:https://github.com/urduhack/urduhack sg:121 -->
-- [![](assets/osbrain.png)osBrain](https://github.com/opensistemas-hub/osbrain) <!-- url:https://github.com/opensistemas-hub/osbrain sg:114 -->
 - [![](assets/pymeasure.png)PyMeasure](https://github.com/ralph-group/pymeasure) <!-- url:https://github.com/ralph-group/pymeasure sg:121 -->
+- [![](assets/osbrain.png)osBrain](https://github.com/opensistemas-hub/osbrain) <!-- url:https://github.com/opensistemas-hub/osbrain sg:114 -->
 - [![](assets/tatsu.png)TatSu](https://tatsu.readthedocs.io/)
 - [![](assets/chaquopy.png)Chaquopy](https://chaquo.com/chaquopy/)
 - [![](assets/angr.png)angr](http://angr.io/)
 - [![](assets/biobuilds.png)BioBuilds](https://www.biobuilds.org/)
 - [![](assets/freud.png)freud](https://github.com/glotzerlab/freud) <!-- url:https://github.com/glotzerlab/freud sg:19 -->
 - [![](assets/signac.png)signac](https://signac.io)
-- [![](assets/platon.png)PLATON](https://github.com/ideasrule/platon) <!-- url:https://github.com/ideasrule/platon sg:5 -->
 - [![](assets/manticore.png)Manticore](https://github.com/trailofbits/manticore) <!-- url:https://github.com/trailofbits/manticore sg:1635 -->
+- [![](assets/platon.png)PLATON](https://github.com/ideasrule/platon) <!-- url:https://github.com/ideasrule/platon sg:5 -->
 
 <!-- Adding a new project with a logo? They're roughly sorted by GitHub stars.
 Try to insert yours in order. We use judgment for projects not on GiHhub, and
@@ -106,18 +106,18 @@ for some that aren't directly comparable. -->
 - [SPADE](https://github.com/javipalanca/spade) <!-- url:https://github.com/javipalanca/spade sg:128 -->
 - [Plyara](https://plyara.readthedocs.io/en/latest/)
 - [gala](https://gala.readthedocs.io)
+- [stomp.py](https://github.com/jasonrbriggs/stomp.py) <!-- url:https://github.com/jasonrbriggs/stomp.py sg:312 -->
 - [CIS](https://github.com/cedadev/cis) <!-- url:https://github.com/cedadev/cis sg:22 -->
 - [cual-id](https://github.com/johnchase/cual-id) <!-- url:https://github.com/johnchase/cual-id sg:15 -->
-- [stomp.py](https://github.com/jasonrbriggs/stomp.py) <!-- url:https://github.com/jasonrbriggs/stomp.py sg:312 -->
 - [tinytext](https://github.com/hugovk/tinytext) <!-- url:https://github.com/hugovk/tinytext sg:4 -->
-- [OSMViz](https://github.com/hugovk/osmviz) <!-- url:https://github.com/hugovk/osmviz sg:3 -->
 - [fino](https://github.com/hugovk/fino) <!-- url:https://github.com/hugovk/fino sg:4 -->
+- [OSMViz](https://github.com/hugovk/osmviz) <!-- url:https://github.com/hugovk/osmviz sg:3 -->
 - [MambuPy](https://github.com/jstitch/MambuPy) <!-- url:https://github.com/jstitch/MambuPy sg:0 -->
 - [Pyramid](https://trypyramid.com)
-- [multiconf](https://github.com/lhupfeldt/multiconf) <!-- url:https://github.com/lhupfeldt/multiconf sg:5 -->
-- [jenkinsflow](https://github.com/lhupfeldt/jenkinsflow) <!-- url:https://github.com/lhupfeldt/jenkinsflow sg:10 -->
 - [eml_parser](https://github.com/GOVCERT-LU/eml_parser) <!-- url:https://github.com/GOVCERT-LU/eml_parser sg:62 -->
 - [odin](https://github.com/python-odin/odin) <!-- url:https://github.com/python-odin/odin sg:11 -->
+- [jenkinsflow](https://github.com/lhupfeldt/jenkinsflow) <!-- url:https://github.com/lhupfeldt/jenkinsflow sg:10 -->
+- [multiconf](https://github.com/lhupfeldt/multiconf) <!-- url:https://github.com/lhupfeldt/multiconf sg:5 -->
 - [pyApp](https://github.com/timsavage/pyapp) <!-- url:https://github.com/timsavage/pyapp sg:0 -->
 
 <!-- Adding a new project without a logo? They're roughly sorted by Github stars.
