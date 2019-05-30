@@ -12,21 +12,21 @@ These projects pledge to drop Python 2 support in or before 2020.
 
 - [![](assets/tensorflow.png)TensorFlow](https://www.tensorflow.org/) <!-- url:https://github.com/tensorflow/tensorflow sg:128577 -->
 - [![](assets/requests.png)Requests](https://github.com/kennethreitz/requests) <!-- url:https://github.com/kennethreitz/requests sg:38793 -->
-- [![](assets/pandas.png)pandas](https://pandas.pydata.org/)
-- [![](assets/scikit-learn.png)scikit-learn](https://scikit-learn.org/)
-- [![](assets/tornado.png)Tornado](http://www.tornadoweb.org/)
-- [![](assets/xgboost.png)XGBoost](https://xgboost.ai/)
-- [![](assets/ipython.png)IPython](https://ipython.org)
-- [![](assets/mitmproxy.png)mitmproxy](https://mitmproxy.org/)
+- [![](assets/pandas.png)pandas](https://pandas.pydata.org/) <!-- 35k stars at https://github.com/pandas-dev/pandas -->
+- [![](assets/scikit-learn.png)scikit-learn](https://scikit-learn.org/) <!-- https://github.com/scikit-learn/scikit-learn -->
+- [![](assets/tornado.png)Tornado](http://www.tornadoweb.org/) <!--  https://github.com/tornadoweb/tornado  -->
+- [![](assets/xgboost.png)XGBoost](https://xgboost.ai/) <!--  https://github.com/dmlc/xgboost  -->
+- [![](assets/ipython.png)IPython](https://ipython.org)  <!--   https://github.com/ipython/ipython  -->
+- [![](assets/mitmproxy.png)mitmproxy](https://mitmproxy.org/) <!--   https://github.com/mitmproxy/mitmproxy  -->
 - [![](assets/saltstack.png)SaltStack](https://github.com/saltstack/salt) <!-- url:https://github.com/saltstack/salt sg:9950 -->
 - [![](assets/bokeh.png)Bokeh](https://github.com/bokeh/bokeh) <!-- url:https://github.com/bokeh/bokeh sg:9492 -->
-- [![](assets/kivy.png)Kivy](https://kivy.org/)
-- [![](assets/matplotlib.png)Matplotlib](https://matplotlib.org/)
-- [![](assets/numpylogoicon.png)NumPy](https://www.numpy.org/)
+- [![](assets/kivy.png)Kivy](https://kivy.org/) <!--  https://github.com/kivy/kivy  -->
+- [![](assets/matplotlib.png)Matplotlib](https://matplotlib.org/) <!--  https://github.com/matplotlib/matplotlib  -->
+- [![](assets/numpylogoicon.png)NumPy](https://www.numpy.org/) <!-- https://github.com/numpy/numpy   -->
 - [![](assets/pillow.png)Pillow](https://github.com/python-pillow/Pillow) <!-- url:https://github.com/python-pillow/Pillow sg:6242 -->
-- [![](assets/scipyshiny_small.png)SciPy](https://www.scipy.org/)
+- [![](assets/scipyshiny_small.png)SciPy](https://www.scipy.org/) <!--   https://github.com/scipy/scipy -->
 - [![](assets/ccxt.png)ccxt](https://github.com/ccxt/ccxt) <!-- url:https://github.com/ccxt/ccxt sg:10890 -->
-- [![](assets/zulip.png)Zulip](https://zulip.org)
+- [![](assets/zulip.png)Zulip](https://zulip.org) <!--   https://github.com/zulip/zulip -->
 - [![](assets/sympy.png)SymPy](https://www.sympy.org/)
 - [![](assets/jupyter.png)Jupyter notebook](https://jupyter.org)
 - [![](assets/spyder.png)Spyder](https://www.spyder-ide.org)
