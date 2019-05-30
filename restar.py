@@ -38,6 +38,11 @@ with open('_sections/30-projects.md','w') as f:
             url = f'https://api.github.com/repos/{org}/{repo}'
             info = requests.get(url, headers=headers).json()
             llll  =     line.split(' <!')[0]
+            # do not write url:.... if the link url match the same.
+            # if len(m) == 2:
+            #     if m[1] == m[0]:
+            #         f.write(llll + f" <!-- sg:{info['stargazers_count']} -->\n")
+            #         continue
             f.write(llll + f" <!-- url:https://github.com/{org}/{repo} sg:{info['stargazers_count']} -->\n")
         else:
             f.write(line+'\n')
