@@ -21,7 +21,7 @@ if token:
         "Authorization": f"token {token}"
     }
 
-match = re.compile('github.com/([a-zA-Z-]+)/([0-9a-zA-Z-._]+)/?')
+match = re.compile('github.com/([a-zA-Z0-9-]+)/([0-9a-zA-Z-._]+)/?')
 
 with open('_sections/30-projects.md','w') as f: 
 
