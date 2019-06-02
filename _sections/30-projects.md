@@ -67,6 +67,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/toyplot-256x256.png)Toyplot](https://github.com/sandialabs/toyplot) <!-- url:https://github.com/sandialabs/toyplot sg:372 -->
 - [![](assets/psi4square.png)Psi4](http://psicode.org/) <!-- url:https://github.com/psi4/psi4 sg:335 -->
 - [![](assets/pylast.png)pyLast](https://github.com/pylast/pylast) <!-- url:https://github.com/pylast/pylast sg:316 -->
+- [![](assets/iris.png)iris](https://scitools.org.uk/iris/docs/latest/) <!-- url:https://github.com/SciTools/iris sg:285 -->
 - [![](assets/cmd2.png)cmd2](https://github.com/python-cmd2/cmd2) <!-- url:https://github.com/python-cmd2/cmd2 sg:203 -->
 - [![](assets/yt.png)yt](https://yt-project.org/) <!-- url:https://github.com/yt-project/yt sg:189 -->
 - [![](assets/pyscipopt.png)PySCIPOpt](https://github.com/SCIP-Interfaces/PySCIPOpt) <!-- url:https://github.com/SCIP-Interfaces/PySCIPOpt sg:169 -->
