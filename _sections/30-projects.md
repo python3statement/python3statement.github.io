@@ -13,6 +13,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/tensorflow.png)TensorFlow](https://www.tensorflow.org/) <!-- url:https://github.com/tensorflow/tensorflow sg:128577 -->
 - [![](assets/requests.png)Requests](https://github.com/kennethreitz/requests) <!-- url:https://github.com/kennethreitz/requests sg:38793 -->
 - [![](assets/scikit-learn.png)scikit-learn](https://scikit-learn.org/) <!-- url:https://github.com/scikit-learn/scikit-learn sg:35400 -->
+- [![](assets/apache_spark.png)Apache Spark](https://spark.apache.org/) <!-- url:https://github.com/apache/spark sg:22104 -->
 - [![](assets/pandas.png)pandas](https://pandas.pydata.org/) <!-- url:https://github.com/pandas-dev/pandas sg:19734 -->
 - [![](assets/tornado.png)Tornado](http://www.tornadoweb.org/) <!-- url:https://github.com/tornadoweb/tornado sg:17808 -->
 - [![](assets/xgboost.png)XGBoost](https://xgboost.ai/) <!-- url:https://github.com/dmlc/xgboost sg:16122 -->

@@ -299,6 +299,10 @@ $(document).ready(function (){
     'odin': [
       {content: '0.4-1.x', start: '2013-11-30', end: '2020-01-01', py2:true},
       {content: '2.x', start: '2019-11-30', end: '2024-11-30', py2:false},
+    ],
+    'Apache Spark': [
+      {content: 'Python 2 & 3', start: '2015-07-15', end: '2020-04-01', py2:true},
+      {content: 'Python 3 only', start: '2020-04-01', end: '2023-12-31'},
     ]
 
     // for tests, rando example
