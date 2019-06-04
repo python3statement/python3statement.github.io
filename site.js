@@ -303,7 +303,7 @@ $(document).ready(function (){
     'Apache Spark': [
       {content: 'Python 2 & 3', start: '2015-07-15', end: '2020-04-01', py2:true},
       {content: 'Python 3 only', start: '2020-04-01', end: '2023-12-31'},
-    ]
+    ],
     'Iris': [
       {content: '1.x', start: '2015-12-10', end: '2018-02-14', py2:true},
       {content: '2.x', start: '2018-02-14', end: '2019-12-31', py2:true},
