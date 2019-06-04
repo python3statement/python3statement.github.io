@@ -56,22 +56,22 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/swcarpentry.png)Software Carpentry](https://software-carpentry.org)  <!--  sg:600  -->
 - [![](assets/adb_enhanced.png)ADB-Enhanced](https://github.com/ashishb/adb-enhanced) <!-- url:https://github.com/ashishb/adb-enhanced sg:559 -->
 - [![](assets/cartopy.png)Cartopy](https://scitools.org.uk/cartopy/docs/latest/) <!-- url:https://github.com/SciTools/cartopy sg:536 -->
-- [![](assets/skbio.png)scikit-bio](http://scikit-bio.org)
+- [![](assets/skbio.png)scikit-bio](http://scikit-bio.org) <!-- url:https://github.com/biocore/scikit-bio sg:478 -->
 - [![](assets/fecon235.png)fecon235](https://github.com/rsvp/fecon235) <!-- url:https://github.com/rsvp/fecon235 sg:501 -->
-- [![](assets/sunpy.png)SunPy](https://sunpy.org/)
+- [![](assets/sunpy.png)SunPy](https://sunpy.org/) <!-- url:https://github.com/sunpy/sunpy sg:428 -->
 - [![](assets/axelrod.png)Axelrod](https://github.com/Axelrod-Python/Axelrod) <!-- url:https://github.com/Axelrod-Python/Axelrod sg:395 -->
-- [![](assets/rpy2_logo_64x64.png)rpy2](https://rpy2.bitbucket.io)
-- [![](assets/fenics.png)FEniCS](https://fenicsproject.org/)
+- [![](assets/rpy2_logo_64x64.png)rpy2](https://rpy2.bitbucket.io) <!-- sg:390-->
+- [![](assets/fenics.png)FEniCS](https://fenicsproject.org/)  <!-- url:https://github.com/FEniCS/dolfin sg:77 -->
 - [![](assets/rdkit.png)RDKit](https://github.com/rdkit/rdkit) <!-- url:https://github.com/rdkit/rdkit sg:595 -->
 - [![](assets/toyplot-256x256.png)Toyplot](https://github.com/sandialabs/toyplot) <!-- url:https://github.com/sandialabs/toyplot sg:372 -->
-- [![](assets/metpy.png)MetPy](https://unidata.github.io/MetPy)
-- [![](assets/nengo.png)Nengo](https://www.nengo.ai/)
+- [![](assets/metpy.png)MetPy](https://unidata.github.io/MetPy) <!-- url:https://github.com/Unidata/MetPy sg:440 -->
+- [![](assets/nengo.png)Nengo](https://www.nengo.ai/) <!-- url:https://github.com/nengo/nengo sg:415 -->
 - [![](assets/pylast.png)pyLast](https://github.com/pylast/pylast) <!-- url:https://github.com/pylast/pylast sg:314 -->
-- [![](assets/psi4square.png)Psi4](http://psicode.org/)
+- [![](assets/psi4square.png)Psi4](http://psicode.org/) <!-- url:https://github.com/psi4/psi4 sg:335 -->
 - [![](assets/pyscipopt.png)PySCIPOpt](https://github.com/SCIP-Interfaces/PySCIPOpt) <!-- url:https://github.com/SCIP-Interfaces/PySCIPOpt sg:169 -->
 - [![](assets/openquake.png)OpenQuake engine](https://github.com/gem/oq-engine) <!-- url:https://github.com/gem/oq-engine sg:142 -->
-- [![](assets/yt.png)yt](https://yt-project.org/)
-- [![](assets/cmd2.png)cmd2](https://github.com/python-cmd2/cmd2)
+- [![](assets/yt.png)yt](https://yt-project.org/) <!-- url:https://github.com/yt-project/yt sg:189 -->
+- [![](assets/cmd2.png)cmd2](https://github.com/python-cmd2/cmd2) <!-- url:https://github.com/python-cmd2/cmd2 sg:203 -->
 - [![](https://urduhack.readthedocs.io/en/stable/_static/urduhack.png)Urduhack](https://github.com/urduhack/urduhack) <!-- url:https://github.com/urduhack/urduhack sg:121 -->
 - [![](assets/pymeasure.png)PyMeasure](https://github.com/ralph-group/pymeasure) <!-- url:https://github.com/ralph-group/pymeasure sg:121 -->
 - [![](assets/osbrain.png)osBrain](https://github.com/opensistemas-hub/osbrain) <!-- url:https://github.com/opensistemas-hub/osbrain sg:114 -->
