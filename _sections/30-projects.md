@@ -29,13 +29,13 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/matplotlib.png)Matplotlib](https://matplotlib.org/) <!-- url:https://github.com/matplotlib/matplotlib sg:9435 -->
 - [![](assets/kivy.png)Kivy](https://kivy.org/) <!-- url:https://github.com/kivy/kivy sg:9413 -->
 - [![](assets/pillow.png)Pillow](https://github.com/python-pillow/Pillow) <!-- url:https://github.com/python-pillow/Pillow sg:6309 -->
-- [![](assets/sympy.png)SymPy](https://www.sympy.org/) <!-- url:https://github.com/sympy/sympy sg:5941 -->
 - [![](assets/scipyshiny_small.png)SciPy](https://www.scipy.org/) <!-- url:https://github.com/scipy/scipy sg:5942 -->
+- [![](assets/sympy.png)SymPy](https://www.sympy.org/) <!-- url:https://github.com/sympy/sympy sg:5941 -->
 - [![](assets/jupyter.png)Jupyter notebook](https://jupyter.org) <!-- url:https://github.com/jupyter/notebook sg:5920 -->
 - [![](assets/spyder.png)Spyder](https://www.spyder-ide.org) <!-- url:https://github.com/spyder-ide/spyder sg:4497 -->
-- [![](assets/pymc3.png)PyMC3](https://github.com/pymc-devs/pymc3) <!-- url:https://github.com/pymc-devs/pymc3 sg:4268 -->
 - [![](assets/pytest1.png)pytest](https://docs.pytest.org/en/latest) <!-- url:https://github.com/pytest-dev/pytest sg:4328 -->
 - [![](assets/tensorpack.png)Tensorpack](https://github.com/tensorpack/tensorpack) <!-- url:https://github.com/tensorpack/tensorpack sg:4289 -->
+- [![](assets/pymc3.png)PyMC3](https://github.com/pymc-devs/pymc3) <!-- url:https://github.com/pymc-devs/pymc3 sg:4268 -->
 - [![](https://cython.org/logo/cython-logo-C.svg)Cython](https://cython.org/) <!-- url:https://github.com/cython/cython sg:4162 -->
 - [![](assets/marshmallow.png)marshmallow](https://github.com/marshmallow-code/marshmallow) <!-- url:https://github.com/marshmallow-code/marshmallow sg:3686 -->
 - [![](assets/hypothesis.png)Hypothesis](https://hypothesis.readthedocs.io/) <!-- url:https://github.com/HypothesisWorks/hypothesis sg:3531 -->
@@ -49,14 +49,14 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/nikola.png)Nikola](https://getnikola.com) <!-- url:https://github.com/getnikola/nikola sg:1722 -->
 - [![](assets/xarray.png)xarray](https://xarray.pydata.org/) <!-- url:https://github.com/pydata/xarray sg:1271 -->
 - [![](assets/pythran.png)Pythran](https://github.com/serge-sans-paille/pythran) <!-- url:https://github.com/serge-sans-paille/pythran sg:1093 -->
-- [![](//cherrypy.org/images/cherrypy.png)CherryPy](https://cherrypy.org/) <!-- url:https://github.com/cherrypy/cherrypy sg:991 -->
 - [![](assets/dateutil.png)dateutil](https://github.com/dateutil/dateutil) <!-- url:https://github.com/dateutil/dateutil sg:1001 -->
+- [![](//cherrypy.org/images/cherrypy.png)CherryPy](https://cherrypy.org/) <!-- url:https://github.com/cherrypy/cherrypy sg:991 -->
 - [![](assets/tryton.png)Tryton](https://www.tryton.org/) <!--  no GitHub org, making up a stargazer count sg:950  -->
 - [![](assets/mne.png)MNE](https://www.martinos.org/mne/stable/index.html) <!-- url:https://github.com/mne-tools/mne-python sg:873 -->
 - [![](assets/art_logo.png)Adversarial Robustness Toolbox](https://github.com/IBM/adversarial-robustness-toolbox) <!-- url:https://github.com/IBM/adversarial-robustness-toolbox sg:793 -->
 - [![](assets/pystan.png)PyStan](https://github.com/stan-dev/pystan) <!-- url:https://github.com/stan-dev/pystan sg:678 -->
-- [![](assets/swcarpentry.png)Software Carpentry](https://software-carpentry.org)  <!--  sg:600  -->
 - [![](assets/rdkit.png)RDKit](https://github.com/rdkit/rdkit) <!-- url:https://github.com/rdkit/rdkit sg:618 -->
+- [![](assets/swcarpentry.png)Software Carpentry](https://software-carpentry.org)  <!--  sg:600  -->
 - [![](assets/adb_enhanced.png)ADB-Enhanced](https://github.com/ashishb/adb-enhanced) <!-- url:https://github.com/ashishb/adb-enhanced sg:562 -->
 - [![](assets/cartopy.png)Cartopy](https://scitools.org.uk/cartopy/docs/latest/) <!-- url:https://github.com/SciTools/cartopy sg:543 -->
 - [![](assets/fecon235.png)fecon235](https://github.com/rsvp/fecon235) <!-- url:https://github.com/rsvp/fecon235 sg:503 -->
