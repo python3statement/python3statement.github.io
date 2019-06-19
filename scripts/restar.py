@@ -43,7 +43,12 @@ with open('_sections/30-projects.md','w') as f:
             #     if m[1] == m[0]:
             #         f.write(llll + f" <!-- sg:{info['stargazers_count']} -->\n")
             #         continue
-            f.write(llll + f" <!-- url:https://github.com/{org}/{repo} sg:{info['stargazers_count']} -->\n")
+            count = info.get('stargazers_count', None)
+            if count:
+                f.write(llll + f" <!-- url:https://github.com/{org}/{repo} sg:{count} -->\n")
+            else:
+                print('skip', m, info)
+                f.write(line+'\n')
         else:
             f.write(line+'\n')
                     
