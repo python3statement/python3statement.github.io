@@ -32,6 +32,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/scipyshiny_small.png)SciPy](https://www.scipy.org/) <!-- url:https://github.com/scipy/scipy sg:5942 -->
 - [![](assets/sympy.png)SymPy](https://www.sympy.org/) <!-- url:https://github.com/sympy/sympy sg:5941 -->
 - [![](assets/jupyter.png)Jupyter notebook](https://jupyter.org) <!-- url:https://github.com/jupyter/notebook sg:5920 -->
+- [![](assets/dask.svg)Dask](https://www.dask.org) <!-- url:https://github.com/dask/dask sg:5123 -->
 - [![](assets/spyder.png)Spyder](https://www.spyder-ide.org) <!-- url:https://github.com/spyder-ide/spyder sg:4497 -->
 - [![](assets/pytest1.png)pytest](https://docs.pytest.org/en/latest) <!-- url:https://github.com/pytest-dev/pytest sg:4328 -->
 - [![](assets/tensorpack.png)Tensorpack](https://github.com/tensorpack/tensorpack) <!-- url:https://github.com/tensorpack/tensorpack sg:4289 -->
