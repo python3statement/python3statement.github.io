@@ -309,6 +309,10 @@ $(document).ready(function (){
       {content: '2.x', start: '2018-02-14', end: '2019-12-31', py2:true},
       {content: '3.x', start: '2019-11-05', end: '2023-12-31', py2:false},
     ]
+    'Dask': [
+      {content: '1', start: '2014-12-21', end: '2019-07-01', py2:true},
+      {content: '2', start: '2019-11-30', end: '2024-11-30', py2:false},
+    ],
 
     // for tests, rando example
     //'matplotlib':[
@@ -330,7 +334,7 @@ $(document).ready(function (){
   var ordered = {};
   Object.keys(data).sort(function (a, b) {
 	  if (a == 'CPython') return -1;
-	  if (b == 'CPython') return 1; 
+	  if (b == 'CPython') return 1;
 	  return a.toLowerCase().localeCompare(b.toLowerCase());
       }).forEach(function(key) { ordered[key] = data[key] });
   data = ordered;
