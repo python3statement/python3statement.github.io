@@ -129,7 +129,7 @@ version specifier.
 
 [Warehouse](https://github.com/pypi/warehouse) and [Legacy
 PyPI](https://github.com/pypa/legacy-pypi) have received various patches to
-insure they support this new functionality.
+ensure they support this new functionality.
 
 # Preparing your library
 
@@ -343,7 +343,7 @@ this approach is _doable_ this can make imports confusing.
 ## Depend on setuptools
 
 You can mark your library as dependent on setuptools greater than 24.3 as this
-will insure that during the next upgrade (when the packages drop python 2
+will ensure that during the next upgrade (when the packages drop python 2
 support) will have the right version of setuptools.
 
 Of course regardless of all the care you will take for your library to no break
