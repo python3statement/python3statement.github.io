@@ -76,6 +76,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/yt.png)yt](https://yt-project.org/) <!-- url:https://github.com/yt-project/yt sg:192 -->
 - [![](assets/quadpy.png)quadpy](https://github.com/nschloe/quadpy/) <!-- url:https://github.com/nschloe/quadpy sg:181 -->
 - [![](assets/pyscipopt.png)PySCIPOpt](https://github.com/SCIP-Interfaces/PySCIPOpt) <!-- url:https://github.com/SCIP-Interfaces/PySCIPOpt sg:169 -->
+- [![](assets/betterbib.png)betterbib](https://github.com/nschloe/betterbib)
 - [![](assets/openquake.png)OpenQuake engine](https://github.com/gem/oq-engine) <!-- url:https://github.com/gem/oq-engine sg:143 -->
 - [![](assets/pymeasure.png)PyMeasure](https://github.com/ralph-group/pymeasure) <!-- url:https://github.com/ralph-group/pymeasure sg:126 -->
 - [![](https://urduhack.readthedocs.io/en/stable/_static/urduhack.png)Urduhack](https://github.com/urduhack/urduhack) <!-- url:https://github.com/urduhack/urduhack sg:122 -->
