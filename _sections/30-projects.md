@@ -55,6 +55,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/tryton.png)Tryton](https://www.tryton.org/) <!--  no GitHub org, making up a stargazer count sg:950  -->
 - [![](assets/mne.png)MNE](https://www.martinos.org/mne/stable/index.html) <!-- url:https://github.com/mne-tools/mne-python sg:873 -->
 - [![](assets/art_logo.png)Adversarial Robustness Toolbox](https://github.com/IBM/adversarial-robustness-toolbox) <!-- url:https://github.com/IBM/adversarial-robustness-toolbox sg:793 -->
+- [![](assets/tikzplotlib.png)tikzplotlib](https://github.com/nschloe/tikzplotlib)
 - [![](assets/pystan.png)PyStan](https://github.com/stan-dev/pystan) <!-- url:https://github.com/stan-dev/pystan sg:678 -->
 - [![](assets/rdkit.png)RDKit](https://github.com/rdkit/rdkit) <!-- url:https://github.com/rdkit/rdkit sg:618 -->
 - [![](assets/swcarpentry.png)Software Carpentry](https://software-carpentry.org)  <!--  sg:600  -->
