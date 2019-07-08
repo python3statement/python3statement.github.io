@@ -195,8 +195,8 @@ $(document).ready(function (){
       {content: '4.0 LTS', start: '2019-11-30', end: '2021-12-01'},
     ],
     'Sphinx':[
-      {content: '0.1 - 1.0 (Py2)', start: '2008-03-22', end:'2019-03-10', py2:true},
-      {content: '1.1 - 1.8 (Py2,Py3)', start: '2011-10-10', end:'2019-03-10', py2:true},
+      {content: '0.1 - 1.0 (Py2)', start: '2008-03-22', end:'2011-10-09', py2:true},
+      {content: '1.1 - 1.8 (Py2,Py3)', start: '2011-10-10', end:'2019-03-28', py2:true},
       {content: '2.0 - (Py3)', start: '2019-03-29', end:'2023-12-31'},
     ],
     'geopy':[
