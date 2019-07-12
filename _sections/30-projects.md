@@ -85,6 +85,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/chaquopy.png)Chaquopy](https://chaquo.com/chaquopy/)
 - [![](assets/angr.png)angr](http://angr.io/)
 - [![](assets/biobuilds.png)BioBuilds](https://www.biobuilds.org/)
+- [![](assets/orthopy.png)orthopy](https://github.com/nschloe/orthopy)
 - [![](assets/freud.png)freud](https://github.com/glotzerlab/freud) <!-- url:https://github.com/glotzerlab/freud sg:21 -->
 - [![](assets/signac.png)signac](https://signac.io)
 - [![](assets/manticore.png)Manticore](https://github.com/trailofbits/manticore) <!-- url:https://github.com/trailofbits/manticore sg:1649 -->
