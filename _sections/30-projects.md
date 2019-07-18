@@ -50,6 +50,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/fonttools.png)FontTools](https://github.com/fonttools/fonttools) <!-- url:https://github.com/fonttools/fonttools sg:1769 -->
 - [![](assets/nikola.png)Nikola](https://getnikola.com) <!-- url:https://github.com/getnikola/nikola sg:1722 -->
 - [![](assets/xarray.png)xarray](https://xarray.pydata.org/) <!-- url:https://github.com/pydata/xarray sg:1271 -->
+- [![](assets/gluonnlp.png)GluonNLP](https://gluon-nlp.mxnet.io/) <!-- url:https://github.com/dmlc/gluon-nlp sg:1641 -->
 - [![](assets/pythran.png)Pythran](https://github.com/serge-sans-paille/pythran) <!-- url:https://github.com/serge-sans-paille/pythran sg:1093 -->
 - [![](assets/dateutil.png)dateutil](https://github.com/dateutil/dateutil) <!-- url:https://github.com/dateutil/dateutil sg:1001 -->
 - [![](//cherrypy.org/images/cherrypy.png)CherryPy](https://cherrypy.org/) <!-- url:https://github.com/cherrypy/cherrypy sg:991 -->
