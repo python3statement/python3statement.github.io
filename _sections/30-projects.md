@@ -18,6 +18,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/apache_spark.png)Apache Spark](https://spark.apache.org/) <!-- url:https://github.com/apache/spark sg:22305 -->
 - [![](assets/pandas.png)pandas](https://pandas.pydata.org/) <!-- url:https://github.com/pandas-dev/pandas sg:19989 -->
 - [![](assets/tornado.png)Tornado](http://www.tornadoweb.org/) <!-- url:https://github.com/tornadoweb/tornado sg:17904 -->
+- [![](assets/mxnet.png)Apache MXNet (Incubating)](http://mxnet.apache.org/) <!-- url:https://github.com/apache/incubator-mxnet sg:17386 -->
 - [![](assets/xgboost.png)XGBoost](https://xgboost.ai/) <!-- url:https://github.com/dmlc/xgboost sg:16349 -->
 - [![](assets/mitmproxy.png)mitmproxy](https://mitmproxy.org/) <!-- url:https://github.com/mitmproxy/mitmproxy sg:15351 -->
 - [![](assets/ipython.png)IPython](https://ipython.org)  <!-- url:https://github.com/ipython/ipython sg:13633 -->
