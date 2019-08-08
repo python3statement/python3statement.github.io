@@ -116,6 +116,7 @@ for some that aren't directly comparable. -->
 - [music21](http://web.mit.edu/music21/)
 - [imageio](https://imageio.github.io)
 - [An Introduction to Applied Bioinformatics](http://readiab.org)
+- [pyfakefs](https://github.com/jmcgeheeiv/pyfakefs) <!-- url:https://github.com/jmcgeheeiv/pyfakefs sg:268 -->
 - [pvlib-python](https://github.com/pvlib/pvlib-python) <!-- url:https://github.com/pvlib/pvlib-python sg:261 -->
 - [QIIME](http://qiime.org)
 - [Py-ART](https://arm-doe.github.io/pyart/)
