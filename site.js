@@ -203,6 +203,11 @@ $(document).ready(function (){
       {content: '1.x', start: '2014-09-07', end:'2019-04-01', py2:true},
       {content: '2.x', start: '2019-04-01', end:'2023-12-31'},
     ],
+    'Weblate':[
+      {content: '0.1 - 2.4 (Py2)', start: '2008-03-22', end:'2016-03-10', py2:true},
+      {content: '2.5 - 3.11 (Py2,Py3)', start: '2016-03-10', end:'2020-04-01', py2:true},
+      {content: '4.0 - (Py3)', start: '2020-04-01', end:'2023-12-31'},
+    ],
     'Tryton':[
       {content: '4.0', start: '2016-05-02', end: '2018-10-01', py2:true},
       {content: '4.2', start: '2016-11-28', end: '2019-05-01', py2:true},
