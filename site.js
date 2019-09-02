@@ -319,6 +319,10 @@ $(document).ready(function (){
       {content: '2.x', start: '2018-02-14', end: '2019-12-31', py2:true},
       {content: '3.x', start: '2019-11-05', end: '2023-12-31', py2:false},
     ],
+    'ESMValTool': [
+      {content: '2.x', start: '2017-09-14', end: '2019-03-07', py2:true},
+      {content: '2.x', start: '2019-03-07', end: '2023-12-31', py2:false},
+    ],
     'Dask': [
       {content: '1', start: '2014-12-21', end: '2019-07-01', py2:true},
       {content: '2', start: '2019-11-30', end: '2024-11-30', py2:false},
