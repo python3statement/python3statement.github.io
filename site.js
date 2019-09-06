@@ -326,6 +326,12 @@ $(document).ready(function (){
     'Dask': [
       {content: '1', start: '2014-12-21', end: '2019-07-01', py2:true},
       {content: '2', start: '2019-11-30', end: '2024-11-30', py2:false},
+    ],
+    'Cylc': [
+      {content: 'cylc-3.0.x - cylc-7.8.x', start: '2011-05-26', end: '2020-06-30', py2:true},
+      {content: '8-&alpha;', start: '2019-12-01', end: '2020-12-31', py2:false},
+      {content: '8.x', start: '2020-06-30', end: '2021-12-31', py2:false},
+      {content: '9.x', start: '2021-06-30', end: '2022-12-31', py2:false},
     ]
 
     // for tests, rando example
