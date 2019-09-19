@@ -92,6 +92,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/osbrain.png)osBrain](https://github.com/opensistemas-hub/osbrain) <!-- url:https://github.com/opensistemas-hub/osbrain sg:117 -->
 - [![](assets/cylc.png)Cylc Workflow](https://cylc.github.io/)  <!-- url:https://github.com/cylc/cylc-flow sg:100 -->
 - [![](assets/fenics.png)FEniCS](https://fenicsproject.org/)  <!-- url:https://github.com/FEniCS/dolfin sg:77 -->
+- [![](assets/gssapi.png)GSSAPI](https://github.com/pythongssapi/)  <!-- url:https://github.com/pythongssapi/python-gssapi sg:49 -->
 - [![](assets/colorio.png)colorio](https://github.com/nschloe/colorio)
 - [![](assets/tatsu.png)TatSu](https://tatsu.readthedocs.io/)
 - [![](assets/chaquopy.png)Chaquopy](https://chaquo.com/chaquopy/)
