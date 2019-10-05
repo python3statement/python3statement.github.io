@@ -42,6 +42,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](https://cython.org/logo/cython-logo-C.svg)Cython](https://cython.org/) <!-- url:https://github.com/cython/cython sg:4162 -->
 - [![](assets/marshmallow.png)marshmallow](https://github.com/marshmallow-code/marshmallow) <!-- url:https://github.com/marshmallow-code/marshmallow sg:3686 -->
 - [![](assets/hypothesis.png)Hypothesis](https://hypothesis.readthedocs.io/) <!-- url:https://github.com/HypothesisWorks/hypothesis sg:3531 -->
+- [![](assets/apache_beam.png)Apache Beam](https://beam.apache.org/) <!-- url:https://github.com/apache/beam sg:3379 -->
 - [![](assets/xonsh.png)xonsh](http://xon.sh) <!-- url:https://github.com/xonsh/xonsh sg:3302 -->
 - [![](assets/scikit-image.png)Scikit Image](http://scikit-image.org/) <!-- url:https://github.com/scikit-image/scikit-image sg:3069 -->
 - [![](assets/sphinx-doc.png)Sphinx](https://www.sphinx-doc.org/) <!-- url:https://github.com/sphinx-doc/sphinx sg:2681 -->
