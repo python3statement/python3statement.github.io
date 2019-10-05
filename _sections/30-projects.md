@@ -142,6 +142,7 @@ for some that aren't directly comparable. -->
 - [jenkinsflow](https://github.com/lhupfeldt/jenkinsflow) <!-- url:https://github.com/lhupfeldt/jenkinsflow sg:10 -->
 - [multiconf](https://github.com/lhupfeldt/multiconf) <!-- url:https://github.com/lhupfeldt/multiconf sg:5 -->
 - [pyApp](https://github.com/timsavage/pyapp) <!-- url:https://github.com/timsavage/pyapp sg:1 -->
+- [python-daemon](https://pagure.io/python-daemon/) <!-- url:https://pagure.io/python-daemon/ -->
 
 <!-- Adding a new project without a logo? They're roughly sorted by Github stars.
 Try to insert yours in order. We use judgment for projects not on Github, and
