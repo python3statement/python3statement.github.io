@@ -120,6 +120,7 @@ for some that aren't directly comparable. -->
 - [hdbscan](https://github.com/scikit-learn-contrib/hdbscan) <!-- url:https://github.com/scikit-learn-contrib/hdbscan sg:1300 -->
 - [h5py](https://github.com/h5py/h5py/) <!-- url:https://github.com/h5py/h5py/ sg:1181 -->
 - [python-chess](https://github.com/niklasf/python-chess) <!-- url:https://github.com/niklasf/python-chess sg:791 -->
+- [awslimitchecker](https://github.com/jantman/awslimitchecker) <!-- url:https://github.com/jantman/awslimitchecker sg:308 -->
 - [Altair](https://github.com/ellisonbg/altair) <!-- url:https://github.com/ellisonbg/altair sg:236 -->
 - [music21](http://web.mit.edu/music21/)
 - [imageio](https://imageio.github.io)
