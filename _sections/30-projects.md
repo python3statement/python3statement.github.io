@@ -119,6 +119,7 @@ for some that aren't directly comparable. -->
 - [umap-learn](https://github.com/lmcinnes/umap) <!-- url:https://github.com/lmcinnes/umap sg:2925 -->
 - [hdbscan](https://github.com/scikit-learn-contrib/hdbscan) <!-- url:https://github.com/scikit-learn-contrib/hdbscan sg:1300 -->
 - [h5py](https://github.com/h5py/h5py/) <!-- url:https://github.com/h5py/h5py/ sg:1181 -->
+- [python-gitlab](https://github.com/python-gitlab/python-gitlab) <!-- url:https://github.com/python-gitlab/python-gitlab sg:1016 -->
 - [python-chess](https://github.com/niklasf/python-chess) <!-- url:https://github.com/niklasf/python-chess sg:791 -->
 - [awslimitchecker](https://github.com/jantman/awslimitchecker) <!-- url:https://github.com/jantman/awslimitchecker sg:308 -->
 - [Altair](https://github.com/ellisonbg/altair) <!-- url:https://github.com/ellisonbg/altair sg:236 -->
