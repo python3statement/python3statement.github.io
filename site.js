@@ -332,8 +332,11 @@ $(document).ready(function (){
       {content: '8-&alpha;', start: '2019-12-01', end: '2020-12-31', py2:false},
       {content: '8.x', start: '2020-06-30', end: '2021-12-31', py2:false},
       {content: '9.x', start: '2021-06-30', end: '2022-12-31', py2:false},
+    ],
+    'Neural Network Libraries': [
+      { content:'Python 2 & 3', start: '2017-07-22', end: '2019-12-31', py2:true},
+      { content:'Python 3 only', start: '2020-01-01', end: '2023-12-31', py2:false},
     ]
-
 
     // for tests, rando example
     //'matplotlib':[
@@ -344,7 +347,6 @@ $(document).ready(function (){
     //  {content: '0.18', start: '2016-05-01', end:'2016-11-01', py2:true},
     //  {content: '0.19', start: '2016-11-02', end:'2017-12-01'},
     //]
-
 
   }
 
