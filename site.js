@@ -149,6 +149,16 @@ $(document).ready(function (){
       {content: 'Python 2 & 3', start: '2013-03-15', end:'2019-12-31', py2:true},
       {content: 'Python 3 only', start: '2020-01-01', end:'2023-12-31'},
     ],
+    'PyInstaller':[
+      {content: 'Python 2.7', start: '2011-05-05', end:'2019-12-31', py2:true},
+      {content: 'Python 3.3', start: '2015-10-04', end:'2018-09-09'},
+      {content: 'Python 3.4', start: '2015-10-04', end:'2019-07-09'},
+      // EOL for Python 3.5 - 3.7 not announced yet; project 5 years
+      // from initial release to follow CPython policy.
+      {content: 'Python 3.5', start: '2015-10-04', end:'2020-09-30'},
+      {content: 'Python 3.6', start: '2017-09-21', end:'2021-12-31'},
+      {content: 'Python 3.7', start: '2018-09-09', end:'2023-06-30'},
+    ],
     'Scipy':[
       {content: 'Py 2 & 3 full', start: '2010-08-31', end:'2018-12-31', py2:true},
       {content: 'Py 2 bug fix', start: '2019-01-01', end:'2019-12-31', py2:true},
