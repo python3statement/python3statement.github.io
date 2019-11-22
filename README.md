@@ -23,6 +23,8 @@ markdown so feel free to just list your project name or add a link, and make a
 pull request. You should even be able to [edit it
 online](https://github.com/python3statement/python3statement.github.io/edit/master/_sections/30-projects.md).
 
+There is no need to install Jekyll: A check creating a preview will be run on your pull request. Please check this preview.
+
 ## Add timeline information
 
 The front page also has a timeline chart, with past release dates and future
