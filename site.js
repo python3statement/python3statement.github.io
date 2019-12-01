@@ -209,6 +209,10 @@ $(document).ready(function (){
       {content: '1.1 - 1.8 (Py2,Py3)', start: '2011-10-10', end:'2019-03-28', py2:true},
       {content: '2.0 - (Py3)', start: '2019-03-29', end:'2023-12-31'},
     ],
+    'Apache Libcloud':[
+      {content: 'Python 2 & 3', start: '2011-12-09', end:'2020-01-01', py2:true},
+      {content: 'Python 3 only', start: '2020-01-01', end:'2023-12-31'},
+    ],
     'geopy':[
       {content: '1.x', start: '2014-09-07', end:'2019-04-01', py2:true},
       {content: '2.x', start: '2019-04-01', end:'2023-12-31'},
