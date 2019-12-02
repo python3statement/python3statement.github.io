@@ -47,7 +47,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/scikit-image.png)Scikit Image](http://scikit-image.org/) <!-- url:https://github.com/scikit-image/scikit-image sg:3069 -->
 - [![](assets/sphinx-doc.png)Sphinx](https://www.sphinx-doc.org/) <!-- url:https://github.com/sphinx-doc/sphinx sg:2681 -->
 - [![](assets/geopy.png)geopy](https://geopy.readthedocs.io/) <!-- url:https://github.com/geopy/geopy sg:2476 -->
-- [![](https://nnabla.org/logos/logo3.png)Neural Network Libraries](https://nnabla.org/)
+- [![](https://nnabla.org/logos/logo3.png)Neural Network Libraries](https://nnabla.org/) <!-- url:https://github.com/sony/nnabla sg:2278 -->
 - [![](assets/misp.png)MISP](https://github.com/MISP/MISP) <!-- url:https://github.com/MISP/MISP sg:2157 -->
 - [![](assets/astropy.png)Astropy](https://www.astropy.org/) <!-- url:https://github.com/astropy/astropy sg:2102 -->
 - [![](assets/biopython.png)Biopython](https://biopython.org/) <!-- url:https://github.com/biopython/biopython sg:1804 -->
