@@ -13,7 +13,6 @@ These projects pledge to drop Python 2 support in or before 2020.
 <!-- sg:... is the automatically generated stargazer count add url: to auto compute the stargazer count if your homepage is not a github repository -->
 
 - [![](assets/tensorflow.png)TensorFlow](https://www.tensorflow.org/) <!-- url:https://github.com/tensorflow/tensorflow sg:129626 -->
-- [![](assets/requests.png)Requests](https://github.com/psf/requests) <!-- url:https://github.com/psf/requests sg:39030 -->
 - [![](assets/scikit-learn.png)scikit-learn](https://scikit-learn.org/) <!-- url:https://github.com/scikit-learn/scikit-learn sg:35701 -->
 - [![](assets/pytorch.png)PyTorch](https://pytorch.org/) <!-- url:https://github.com/pytorch/pytorch sg:31795 -->
 - [![](assets/apache_spark.png)Apache Spark](https://spark.apache.org/) <!-- url:https://github.com/apache/spark sg:22305 -->
