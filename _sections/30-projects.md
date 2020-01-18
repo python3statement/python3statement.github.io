@@ -14,7 +14,6 @@ These projects pledge to drop Python 2 support in or before 2020.
 
 - [![](assets/tensorflow.png)TensorFlow](https://www.tensorflow.org/) <!-- url:https://github.com/tensorflow/tensorflow sg:129626 -->
 - [![](assets/django.svg)Django](https://github.com/django/django) <!-- url:https://github.com/django/django sg:46044 -->
-- [![](assets/requests.png)Requests](https://github.com/psf/requests) <!-- url:https://github.com/psf/requests sg:39030 -->
 - [![](assets/scikit-learn.png)scikit-learn](https://scikit-learn.org/) <!-- url:https://github.com/scikit-learn/scikit-learn sg:35701 -->
 - [![](assets/pytorch.png)PyTorch](https://pytorch.org/) <!-- url:https://github.com/pytorch/pytorch sg:31795 -->
 - [![](assets/apache_spark.png)Apache Spark](https://spark.apache.org/) <!-- url:https://github.com/apache/spark sg:22305 -->
@@ -77,6 +76,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/fecon235.png)fecon235](https://github.com/rsvp/fecon235) <!-- url:https://github.com/rsvp/fecon235 sg:503 -->
 - [![](assets/skbio.png)scikit-bio](http://scikit-bio.org) <!-- url:https://github.com/biocore/scikit-bio sg:482 -->
 - [![](assets/metpy.png)MetPy](https://unidata.github.io/MetPy) <!-- url:https://github.com/Unidata/MetPy sg:444 -->
+- [![](assets/bottleneck.png)Bottleneck](https://bottleneck.readthedocs.io/) <!-- url:https://github.com/pydata/bottleneck sg:442 -->
 - [![](assets/sunpy.png)SunPy](https://sunpy.org/) <!-- url:https://github.com/sunpy/sunpy sg:436 -->
 - [![](assets/nengo.png)Nengo](https://www.nengo.ai/) <!-- url:https://github.com/nengo/nengo sg:420 -->
 - [![](assets/axelrod.png)Axelrod](https://github.com/Axelrod-Python/Axelrod) <!-- url:https://github.com/Axelrod-Python/Axelrod sg:398 -->
