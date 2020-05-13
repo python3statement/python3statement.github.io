@@ -39,6 +39,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/spyder.png)Spyder](https://www.spyder-ide.org) <!-- url:https://github.com/spyder-ide/spyder sg:4497 -->
 - [![](assets/pytest1.png)pytest](https://docs.pytest.org/en/latest) <!-- url:https://github.com/pytest-dev/pytest sg:4328 -->
 - [![](assets/tensorpack.png)Tensorpack](https://github.com/tensorpack/tensorpack) <!-- url:https://github.com/tensorpack/tensorpack sg:4289 -->
+- [![](assets/statsmodels.svg)statsmodels](https://www.statsmodels.org/stable) <!-- url:https://github.com/statsmodels/statsmodels sg:5079 -->
 - [![](assets/pymc3.png)PyMC3](https://github.com/pymc-devs/pymc3) <!-- url:https://github.com/pymc-devs/pymc3 sg:4268 -->
 - [![](https://cython.org/logo/cython-logo-C.svg)Cython](https://cython.org/) <!-- url:https://github.com/cython/cython sg:4162 -->
 - [![](assets/marshmallow.png)marshmallow](https://github.com/marshmallow-code/marshmallow) <!-- url:https://github.com/marshmallow-code/marshmallow sg:3686 -->
