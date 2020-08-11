@@ -112,6 +112,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/platon.png)PLATON](https://github.com/ideasrule/platon) <!-- url:https://github.com/ideasrule/platon sg:5 -->
 - [![](https://raw.githubusercontent.com/GeoStat-Framework/GSTools/master/docs/source/pics/gstools.png)GSTools](https://github.com/GeoStat-Framework/GSTools) <!-- url:https://github.com/GeoStat-Framework/GSTools sg:38 -->
 - [![](assets/cantor.png)Cantor](https://cantor.kde.org)
+- [![](assets/docraptor.svg)DocRaptor](https://docraptor.com) <!-- url:https://github.com/DocRaptor/docraptor-python sg:12 -->
 
 <!-- Adding a new project with a logo? They're roughly sorted by GitHub stars.
 Try to insert yours in order. We use judgment for projects not on GiHhub, and
