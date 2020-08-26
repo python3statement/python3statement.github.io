@@ -11,7 +11,6 @@ is mostly written with the assumption that software are going to stop Python 2
 support, it does perfectly apply to a package that wishes to not support Python 3,
 or is stopping support for any minor version. 
 
-
 This page gathers information and links to resources allowing a library
 to stop supporting an older version of Python without causing too
 much disruption for users who haven't upgraded to this new version.
@@ -313,7 +312,17 @@ You can look at the [full
 check](https://github.com/ipython/ipython/blob/6a3e2db0c299dc05e636653c4a43d0aa756fb1c8/setup.py#L23-L58)
 that attempt to detect which version of pip is in used.
 
-## Upload with Twine. 
+## If your users absolutely need Py2.7 but you want to move on
+
+If you have users that still depend on Python 2.7 and you cannot drop support yet, 
+it may nonetheless be possible to start using Python 3 in your codebase. T
+hrough automatic conversion using [lib3to6](https://pypi.org/project/lib3to6/) 
+(similar to BabelJS for JavaScript) 
+you can generate distribution files that will work on both Python2 and Python3.
+Lib3to6 is also useful if your project needs to support older versions of Python3
+such as 3.5 but you want to use the latest Python syntax.
+
+## Upload with Twine
 
 You _must_ upload your package with ``twine`` and NOT with ``setup.py upload``.
 If you have an old version of setuptools or ``distutils``, even if
@@ -332,7 +341,7 @@ and that you will hear about. This is an attempt to acknowledge them, and
 explain why they can't work and what are their drawbacks before you attempt to
 implement them.
 
-### Use a meta-package
+### Don't use a meta-package
 
 It is possible to release a meta-package that has _virtually_ no code and relies
 on a conditional dependency to install its actual core code on the user system.
@@ -340,13 +349,13 @@ For example, Frob-6.0 could be a meta-package which depends on
 Frob-real-py2 on Python < 3.0, and Frob-real-py3 on Python ≥ 3.4. While
 this approach is _doable_ this can make imports confusing.
 
-## Depend on setuptools
+## Don't depend on setuptools
 
 You can mark your library as dependent on setuptools greater than 24.3 as this
 will ensure that during the next upgrade (when the packages drop python 2
 support) will have the right version of setuptools.
 
-Of course regardless of all the care you will take for your library to no break
+Of course regardless of all the care you will take for your library to not break
 and to install only on python 2, you will likely have cases where it will still
 end up being installed on incompatible versions of Python. Simply because users
 upgrade rarely and only an old version of pip or setuptools is enough to make
@@ -355,8 +364,7 @@ the update process broken.
 Plus setuptools is rarely an actual dependency of your project but a
 requirement to build wheels.
 
-
-### Multiple sdist files
+### Don't write multiple sdist files
 
 Pip (used to) support a "feature" where a sdist ending in `-pyX.Y.tar.gz` would
 only be seen as compatible on Python X.Y, thus it used to be possible to
@@ -365,7 +373,7 @@ publish multiple sdist of a package targeting various python version.
 It is not possible anymore to upload multiple sdist files on PyPI, so this
 solution is no longer tenable.
 
-### Wheel only?
+### Don't release wheel only
 
 Releasing a package only using wheels for a given python version is doable, but
 this will break downstream packages that may require the original source to
@@ -373,8 +381,8 @@ reproduce their build.
 
 # Why all *this*?!?
 
-You might wonder why all this, it's 2018 already, so how come this is still an 
-issue? Python 3 has been out for 9+ years now!
+You might wonder why all this, it's 2020 already, so how come this is still an 
+issue? Python 3 has been out for 11+ years now!
 
 Well there are many reasons for this. First of all, this issue mostly affects
 libraries that are currently python 2 and Python 3 compatible at the same time.
@@ -390,10 +398,10 @@ minor versions of Python 3 that saw a majority of single-source projects working
 both on Python 2 and Python 3. These are the projects that will likely be
 affected by this issue.
 
-The introduction of Python 3 was chaotic; there are still strong arguments in both
+The introduction of Python 3 was chaotic; there were strong arguments in both
 the Python 2 and Python 3 camps. Regardless of what side you take, the ones suffering
-the most from this are users (starting with the fact that inevitably some libraries
-will stop supporting for Python 2 and release Python 3 only library). Inevitably, some
+the most from this are users (starting with the fact that some libraries
+have stopped supporting for Python 2 and released Python 3 only versions). Inevitably, some
 systems and people will not be upgraded to Python 3, so this document hopefully
 helps to _ensure_ that users get the _least_ breakage as possible and what are the best
 practices are to follow.
