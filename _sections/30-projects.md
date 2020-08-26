@@ -113,6 +113,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](https://raw.githubusercontent.com/GeoStat-Framework/GSTools/master/docs/source/pics/gstools.png)GSTools](https://github.com/GeoStat-Framework/GSTools) <!-- url:https://github.com/GeoStat-Framework/GSTools sg:38 -->
 - [![](assets/cantor.png)Cantor](https://cantor.kde.org)
 - [![](assets/docraptor.svg)DocRaptor](https://docraptor.com) <!-- url:https://github.com/DocRaptor/docraptor-python sg:12 -->
+- [![](assets/lib3to6.png)lib3to6](https://github.com/mbarkhau/lib3to6) <!-- url:https://github.com/mbarkhau/lib3to6 sg:4 -->
 
 <!-- Adding a new project with a logo? They're roughly sorted by GitHub stars.
 Try to insert yours in order. We use judgment for projects not on GiHhub, and

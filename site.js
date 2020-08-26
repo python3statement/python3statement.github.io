@@ -350,6 +350,9 @@ $(document).ready(function (){
     'Neural Network Libraries': [
       { content:'Python 2 & 3', start: '2017-07-22', end: '2019-12-31', py2:true},
       { content:'Python 3 only', start: '2020-01-01', end: '2023-12-31', py2:false},
+    ],
+    'lib3to6': [
+      { content:'Python 3 only', start: '2018-09-01', end: '2023-12-31', py2:false},
     ]
 
     // for tests, rando example
