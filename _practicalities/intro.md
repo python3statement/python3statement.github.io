@@ -315,11 +315,11 @@ that attempt to detect which version of pip is in used.
 ## If your users absolutely need Py2.7 but you want to move on
 
 If you have users that still depend on Python 2.7 and you cannot drop support yet, 
-it may nonetheless be possible to start using Python 3 in your codebase. T
-hrough automatic conversion using [lib3to6](https://pypi.org/project/lib3to6/) 
-(similar to BabelJS for JavaScript) 
-you can generate distribution files that will work on both Python2 and Python3.
-Lib3to6 is also useful if your project needs to support older versions of Python3
+it may nonetheless be possible to start using Python 3 in your codebase.
+Through automatic conversion using [lib3to6](https://pypi.org/project/lib3to6/) 
+(similar to Babel for JavaScript) 
+you can generate distribution files that will work on both Python 2 and Python 3.
+Lib3to6 is also useful if your project needs to support older versions of Python 3
 such as 3.5 but you want to use the latest Python syntax.
 
 ## Upload with Twine
@@ -349,7 +349,7 @@ For example, Frob-6.0 could be a meta-package which depends on
 Frob-real-py2 on Python < 3.0, and Frob-real-py3 on Python ≥ 3.4. While
 this approach is _doable_ this can make imports confusing.
 
-## Don't depend on setuptools
+## Don't depend on setuptools (unless version >=24.3)
 
 You can mark your library as dependent on setuptools greater than 24.3 as this
 will ensure that during the next upgrade (when the packages drop python 2
