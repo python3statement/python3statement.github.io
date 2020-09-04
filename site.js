@@ -357,7 +357,7 @@ $(document).ready(function (){
     'Connectome Mapper 3':[
       {content: 'v3.0.0-beta-x beta series (Py2 only)', start: '2019-04-24', end:'2020-08-24', py2:true},
       {content: 'v3.x.y[-RCz] releases and release candidates (Py3 only)', start: '2020-08-24', end:'2023-12-31'},
-    ],
+    ]
 
     // for tests, rando example
     //'matplotlib':[
