@@ -355,8 +355,8 @@ $(document).ready(function (){
       { content:'Python 3 only', start: '2018-09-01', end: '2023-12-31', py2:false},
     ],
     'Connectome Mapper 3':[
-      {content: 'v3.0.0-beta-x beta series (Py2 only)', start: '2019-04-24', end:'2020-08-24', py2:true},
-      {content: 'v3.x.y[-RCz] releases and release candidates (Py3 only)', start: '2020-08-24', end:'2023-12-31'},
+      {content: 'v3.x beta series (Py2 only)', start: '2019-04-24', end:'2020-08-24', py2:true},
+      {content: 'v3.x series (Py3 only)', start: '2020-08-24', end:'2023-12-31'},
     ]
 
     // for tests, rando example
