@@ -1,9 +1,8 @@
 ---
 title: Projects
-bg: '#7ec4ea'
-fa-icon: group
-color: black
-style: center
+fa-icono:user
+de colores negros
+estilo: centro
 ---
 
 # Participating Projects
