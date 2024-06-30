@@ -61,7 +61,7 @@ These projects pledge to drop Python 2 support in or before 2020.
 - [![](assets/weblate.png)Weblate](https://weblate.org/) <!-- url:https://github.com/WeblateOrg/weblate/ sg:1504 -->
 - [![](assets/pythran.png)Pythran](https://github.com/serge-sans-paille/pythran) <!-- url:https://github.com/serge-sans-paille/pythran sg:1093 -->
 - [![](assets/dateutil.png)dateutil](https://github.com/dateutil/dateutil) <!-- url:https://github.com/dateutil/dateutil sg:1001 -->
-- [![](//cherrypy.org/images/cherrypy.png)CherryPy](https://cherrypy.org/) <!-- url:https://github.com/cherrypy/cherrypy sg:991 -->
+- [![](https://cherrypy.dev/images/cherrypy.png)CherryPy](https://cherrypy.dev) <!-- url:https://github.com/cherrypy/cherrypy sg:991 -->
 - [![](assets/tryton.png)Tryton](https://www.tryton.org/) <!--  no GitHub org, making up a stargazer count sg:950  -->
 - [![](assets/mne.png)MNE](https://www.martinos.org/mne/stable/index.html) <!-- url:https://github.com/mne-tools/mne-python sg:873 -->
 - [![](assets/art_logo.png)Adversarial Robustness Toolbox](https://github.com/IBM/adversarial-robustness-toolbox) <!-- url:https://github.com/IBM/adversarial-robustness-toolbox sg:793 -->
